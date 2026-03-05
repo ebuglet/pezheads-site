@@ -1,5 +1,0 @@
-# Remove the CGI handler for .cgi files
-RemoveHandler .cgi
-
-# Add the MIME type as HTML
-AddType text/html .cgi
