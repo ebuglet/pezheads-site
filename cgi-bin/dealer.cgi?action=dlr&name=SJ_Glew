@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 1/10/00</font></b></p>
+    </center>
+    <p><b>Name:</b> S J Glew<br>
+    <b>Email:</b> <a href="mailto:josh@sjglew.com">josh@sjglew.com</a><br>
+    <b>Address:</b> 5611 Lehman Rd.<br>
+    <b>City:</b> DeWitt<br>
+    <b>State:</b> MI<br>
+    <b>Zip:</b> 48820<br>
+    <b>Phone:</b> (517) 669-5931 FAX (517) 669-3581<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Visa & Mastercard accepted.<br>
+      http://www.sjglew.com<br>
+      visit site for pictures of everything and secure online shopping.<br>
+      Add a minimum of $4 for shipping.<br>
+      Dealer Price Lists Available Upon Request!!<br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=SJ_Glew">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

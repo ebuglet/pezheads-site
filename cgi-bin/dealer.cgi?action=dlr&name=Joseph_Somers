@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 7/13/00</font></b></p>
+    </center>
+    <p><b>Name:</b> SomersZoo, Joseph Somers<br>
+    <b>Email:</b> <a href="mailto:toys@somerszoo.com">toys@somerszoo.com</a><br>
+    <b>Address:</b> 3819 N. Lincoln Ave.<br>
+    <b>City:</b> Chicago<br>
+    <b>State:</b> IL<br>
+    <b>Zip:</b> 60613<br>
+    <b>Phone:</b> 773.832.9261 / fax 773.832.9262<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      <center>
+        New dispensers come in quick and go out fast, want list are always welcome.<br>
+        click on the icon to stop by the site and check out whats new!<br>
+        If your in Chicago Come on by the Store.<br>
+        I'm open W.T.F. 1-7 S&S 12-6<br>
+        <br>
+        NOW Accepting MC/VISA Call - Fax - email your order!<br>
+        <br>
+        www.somerszoo.com
+      </center><br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Joseph_Somers">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

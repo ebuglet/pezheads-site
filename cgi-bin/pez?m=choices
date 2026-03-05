@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <title>PezBodyChoices</title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#999999">
+  <center>
+    <form method="post" action="http://pezheads.org/cgi-bin/pez" target="pezbody">
+      <input type="hidden" value="display" name="m"> <select name="hd">
+        <option>
+          Choose Head
+        </option>
+        <option value="hd-AlpineBoy.jpg">
+          AlpineBoy
+        </option>
+        <option value="hd-Arlene.jpg">
+          Arlene
+        </option>
+        <option value="hd-Baloo.jpg">
+          Baloo
+        </option>
+        <option value="hd-BarneyBear.jpg">
+          BarneyBear
+        </option>
+        <option value="hd-BarneyRubble.jpg">
+          BarneyRubble
+        </option>
+        <option value="hd-Batman.jpg">
+          Batman
+        </option>
+        <option value="hd-BubbleBoy.jpg">
+          BubbleBoy
+        </option>
+        <option value="hd-CaptainHook.jpg">
+          CaptainHook
+        </option>
+        <option value="hd-CharlieBrown.jpg">
+          CharlieBrown
+        </option>
+        <option value="hd-ClownWhistle.jpg">
+          ClownWhistle
+        </option>
+        <option value="hd-Dalmation.jpg">
+          Dalmation
+        </option>
+        <option value="hd-DonaldDuck.jpg">
+          DonaldDuck
+        </option>
+        <option value="hd-DrSkull.jpg">
+          DrSkull
+        </option>
+        <option value="hd-DroopyDog.jpg">
+          DroopyDog
+        </option>
+        <option value="hd-FrogWhistle.jpg">
+          FrogWhistle
+        </option>
+        <option value="hd-Garfield.jpg">
+          Garfield
+        </option>
+        <option value="hd-Gonzo.jpg">
+          Gonzo
+        </option>
+        <option value="hd-GyroGearloose.jpg">
+          GyroGearloose
+        </option>
+        <option value="hd-IceeBear.jpg">
+          IceeBear
+        </option>
+        <option value="hd-IncredibleHulk.jpg">
+          IncredibleHulk
+        </option>
+        <option value="hd-Jerry.jpg">
+          Jerry
+        </option>
+        <option value="hd-Joker.jpg">
+          Joker
+        </option>
+        <option value="hd-Kermit.jpg">
+          Kermit
+        </option>
+        <option value="hd-Lamb.jpg">
+          Lamb
+        </option>
+        <option value="hd-LambWhistle.jpg">
+          LambWhistle
+        </option>
+        <option value="hd-LilBadWolf.jpg">
+          LilBadWolf
+        </option>
+        <option value="hd-Lucy.jpg">
+          Lucy
+        </option>
+        <option value="hd-Maharaja.jpg">
+          Maharaja
+        </option>
+        <option value="hd-MissPiggy.jpg">
+          MissPiggy
+        </option>
+        <option value="hd-Nermal.jpg">
+          Nermal
+        </option>
+        <option value="hd-NinjaTurtle.jpg">
+          NinjaTurtle
+        </option>
+        <option value="hd-PapaSmurf.jpg">
+          PapaSmurf
+        </option>
+        <option value="hd-Pebbles.jpg">
+          Pebbles
+        </option>
+        <option value="hd-Penguin.jpg">
+          Penguin
+        </option>
+        <option value="hd-PeterPez.jpg">
+          PeterPez
+        </option>
+        <option value="hd-PezBoy.jpg">
+          PezBoy
+        </option>
+        <option value="hd-PezGirl.jpg">
+          PezGirl
+        </option>
+        <option value="hd-Pilot.jpg">
+          Pilot
+        </option>
+        <option value="hd-Pirate.jpg">
+          Pirate
+        </option>
+        <option value="hd-PoliceMan.jpg">
+          PoliceMan
+        </option>
+        <option value="hd-PracticalPig.jpg">
+          PracticalPig
+        </option>
+        <option value="hd-Pumpkin.jpg">
+          Pumpkin
+        </option>
+        <option value="hd-SantaClaus.jpg">
+          SantaClaus
+        </option>
+        <option value="hd-ShellOil.jpg">
+          ShellOil
+        </option>
+        <option value="hd-Smurfette.jpg">
+          Smurfette
+        </option>
+        <option value="hd-SpiderMan.jpg">
+          SpiderMan
+        </option>
+        <option value="hd-Taz.jpg">
+          Taz
+        </option>
+        <option value="hd-Tweety.jpg">
+          Tweety
+        </option>
+        <option value="hd-Tyke.jpg">
+          Tyke
+        </option>
+        <option value="hd-WonderWoman.jpg">
+          WonderWoman
+        </option>
+        <option value="hd-Woodstock.jpg">
+          Woodstock
+        </option>
+      </select> <select name="bd">
+        <option>
+          Choose Body
+        </option>
+        <option value="bd-AlpineBoy.jpg">
+          AlpineBoy
+        </option>
+        <option value="bd-CavalryOfficer.jpg">
+          CavalryOfficer
+        </option>
+        <option value="bd-Caveman.jpg">
+          Caveman
+        </option>
+        <option value="bd-Convict.jpg">
+          Convict
+        </option>
+        <option value="bd-EasterBunny.jpg">
+          EasterBunny
+        </option>
+        <option value="bd-GrimReaper.jpg">
+          GrimReaper
+        </option>
+        <option value="bd-HockeyPlayer.jpg">
+          HockeyPlayer
+        </option>
+        <option value="bd-Knight.jpg">
+          Knight
+        </option>
+        <option value="bd-Nurse.jpg">
+          Nurse
+        </option>
+        <option value="bd-Pilot.jpg">
+          Pilot
+        </option>
+        <option value="bd-RobinHood.jpg">
+          RobinHood
+        </option>
+        <option value="bd-Robot.jpg">
+          Robot
+        </option>
+        <option value="bd-RomanGladiator.jpg">
+          RomanGladiator
+        </option>
+        <option value="bd-SantaClaus.jpg">
+          SantaClaus
+        </option>
+        <option value="bd-ShellOil.jpg">
+          ShellOil
+        </option>
+        <option value="bd-Tarzan.jpg">
+          Tarzan
+        </option>
+        <option value="bd-Waitress.jpg">
+          Waitress
+        </option>
+        <option value="bd-Woman.jpg">
+          Woman
+        </option>
+      </select> <select name="ft">
+        <option>
+          Choose Feet
+        </option>
+        <option value="ft-Blue.jpg">
+          Blue
+        </option>
+        <option value="ft-Brown.jpg">
+          Brown
+        </option>
+        <option value="ft-Gray.jpg">
+          Gray
+        </option>
+        <option value="ft-Green.jpg">
+          Green
+        </option>
+        <option value="ft-HotPink.jpg">
+          HotPink
+        </option>
+        <option value="ft-LightGreen.jpg">
+          LightGreen
+        </option>
+        <option value="ft-Orange.jpg">
+          Orange
+        </option>
+        <option value="ft-Pink.jpg">
+          Pink
+        </option>
+        <option value="ft-Purple.jpg">
+          Purple
+        </option>
+        <option value="ft-Red.jpg">
+          Red
+        </option>
+        <option value="ft-Yellow.jpg">
+          Yellow
+        </option>
+      </select><br>
+      <input type="submit" value="SHOW ME"><br>
+      <font size="1">(Leave as "Choose *" for random)</font><br>
+    </form>
+  </center>
+</body>
+</html>

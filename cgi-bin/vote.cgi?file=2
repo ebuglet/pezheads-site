@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dispenser Survey Results</title>
+</head>
+<body>
+  <a href="/cgi-bin/vote.cgi"></a>
+  <p><b>These results are from a CLOSED poll.<br>
+  Vote for and view the <a href="/cgi-bin/vote.cgi">CURRENT POLL</a> here!</b></p>
+  <ol>
+    <li>Your Favorite Dispenser</li>
+    <li>The Dispenser You Most Carry With You</li>
+    <li>The Ugliest Dispenser Ever Made</li>
+    <li>and What PEZ Candy Inc, Should Make Next (suggestions)</li>
+  </ol><a href="/cgi-bin/vote.cgi">Vote on a Dispenser!</a>
+  <p></p>
+  <center>
+    <table border="0" cellspacing="0" width="100%">
+      <tr>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Favorite<i>(390)</i></b></td>
+        <td rowspan="2" width="10"></td>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Carry With<i>(188)</i></b></td>
+        <td rowspan="2" width="10"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1">Yoda <i><b>(40 )</b></i><br>
+        Psychedelic Eye <i><b>(33 )</b></i><br>
+        Bubble Man <i><b>(22 )</b></i><br>
+        Winnie The Pooh <i><b>(21 )</b></i><br>
+        Darth Vadar <i><b>(21 )</b></i><br>
+        Garfield <i><b>(17 )</b></i><br>
+        Spiderman <i><b>(14 )</b></i><br>
+        Woodstock <i><b>(14 )</b></i><br>
+        chewbacca <i><b>(13 )</b></i><br>
+        Scrooge McDuck <i><b>(13 )</b></i><br>
+        Dalmation <i><b>(11 )</b></i><br>
+        Peter Pez <i><b>(10 )</b></i><br>
+        Darth Vader <i><b>(9 )</b></i><br>
+        Stormtrooper <i><b>(9 )</b></i><br>
+        Thor <i><b>(8 )</b></i><br>
+        Taz <i><b>(7 )</b></i><br>
+        Incredible Hulk <i><b>(7 )</b></i><br>
+        Tweety <i><b>(7 )</b></i><br>
+        Panda <i><b>(6 )</b></i><br>
+        Speedy Gonzales <i><b>(6 )</b></i><br>
+        Yappy Dog <i><b>(6 )</b></i><br>
+        Angel <i><b>(6 )</b></i><br>
+        Mr. Ugly <i><b>(6 )</b></i><br>
+        Wonder Woman - hard head <i><b>(6 )</b></i><br>
+        Winne the Pooh <i><b>(6 )</b></i><br>
+        Bullwinkle <i><b>(5 )</b></i><br>
+        Gonzo <i><b>(5 )</b></i><br>
+        Captain Hook <i><b>(5 )</b></i><br>
+        Garfeild <i><b>(5 )</b></i><br>
+        Fred Flintstone <i><b>(4 )</b></i><br>
+        Pluto <i><b>(4 )</b></i><br>
+        Fozzie Bear <i><b>(4 )</b></i><br>
+        Casper <i><b>(4 )</b></i><br>
+        Power PEZ <i><b>(4 )</b></i><br>
+        Dino <i><b>(4 )</b></i><br>
+        merlin mouse <i><b>(4 )</b></i><br>
+        Jungle Book Mogle <i><b>(3 )</b></i><br>
+        Mickey Mouse <i><b>(3 )</b></i><br>
+        Odie <i><b>(3 )</b></i><br>
+        Elephant <i><b>(3 )</b></i><br>
+        Webby <i><b>(3 )</b></i><br>
+        regular-yellow <i><b>(2 )</b></i><br>
+        KNIGHT <i><b>(2 )</b></i><br>
+        Old Daffy Duck <i><b>(1 )</b></i><br>
+        Peter Pan <i><b>(1 )</b></i><br>
+        I-sore <i><b>(1 )</b></i><br>
+        Tarzan <i><b>(1 )</b></i><br>
+        Full body robot <i><b>(1 )</b></i><br></font></td>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1">Yoda <i><b>(22 )</b></i><br>
+        none <i><b>(14 )</b></i><br>
+        Regular - Gray <i><b>(12 )</b></i><br>
+        Tweety <i><b>(11 )</b></i><br>
+        Easter Lamb <i><b>(7 )</b></i><br>
+        Snoopy <i><b>(7 )</b></i><br>
+        Garfield <i><b>(7 )</b></i><br>
+        Spiderman <i><b>(7 )</b></i><br>
+        Fozzy Bear <i><b>(7 )</b></i><br>
+        Nermal <i><b>(6 )</b></i><br>
+        TAZ <i><b>(6 )</b></i><br>
+        Kermit <i><b>(6 )</b></i><br>
+        Gonzo <i><b>(5 )</b></i><br>
+        Hulk <i><b>(5 )</b></i><br>
+        Speedy Gonzalez <i><b>(5 )</b></i><br>
+        Panda <i><b>(4 )</b></i><br>
+        woodstock <i><b>(4 )</b></i><br>
+        Stormtrooper <i><b>(4 )</b></i><br>
+        Mickey Mouse <i><b>(3 )</b></i><br>
+        Coaches Whistle <i><b>(3 )</b></i><br>
+        Lucy <i><b>(3 )</b></i><br>
+        pez gun <i><b>(3 )</b></i><br>
+        Hockey Player Body Parts <i><b>(3 )</b></i><br>
+        original regular <i><b>(3 )</b></i><br>
+        Regular - Yellow <i><b>(3 )</b></i><br>
+        Barney Rubble <i><b>(3 )</b></i><br>
+        dino <i><b>(3 )</b></i><br>
+        Daffy duck <i><b>(3 )</b></i><br>
+        Merlin Mouse <i><b>(2 )</b></i><br>
+        purple pez clip on <i><b>(2 )</b></i><br>
+        Pez Candy Shooter <i><b>(2 )</b></i><br>
+        Casper Die-Cut <i><b>(2 )</b></i><br>
+        New Goofy <i><b>(2 )</b></i><br>
+        Garfeild <i><b>(2 )</b></i><br>
+        Green/Red Truck <i><b>(1 )</b></i><br>
+        Peter Pez <i><b>(1 )</b></i><br>
+        yellow mint <i><b>(1 )</b></i><br>
+        Santa Clause <i><b>(1 )</b></i><br>
+        snow man <i><b>(1 )</b></i><br>
+        Michaelangelo <i><b>(1 )</b></i><br>
+        easter chicken <i><b>(1 )</b></i><br></font></td>
+      </tr>
+      <tr>
+        <td height="20" colspan="7"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Ugliest<i>(176)</i></b></td>
+        <td rowspan="2" width="10"></td>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Make Next <i>(333)</i></b></td>
+        <td rowspan="2" width="10"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1">PEZ-a-Saurs <i><b>(34 )</b></i><br>
+        Mr. Ugly <i><b>(28 )</b></i><br>
+        Sigfried and Roy <i><b>(12 )</b></i><br>
+        Mickey Mouse <i><b>(12 )</b></i><br>
+        Ninja Turtle <i><b>(10 )</b></i><br>
+        Peter Pez <i><b>(9 )</b></i><br>
+        Wonder Woman <i><b>(8 )</b></i><br>
+        Whistle <i><b>(7 )</b></i><br>
+        Fat Ear Bunny <i><b>(6 )</b></i><br>
+        Donkey Kong Promo <i><b>(5 )</b></i><br>
+        Chubaca <i><b>(5 )</b></i><br>
+        Thumper <i><b>(4 )</b></i><br>
+        I - Saur <i><b>(4 )</b></i><br>
+        Olive Oil <i><b>(4 )</b></i><br>
+        Bambi <i><b>(4 )</b></i><br>
+        Panda <i><b>(3 )</b></i><br>
+        Trucks <i><b>(3 )</b></i><br>
+        Maharaja <i><b>(3 )</b></i><br>
+        barney rubble <i><b>(3 )</b></i><br>
+        Pig <i><b>(3 )</b></i><br>
+        dr. skull <i><b>(2 )</b></i><br>
+        Mary Poppins <i><b>(2 )</b></i><br>
+        Angel <i><b>(2 )</b></i><br>
+        Snoopy <i><b>(1 )</b></i><br>
+        creature of black lagoon <i><b>(1 )</b></i><br>
+        Frankenstein <i><b>(1 )</b></i><br></font></td>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1">The Simpsons <i><b>(48 )</b></i><br>
+        Dr. Seuss Characters <i><b>(29 )</b></i><br>
+        Scooby Doo Gang <i><b>(19 )</b></i><br>
+        New model PEZ gun <i><b>(19 )</b></i><br>
+        The Beatles!!! <i><b>(18 )</b></i><br>
+        Jerry Senifeld <i><b>(16 )</b></i><br>
+        Winnie The Pooh Characters <i><b>(14 )</b></i><br>
+        Marvin the Martian <i><b>(12 )</b></i><br>
+        Gumby <i><b>(10 )</b></i><br>
+        beatles <i><b>(9 )</b></i><br>
+        Alien Heads <i><b>(9 )</b></i><br>
+        Rugrats <i><b>(9 )</b></i><br>
+        Sailor Moon <i><b>(9 )</b></i><br>
+        platypus <i><b>(8 )</b></i><br>
+        Calvin and Hobbes <i><b>(7 )</b></i><br>
+        Animaniacs <i><b>(7 )</b></i><br>
+        X-Files characters <i><b>(6 )</b></i><br>
+        X-men Charcters <i><b>(5 )</b></i><br>
+        Tick characters <i><b>(5 )</b></i><br>
+        sesame street characters <i><b>(5 )</b></i><br>
+        sports stars <i><b>(5 )</b></i><br>
+        Nintendo characters <i><b>(5 )</b></i><br>
+        More Star Wars <i><b>(4 )</b></i><br>
+        Clockwork Orange <i><b>(4 )</b></i><br>
+        The Tick <i><b>(4 )</b></i><br>
+        Harrison Ford <i><b>(4 )</b></i><br>
+        NHL Hockey Goalie Masks <i><b>(4 )</b></i><br>
+        Snorks <i><b>(3 )</b></i><br>
+        Megaman <i><b>(3 )</b></i><br>
+        SEAL <i><b>(3 )</b></i><br>
+        W/B Frog <i><b>(2 )</b></i><br>
+        Beck (The Singer) <i><b>(2 )</b></i><br>
+        Dennis The Menace <i><b>(2 )</b></i><br>
+        The Maxx <i><b>(2 )</b></i><br>
+        Barbie <i><b>(2 )</b></i><br>
+        voltron <i><b>(2 )</b></i><br>
+        Astro Boy <i><b>(2 )</b></i><br>
+        Beavis and Butthead <i><b>(2 )</b></i><br>
+        Friday the 13th <i><b>(2 )</b></i><br>
+        Mini Butterfly Knife <i><b>(1 )</b></i><br>
+        Jurassic Park Dinos <i><b>(1 )</b></i><br>
+        Girl Disney Character ei.-Daisey <i><b>(1 )</b></i><br>
+        Pekkle <i><b>(1 )</b></i><br>
+        US Kooky Zoo <i><b>(1 )</b></i><br>
+        Classic video game characters ( Mario, Pac-man, DK, etc.) <i><b>(1 )</b></i><br>
+        strawberry shortcake <i><b>(1 )</b></i><br>
+        Popeye <i><b>(1 )</b></i><br>
+        Kangaroo <i><b>(1 )</b></i><br>
+        Street Fighter <i><b>(1 )</b></i><br>
+        metal - regular style <i><b>(1 )</b></i><br>
+        Paintball Player <i><b>(1 )</b></i><br></font></td>
+      </tr>
+    </table>
+  </center>
+  <p><a href="/cgi-bin/vote.cgi">Vote on a Dispenser!</a></p>
+  <p></p>
+  <hr size="6" width="75%">
+  <center>
+    <font size="1">PEZ and the PEZ name are registered trademarks of PEZ Candy, Inc.<br>
+    All other material &#169;1997, <a href="/pezmail.htm">Jamie Gerdes</a>. Any information or opinions expressed<br>
+    herein can be blamed on the senseless actions of a PEZ <a href="/me.htm">addict</a>.</font>
+  </center>Content-type: text/html
+  <head>
+    <title>PEZ Voter Thingee</title>
+  </head>
+  <p></p>
+  <ol>
+    <li>Please <b>FIRST</b> check the selection list next to the category you are voting for to be sure your dispenser isn't already in the database. If it is, just select it, and click on VOTE. Be sure to leave the text blank empty.</li>
+    <li>If your dispenser is <b>NOT</b> in the selection list, you may type it into the empty blank. Click on VOTE. Anything typed in the blank will override the selection list.</li>
+  </ol>
+  <hr noshade>
+  <a href="/cgi-bin/vote.cgi?m=show">View the Voting Results</a>
+  <p></p>
+  <center>
+    <table border="0" width="95%" cellpadding="3">
+      <tr>
+        <td bgcolor="#EDBA7D">
+          <b>Favorite CURRENT Dispenser</b>
+          <p></p>
+          <form method="post" action="http://pezheads.org/cgi-bin/vote.cgi">
+            <input type="hidden" value="display" name="m"><input type="hidden" name="section" value="Favorite"><select name="url">
+              <option>
+                Dalmation
+              </option>
+              <option>
+                Darth Vadar
+              </option>
+              <option>
+                Spiderman
+              </option>
+              <option>
+                Yappy Dog
+              </option>
+              <option>
+                Peter Pez
+              </option>
+              <option>
+                Jungle Book Mogle
+              </option>
+              <option>
+                Angel
+              </option>
+              <option>
+                Taz
+              </option>
+              <option>
+                Psychedelic Eye
+              </option>
+              <option>
+                I-sore
+              </option>
+              <option>
+                Woodstock
+              </option>
+              <option>
+                Wonder Woman - hard head
+              </option>
+              <option>
+                Old Daffy Duck
+              </option>
+              <option>
+                Bubble Man
+              </option>
+              <option>
+                Garfield
+              </option>
+              <option>
+                Incredible Hulk
+              </option>
+              <option>
+                Webby
+              </option>
+              <option>
+                Yoda
+              </option>
+              <option>
+                Fred Flintstone
+              </option>
+              <option>
+                Panda
+              </option>
+              <option>
+                Bullwinkle
+              </option>
+              <option>
+                Winnie The Pooh
+              </option>
+              <option>
+                Gonzo
+              </option>
+              <option>
+                Thor
+              </option>
+              <option>
+                Dino
+              </option>
+              <option>
+                Speedy Gonzales
+              </option>
+              <option>
+                Mickey Mouse
+              </option>
+              <option>
+                Peter Pan
+              </option>
+              <option>
+                Fozzie Bear
+              </option>
+              <option>
+                Tweety
+              </option>
+              <option>
+                Tarzan
+              </option>
+              <option>
+                Winne the Pooh
+              </option>
+              <option>
+                Pluto
+              </option>
+              <option>
+                Scrooge McDuck
+              </option>
+              <option>
+                chewbacca
+              </option>
+              <option>
+                Captain Hook
+              </option>
+              <option>
+                regular-yellow
+              </option>
+              <option>
+                merlin mouse
+              </option>
+              <option>
+                Darth Vader
+              </option>
+              <option>
+                KNIGHT
+              </option>
+              <option>
+                Elephant
+              </option>
+              <option>
+                Mr. Ugly
+              </option>
+              <option>
+                Casper
+              </option>
+              <option>
+                Stormtrooper
+              </option>
+              <option>
+                Full body robot
+              </option>
+              <option>
+                Garfeild
+              </option>
+              <option>
+                Odie
+              </option>
+              <option>
+                Power PEZ
+              </option>
+            </select> or<br>
+            <input type="text" name="url2" maxlength="30" size="30"><br>
+            <input type="submit" value="VOTE">
+          </form>
+        </td>
+        <td rowspan="3" width="2" bgcolor="#FFFFFF"></td>
+        <td bgcolor="#EDBA7D">
+          <b>Do You EAT the PEZ Candy?</b>
+          <p></p>
+          <form method="post" action="http://pezheads.org/cgi-bin/vote.cgi">
+            <input type="hidden" value="display" name="m"><input type="hidden" name="section" value="Carry With"> <select name="url">
+              <option>
+                Regular - Gray
+              </option>
+              <option>
+                Tweety
+              </option>
+              <option>
+                Regular - Yellow
+              </option>
+              <option>
+                Spiderman
+              </option>
+              <option>
+                Peter Pez
+              </option>
+              <option>
+                New Goofy
+              </option>
+              <option>
+                Hulk
+              </option>
+              <option>
+                Casper Die-Cut
+              </option>
+              <option>
+                Easter Lamb
+              </option>
+              <option>
+                Speedy Gonzalez
+              </option>
+              <option>
+                Yoda
+              </option>
+              <option>
+                Barney Rubble
+              </option>
+              <option>
+                Panda
+              </option>
+              <option>
+                Fozzy Bear
+              </option>
+              <option>
+                Daffy duck
+              </option>
+              <option>
+                Gonzo
+              </option>
+              <option>
+                Snoopy
+              </option>
+              <option>
+                Kermit
+              </option>
+              <option>
+                Hockey Player Body Parts
+              </option>
+              <option>
+                Lucy
+              </option>
+              <option>
+                Santa Clause
+              </option>
+              <option>
+                TAZ
+              </option>
+              <option>
+                Garfield
+              </option>
+              <option>
+                Coaches Whistle
+              </option>
+              <option>
+                easter chicken
+              </option>
+              <option>
+                none
+              </option>
+              <option>
+                Pez Candy Shooter
+              </option>
+              <option>
+                original regular
+              </option>
+              <option>
+                Nermal
+              </option>
+              <option>
+                Green/Red Truck
+              </option>
+              <option>
+                Merlin Mouse
+              </option>
+              <option>
+                purple pez clip on
+              </option>
+              <option>
+                Michaelangelo
+              </option>
+              <option>
+                yellow mint
+              </option>
+              <option>
+                pez gun
+              </option>
+              <option>
+                Garfeild
+              </option>
+              <option>
+                woodstock
+              </option>
+              <option>
+                Mickey Mouse
+              </option>
+              <option>
+                Stormtrooper
+              </option>
+              <option>
+                snow man
+              </option>
+              <option>
+                dino
+              </option>
+            </select> or<br>
+            <input type="text" name="url2" maxlength="30" size="30"><br>
+            <input type="submit" value="VOTE">
+          </form>
+        </td>
+      </tr>
+      <tr>
+        <td height="2" bgcolor="#FFFFFF"></td>
+        <td height="2" bgcolor="#FFFFFF"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D">
+          <b>You've Been Collecting Since</b>
+          <p></p>
+          <form method="post" action="http://pezheads.org/cgi-bin/vote.cgi">
+            <input type="hidden" value="display" name="m"><input type="hidden" name="section" value="Ugliest"> <select name="url">
+              <option>
+                PEZ-a-Saurs
+              </option>
+              <option>
+                Pig
+              </option>
+              <option>
+                Mickey Mouse
+              </option>
+              <option>
+                Thumper
+              </option>
+              <option>
+                Fat Ear Bunny
+              </option>
+              <option>
+                Ninja Turtle
+              </option>
+              <option>
+                Peter Pez
+              </option>
+              <option>
+                Angel
+              </option>
+              <option>
+                Whistle
+              </option>
+              <option>
+                Wonder Woman
+              </option>
+              <option>
+                Mr. Ugly
+              </option>
+              <option>
+                Trucks
+              </option>
+              <option>
+                Snoopy
+              </option>
+              <option>
+                Olive Oil
+              </option>
+              <option>
+                Sigfried and Roy
+              </option>
+              <option>
+                Maharaja
+              </option>
+              <option>
+                Frankenstein
+              </option>
+              <option>
+                Donkey Kong Promo
+              </option>
+              <option>
+                I - Saur
+              </option>
+              <option>
+                dr. skull
+              </option>
+              <option>
+                Bambi
+              </option>
+              <option>
+                Panda
+              </option>
+              <option>
+                barney rubble
+              </option>
+              <option>
+                creature of black lagoon
+              </option>
+              <option>
+                Chubaca
+              </option>
+              <option>
+                Mary Poppins
+              </option>
+            </select> or<br>
+            <input type="text" maxlength="30" name="url2" size="30"><br>
+            <input type="submit" value="VOTE">
+          </form>
+        </td>
+        <td bgcolor="#EDBA7D">
+          <b>What Flavor Should They Make Next?</b>
+          <p></p>
+          <form method="post" action="http://pezheads.org/cgi-bin/vote.cgi">
+            <input type="hidden" value="display" name="m"><input type="hidden" name="section" value="Make Next"> <select name="url">
+              <option>
+                Dr. Seuss Characters
+              </option>
+              <option>
+                Gumby
+              </option>
+              <option>
+                sports stars
+              </option>
+              <option>
+                X-men Charcters
+              </option>
+              <option>
+                New model PEZ gun
+              </option>
+              <option>
+                The Simpsons
+              </option>
+              <option>
+                Snorks
+              </option>
+              <option>
+                Sailor Moon
+              </option>
+              <option>
+                X-Files characters
+              </option>
+              <option>
+                Marvin the Martian
+              </option>
+              <option>
+                Popeye
+              </option>
+              <option>
+                Girl Disney Character ei.-Daisey
+              </option>
+              <option>
+                W/B Frog
+              </option>
+              <option>
+                US Kooky Zoo
+              </option>
+              <option>
+                Scooby Doo Gang
+              </option>
+              <option>
+                Astro Boy
+              </option>
+              <option>
+                Alien Heads
+              </option>
+              <option>
+                The Beatles!!!
+              </option>
+              <option>
+                The Maxx
+              </option>
+              <option>
+                Rugrats
+              </option>
+              <option>
+                Animaniacs
+              </option>
+              <option>
+                Winnie The Pooh Characters
+              </option>
+              <option>
+                SEAL
+              </option>
+              <option>
+                Barbie
+              </option>
+              <option>
+                Kangaroo
+              </option>
+              <option>
+                Harrison Ford
+              </option>
+              <option>
+                Pekkle
+              </option>
+              <option>
+                Megaman
+              </option>
+              <option>
+                Jerry Senifeld
+              </option>
+              <option>
+                Mini Butterfly Knife
+              </option>
+              <option>
+                Dennis The Menace
+              </option>
+              <option>
+                Tick characters
+              </option>
+              <option>
+                Paintball Player
+              </option>
+              <option>
+                Street Fighter
+              </option>
+              <option>
+                More Star Wars
+              </option>
+              <option>
+                Friday the 13th
+              </option>
+              <option>
+                Clockwork Orange
+              </option>
+              <option>
+                beatles
+              </option>
+              <option>
+                Jurassic Park Dinos
+              </option>
+              <option>
+                Beck (The Singer)
+              </option>
+              <option>
+                voltron
+              </option>
+              <option>
+                NHL Hockey Goalie Masks
+              </option>
+              <option>
+                sesame street characters
+              </option>
+              <option>
+                Nintendo characters
+              </option>
+              <option>
+                metal - regular style
+              </option>
+              <option>
+                platypus
+              </option>
+              <option>
+                strawberry shortcake
+              </option>
+              <option>
+                Beavis and Butthead
+              </option>
+              <option>
+                Calvin and Hobbes
+              </option>
+              <option>
+                Classic video game characters ( Mario, Pac-man, DK, etc.)
+              </option>
+              <option>
+                The Tick
+              </option>
+            </select> or<br>
+            <input type="text" maxlength="30" name="url2" size="30"><br>
+            <input type="submit" value="VOTE">
+          </form>
+        </td>
+      </tr>
+    </table>
+  </center>
+  <p><a href="/index.htm"></a> <a href="/cgi-bin/vote.cgi?m=show">View the Voting Results</a></p>
+  <p><br clear="all"></p>
+  <hr size="6" width="75%">
+  <center>
+    <font size="1">PEZ and the PEZ name are registered trademarks of PEZ Candy, Inc.<br>
+    All other material &#169;1997, <a href="/pezmail.htm">Jamie Gerdes</a>. Any information or opinions expressed<br>
+    herein can be blamed on the senseless actions of a PEZ <a href="/me.htm">addict</a>.</font>
+  </center>
+</body>
+</html>

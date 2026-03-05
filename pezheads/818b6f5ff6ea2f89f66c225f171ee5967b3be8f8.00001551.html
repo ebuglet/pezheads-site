@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search the PEZhead Database</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#000000">
+  <a href="adduser.html"><img src="../images/info-btn.gif" width="121" height="121" border="0" alt=" add your info" align="right"></a>
+  <blockquote>
+    <img src="../images/h-locate.gif" width="347" height="34" border="0" alt=" pezhead locator">
+    <p><font color="blue">NEW! You can now update your data... Just find your own personal information and then click on the "edit" link in the top right corner.</font></p>
+    <p></p>
+    <h2>Search the Database</h2>
+    <form action="/cgi-bin/finduser.cgi" method="post">
+      <table border="0">
+        <tr>
+          <td>
+            <b>Search by:</b> <select name="search_by">
+              <option value="state">
+                U.S. State --&gt;
+              </option>
+              <option value="prov">
+                Canadian Prov. --&gt;
+              </option>
+              <option value="country">
+                Country --&gt;
+              </option>
+              <option value="name">
+                Name (enter below)
+              </option>
+              <option value="email">
+                E-Mail (enter below)
+              </option>
+              <option value="city">
+                City (enter below)
+              </option>
+            </select><br>
+            <p><b>Enter Name:</b><br>
+            <input type="text" size="30" name="keyword"><br>
+            <input type="submit" value="Submit"> <input type="reset" value="Reset"></p>
+          </td>
+          <td valign="top"><select name="state">
+            <option selected>
+              Choose State,
+            </option>
+            <option>
+              Alabama
+            </option>
+            <option>
+              Alaska
+            </option>
+            <option>
+              Arizona
+            </option>
+            <option>
+              Arkansas
+            </option>
+            <option>
+              California
+            </option>
+            <option>
+              Colorado
+            </option>
+            <option>
+              Connecticut
+            </option>
+            <option>
+              Delaware
+            </option>
+            <option>
+              Florida
+            </option>
+            <option>
+              Georgia
+            </option>
+            <option>
+              Hawaii
+            </option>
+            <option>
+              Idaho
+            </option>
+            <option>
+              Illinios
+            </option>
+            <option>
+              Indiana
+            </option>
+            <option>
+              Iowa
+            </option>
+            <option>
+              Kansas
+            </option>
+            <option>
+              Kentucky
+            </option>
+            <option>
+              Louisiana
+            </option>
+            <option>
+              Maine
+            </option>
+            <option>
+              Maryland
+            </option>
+            <option>
+              Massachusetts
+            </option>
+            <option>
+              Michigan
+            </option>
+            <option>
+              Minnesota
+            </option>
+            <option>
+              Mississippi
+            </option>
+            <option>
+              Missouri
+            </option>
+            <option>
+              Montana
+            </option>
+            <option>
+              Nebraska
+            </option>
+            <option>
+              Nevada
+            </option>
+            <option>
+              New Hampshire
+            </option>
+            <option>
+              New Jersey
+            </option>
+            <option>
+              New Mexico
+            </option>
+            <option>
+              New York
+            </option>
+            <option>
+              North Carolina
+            </option>
+            <option>
+              North Dakota
+            </option>
+            <option>
+              Ohio
+            </option>
+            <option>
+              Oklahoma
+            </option>
+            <option>
+              Oregon
+            </option>
+            <option>
+              Pennsylvania
+            </option>
+            <option>
+              Rhode Island
+            </option>
+            <option>
+              South Carolina
+            </option>
+            <option>
+              South Dakota
+            </option>
+            <option>
+              Tennessee
+            </option>
+            <option>
+              Texas
+            </option>
+            <option>
+              Utah
+            </option>
+            <option>
+              Vermont
+            </option>
+            <option>
+              Virginia
+            </option>
+            <option>
+              Washington
+            </option>
+            <option>
+              West Virginia
+            </option>
+            <option>
+              Wisconsin
+            </option>
+            <option>
+              Wyoming
+            </option>
+          </select><br>
+          <select name="providence">
+            <option selected>
+              Choose Province,
+            </option>
+            <option>
+              Alberta
+            </option>
+            <option>
+              British Columbia
+            </option>
+            <option>
+              Manitoba
+            </option>
+            <option>
+              New Brunswick
+            </option>
+            <option>
+              Newfoundland
+            </option>
+            <option>
+              Northwest Territories
+            </option>
+            <option>
+              Nova Scotia
+            </option>
+            <option>
+              Ontario
+            </option>
+            <option>
+              Prince Edward Island
+            </option>
+            <option>
+              Quebec
+            </option>
+            <option>
+              Saskatechewan
+            </option>
+            <option>
+              Yukon
+            </option>
+          </select><br>
+          <select name="country">
+            <option selected>
+              or Choose Country
+            </option>
+            <option>
+              USA
+            </option>
+            <option>
+              Canada
+            </option>
+            <option>
+              (if not USA or Canada)
+            </option>
+            <option>
+              australia
+            </option>
+            <option>
+              UK
+            </option>
+            <option>
+              England
+            </option>
+            <option>
+              Okinawa, Japan
+            </option>
+            <option>
+              Philippines
+            </option>
+            <option>
+              sweden
+            </option>
+            <option>
+              New Zealand
+            </option>
+            <option>
+              Stinkovia
+            </option>
+            <option>
+              Taiwan
+            </option>
+            <option>
+              Yugoslavia
+            </option>
+            <option>
+              Portugal
+            </option>
+            <option>
+              FRANCE
+            </option>
+            <option>
+              Australia
+            </option>
+            <option>
+              Norway
+            </option>
+            <option>
+              Austria
+            </option>
+            <option>
+              Germany
+            </option>
+            <option>
+              Finland
+            </option>
+            <option>
+              Japan
+            </option>
+            <option>
+              Netherlands
+            </option>
+            <option>
+              Slovenija
+            </option>
+            <option>
+              Spain
+            </option>
+            <option>
+              Sweden
+            </option>
+          </select></td>
+        </tr>
+      </table>
+    </form>
+  </blockquote>
+  <blockquote>
+    <font size="-1"></font>
+    <center>
+      <font size="-1"><a href="adduser.html"><b>add your info</b></a> | <a href="../index.htm">back to main</a></font>
+    </center><font size="-1"></font>
+    <p></p>
+    <p><b>NEW!</b> ~ View <a href="people.htm">photos</a> of other pez collectors!<br></p>
+    <hr noshade>
+    <p><img src="../images/col-icns.gif" width="46" height="14" border="0" align="bottom"> If you see this group of icons next to someone's profile, it means that they also have a photo of their collection online for you to see. If you want your photo included with your profile, contact me at <a href="mailto:jamie@pezheads.org">jamie@pezheads.org</a>.<br></p>
+    <form action="/cgi-bin/finduser.cgi" method="post">
+      <input type="hidden" name="action" value="search"><input type="hidden" name="search_by" value="image"><input type="hidden" name="keyword" value="yes"><input type="submit" value="Find People w/Photos">
+    </form>
+    <hr noshade>
+    <p><b>Instructions:</b> I think this is all pretty straight forward, but just in case...</p>
+    <ol>
+      <li>Make sure the first selection menu is set to how you want to search! If you are searching by name, type the name in the text box. Otherwise use the correct selection menu (that corresponds with what you're searching for).</li>
+      <li>The <b>"Country"</b> menu is dynamically updated by the entries in the database. The database contains no other foreign pezheads other than what is in the menu.</li>
+      <li>Searching by <b>"Name"</b> looks for the word you typed in both First and Last Name fields. If you can't spell the name you're looking for just type part of the name to narrow the search down.</li>
+    </ol>
+  </blockquote>
+  <p></p>
+  <hr size="6" width="75%">
+  <center>
+    <font size="1">PEZ and the PEZ name are registered trademarks of PEZ Candy, Inc.<br>
+    All other material &#169;1998, <a href="../pezmail.htm">Jamie Gerdes</a>. Any information or opinions expressed<br>
+    herein can be blamed on the senseless actions of a PEZ <a href="../me.htm">addict</a>.</font>
+  </center>
+</body>
+</html>

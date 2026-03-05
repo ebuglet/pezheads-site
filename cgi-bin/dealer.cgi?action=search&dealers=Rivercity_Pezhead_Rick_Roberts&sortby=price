@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <font size="-1"></font>
+  <center>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a><br></font>
+  </center>
+  <p><font size="+1">Entire sales list for "<a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><b>Rivercity Pezhead Rick Roberts</b></a>" ..</font><br>
+  <font size="-1" color="#008800">last updated on 1/09/98</font><br></p>
+  <p></p>
+  <table border="0" width="100%">
+    <tr>
+      <td></td>
+      <td>
+        <a href="/cgi-bin/dealer.cgi?action=search&dealers=Rivercity_Pezhead_Rick_Roberts">Dispenser</a>
+      </td>
+      <td>
+        <a href="/cgi-bin/dealer.cgi?action=search&dealers=Rivercity_Pezhead_Rick_Roberts&sortby=price">Price</a>
+      </td>
+      <td>Condition</td>
+    </tr>
+    <tr>
+      <td colspan="4" valign="top">
+        <hr noshade>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Indian Chief</font></td>
+      <td valign="top"><font size="-1">$125</font></td>
+      <td valign="top"><font size="-1">1/4" tear in white headdress</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">C-Truck</font></td>
+      <td valign="top"><font size="-1">$100</font></td>
+      <td valign="top"><font size="-1">set of 6 yellow cab black stem</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Doctor</font></td>
+      <td valign="top"><font size="-1">$100</font></td>
+      <td valign="top"><font size="-1">missing hair and mustache; has repro mirro, steth and headband</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Ninja Turtles</font></td>
+      <td valign="top"><font size="-1">$65</font></td>
+      <td valign="top"><font size="-1">complete set 56 mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Candy</font></td>
+      <td valign="top"><font size="-1">50 cents</font></td>
+      <td valign="top"><font size="-1">6 pack of assorted flavor pack</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Whistle set</font></td>
+      <td valign="top"><font size="-1">$50</font></td>
+      <td valign="top"><font size="-1">set of 7 merry music makers mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Candy</font></td>
+      <td valign="top"><font size="-1">50 cents</font></td>
+      <td valign="top"><font size="-1">6 pack of peppermint</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Marahaja n/f</font></td>
+      <td valign="top"><font size="-1">$45</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Pez Pals w/body part</font></td>
+      <td valign="top"><font size="-1">$40</font></td>
+      <td valign="top"><font size="-1">set of 3 Euro loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Practical Pig A n/f</font></td>
+      <td valign="top"><font size="-1">$30</font></td>
+      <td valign="top"><font size="-1">painted eyes</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs NEW</font></td>
+      <td valign="top"><font size="-1">$30</font></td>
+      <td valign="top"><font size="-1">set of 5 mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Merlin</font></td>
+      <td valign="top"><font size="-1">$25</font></td>
+      <td valign="top"><font size="-1">mint on foreign card splash card, card not perfect</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Petunia Pig</font></td>
+      <td valign="top"><font size="-1">$25</font></td>
+      <td valign="top"><font size="-1">what a pig she is</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Easter Playset</font></td>
+      <td valign="top"><font size="-1">$25</font></td>
+      <td valign="top"><font size="-1">mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">white hat mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">C16-Truck</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">yellow cab blue</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Pez Pal body parts (bp only)</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">set of 3 loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Bubbleman</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Arial playset</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Pink Panther set</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">pinkpanther, ant, ardvark, inspector</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">C-Truck</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">yellow cab black stem</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Star wars set</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">set of 5 on foreign</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Indian Whistle</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Currents</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top"><font size="-1">get 24 currents for $20. $4 postage</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">C5-Truck</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">pink cab black stem</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Spiderman n/f</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">slight eye wear</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tweety n/f</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Silver Glow B</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Batman</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">black head blue stem mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Baloo</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">jungle book bear</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Lil Wolf</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">3 little pigs will miss him</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Witch n/f</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">3 pc common colors</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Charlie Brown</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">with frown mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">King Louie</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top"><font size="-1">jungle book monkey</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tuffy</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">mint on foreign card multi piece face</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tom</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">multi piece face mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Hallmark Santa Ornament</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">mint in box 6/$60</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Icee bear</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">starry card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">mint on foreign card, 3 stem colors</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Blue Batman</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">mint on card with feet 2 candy card, card not real good</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Peanuts set</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">set of 4 mint on canadian card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Car boxes</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">minnie/mickey or daisy/donald</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Skull A</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Penguin whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Santa body parts</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Rhino whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Easter Bodypart</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose with dispenser</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Clown whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Fun Flips</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">12 wrapped in sleeve</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Pluto</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">movable ears mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tiger</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Blue Batman</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Penquin whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Girl</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint in bag, extra head holes</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Garfield</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">fat lip wide teeth mofc</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Parrot whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Panda whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Woodstock</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">with feathers mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Santa n/f</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Sylvester</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint on foreign card painted whiskers</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">T-Shirt</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mara and knight logo on white, pez licenced</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Pez Mug</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">perfect for the morning cup of coffee</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Icee bear</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">white stem</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Santa playset</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Hallmark Snowman Ornament</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint in box 6/$50</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Donkey whistle</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">merry music maker moc (set of 7 $50)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Spiderman</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Bugs</font></td>
+      <td valign="top"><font size="-1">$6</font></td>
+      <td valign="top"><font size="-1">red nose dark ears 3.9 footed stem mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">MGM dbl cards</font></td>
+      <td valign="top"><font size="-1">$6</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Yosemite Sam</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">short whisker version</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Candy</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">older multiflavor rolls</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">CD less that jake pezcore</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">opened but never played</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Power Pez</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Minnie Mouse</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">brand new</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Body Parts</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">mint on foreign card assorted, no cowgirls or caveman</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Goofy</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">mib with cardboard hanger</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Blue Batman</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">C-Truck</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">pink cab no wheels</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Webby</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Daisy Duck</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Dinosaurs w/bodypart</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on card with body parts</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Spin Pops</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">many different</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tom</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Duck Nephews</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">blue</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Spike</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Scrooge</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Zoo Animals</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">new zoo, mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Jerry mouse</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Tuffy</font></td>
+      <td valign="top"><font size="-1">$4</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Daffy Duck</font></td>
+      <td valign="top"><font size="-1">$3</font></td>
+      <td valign="top"><font size="-1">pre revision mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Black Batman</font></td>
+      <td valign="top"><font size="-1">$3</font></td>
+      <td valign="top"><font size="-1">mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Santa</font></td>
+      <td valign="top"><font size="-1">$3</font></td>
+      <td valign="top"><font size="-1">mint in bag no eye version</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Sylvester</font></td>
+      <td valign="top"><font size="-1">$3</font></td>
+      <td valign="top"><font size="-1">pre revision mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Bugs</font></td>
+      <td valign="top"><font size="-1">$3</font></td>
+      <td valign="top"><font size="-1">pre revision orange nose mint in bag</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Hulk B</font></td>
+      <td valign="top"><font size="-1">$2.50 each</font></td>
+      <td valign="top"><font size="-1">144 hulks MOC sold as a lot only for $360</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Mickey Mouse</font></td>
+      <td valign="top"><font size="-1">$2</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Donald Duck</font></td>
+      <td valign="top"><font size="-1">$2</font></td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Currents</font></td>
+      <td valign="top"><font size="-1">$1</font></td>
+      <td valign="top"><font size="-1">on hand, send your list and see what I have</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Fun Flips</font></td>
+      <td valign="top"><font size="-1">$1</font></td>
+      <td valign="top"><font size="-1">mint in pack</font></td>
+    </tr>
+  </table>
+  <center>
+    <p>Exact prices may have changed. Dealer has final say.</p>
+  </center>
+  <p></p>
+  <hr noshade>
+  <center>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a></font>
+    <hr noshade>
+    <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+    <p><font size="-1"></font></p>
+  </center>
+</body>
+</html>

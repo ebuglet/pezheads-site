@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 5/18/00</font></b></p>
+    </center>
+    <p><b>Name:</b> David Welch<br>
+    <b>Email:</b> <a href="mailto:pezdude1@aol.com">pezdude1@aol.com</a><br>
+    <b>Address:</b> PO Box 714<br>
+    <b>City:</b> Murphysboro<br>
+    <b>State:</b> Il<br>
+    <b>Zip:</b> 62966<br>
+    <b>Phone:</b> 618-687-2282/684-2243 FAX (HOURS 12-5 CST OR LEAVE MESSAGE! FAX anytime)<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      <font color="blue" size="+1">CLICK ON THE LINK BELOW BEFORE EMAILING ME!</font>
+      <p><br>
+      PLEASE READ my <b>TERMS OF SALE</b> before asking questions or ordering dispensers!<br>
+      Trades are also considered...again see my <b>TERMS OF SALE</b> for information.<br></p>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=David_Welch">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

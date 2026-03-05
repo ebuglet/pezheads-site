@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#999999">
+  <center>
+    <a onmouseover="window.status='Click here to change the head!'; return true" href="/cgi-bin/pez?m=display&nhd=hd-Nermal.jpg&ft=ft-Red.jpg&bd=bd-Woman.jpg"></a><br>
+    <a onmouseover="window.status='Click here to change the body!'; return true" href="/cgi-bin/pez?m=display&nbd=bd-Woman.jpg&ft=ft-Red.jpg&hd=hd-Nermal.jpg"></a><br>
+    <a onmouseover="window.status='Click here to change the feet!'; return true" href="/cgi-bin/pez?m=display&nft=ft-Red.jpg&hd=hd-Nermal.jpg&bd=bd-Woman.jpg"></a>
+    <p>Nermal Woman (Red)</p>
+  </center>
+</body>
+</html>

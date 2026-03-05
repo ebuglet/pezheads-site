@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Send Email to pippigirl</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial"></font>
+  <center>
+    <font size="2" face="Verdana, Arial"><b>The email address for pippigirl is: <a href="mailto:pippigirl@yahoo.com">pippigirl@yahoo.com</a>.</b></font>
+    <p><font size="2" face="Verdana, Arial"><b>Click on the email address above to send an email now.</b></font></p>
+  </center>
+</body>
+</html>

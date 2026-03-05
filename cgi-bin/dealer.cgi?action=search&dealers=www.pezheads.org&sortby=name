@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <p></p>
+    <table border="0" bgcolor="#FFFFFF" width="95%">
+      <tr>
+        <td align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+      </tr>
+    </table>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top">
+                <font size="+1">Entire sales list for "<a href="/cgi-bin/dealer.cgi?action=dlr&name=pezheads.org" onmouseover="window.status='View Dealer Information'; return true;" onmouseout="window.status=''; return true;"><b>pezheads.org</b></a>" ..</font><br>
+                <font size="-1" color="#008800">last updated on 7/30/00</font>
+                <p></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr>
+        <td valign="top"><font size="-1">Click on the dealer's name (above) for terms of sale and contact information. Please wait while longer lists load.</font></td>
+      </tr>
+    </table>
+    <p></p>
+  </center>
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <caption align="left">
+        <font size="-1" face="verdan,arial,helvetica"><b>Click on a column heading to sort the list...</b></font>
+      </caption>
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=pezheads.org&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+              <td align="right"><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=pezheads.org&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a> &nbsp;</b></td>
+              <td><b>Comments</b></td>
+            </tr>
+            <tr>
+              <td colspan="4" valign="top">
+                <hr noshade>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Aral Playworld sets</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$36 &nbsp;</font></td>
+              <td valign="top"><font size="-1"><font color="#CC0000">set of 3, MOC</font> - hair: blonde, red, and black</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Ceramic PEZ Figures - set of 6</b></font></td>
+              <td valign="top" align="right"><font size="-1">$95 &nbsp;</font></td>
+              <td valign="top"><font size="-1">includes Fireman, Policeman, Nurse, Doctor, Peter PEZ, and Elephant.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Crystal Ghosts</b></font></td>
+              <td valign="top" align="right"><font size="-1">$28 &nbsp;</font></td>
+              <td valign="top"><font size="-1">full set.. 3 ghosts and 1 pumpkin - loose</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Crystal Zoo Animals</b></font></td>
+              <td valign="top" align="right"><font size="-1">$28 &nbsp;</font></td>
+              <td valign="top"><font size="-1">set of 4, hippo, lion, 'gator, and elephant - loose</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Elephant w/hair</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$145 &nbsp;</font></td>
+              <td valign="top"><font size="-1">yellow head, aqua hair, red stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Indian Chief</b></font></td>
+              <td valign="top" align="right"><font size="-1">$150 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f - red stem, white headband w/black tips.. <i>excellent</i> condition!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Mariner Playworld set</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">blonde hair</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Ninja Turtles</b></font></td>
+              <td valign="top" align="right"><font size="-1">$100 &nbsp;</font></td>
+              <td valign="top"><font size="-1"><font color="#CC0000">COMPLETE SET OF 56!</font></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Peter PEZ Bank</b></font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Stands about 12" tall! - red "stem"</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Pilot Playworld set</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">blonde hair</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Psychedelic Eye Misfits - MOC</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$30 &nbsp;</font></td>
+              <td valign="top"><font size="-1"><font color="#CC0000">set of 2</font> - pink/yellow hands, pink/yellow stems</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Psychedelic Eye Watch</b></font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">both black and white hands, in clear display case</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Psychedelic Hand - <font color="#CC0000">reduced!</font></b></font></td>
+              <td valign="top" align="right"><font size="-1">$495 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Lt green base, hand has the teeny (very common) minor "hinge crack" --"mod pez" sticker (was $650)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Set of 4 pals</b></font></td>
+              <td valign="top" align="right"><font size="-1">$240 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Maharaja, Pirate, Policeman, and Sheik</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Shell Playworld sets</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$60 &nbsp;</font></td>
+              <td valign="top"><font size="-1"><font color="#CC0000">set of 5, MOC</font> - hair: brown, gold, grey, silver, and white</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Trucks C Series #16</b></font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">pink cab, black stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Trucks C Series #3</b></font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">yellow cab, red stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Trucks C Series #5</b></font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">yellow cab, black stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Wile Coyote & Roadrunner</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$100 &nbsp;</font></td>
+              <td valign="top"><font size="-1">price is for the set of 2</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1"><b>Yappy Dog</b></font><b></b></td>
+              <td valign="top" align="right"><font size="-1">$90 &nbsp;</font></td>
+              <td valign="top"><font size="-1">orange head, blue stem</font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table><font face="verdana,arial,helvetica" size="-1"></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><b>Exact prices may have changed. Dealer has final say.</b></font></p>
+  </center>
+  <p><font face="verdana,arial,helvetica" size="-1"></font></p>
+  <hr noshade>
+  <center>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font></font>
+    <hr noshade>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><font size="-1"></font></font></p>
+  </center>
+</body>
+</html>

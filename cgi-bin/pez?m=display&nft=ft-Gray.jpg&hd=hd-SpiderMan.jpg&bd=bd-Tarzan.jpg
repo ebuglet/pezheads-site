@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#999999">
+  <center>
+    <a onmouseover="window.status='Click here to change the head!'; return true" href="/cgi-bin/pez?m=display&nhd=hd-SpiderMan.jpg&ft=ft-LightGreen.jpg&bd=bd-Tarzan.jpg"></a><br>
+    <a onmouseover="window.status='Click here to change the body!'; return true" href="/cgi-bin/pez?m=display&nbd=bd-Tarzan.jpg&ft=ft-LightGreen.jpg&hd=hd-SpiderMan.jpg"></a><br>
+    <a onmouseover="window.status='Click here to change the feet!'; return true" href="/cgi-bin/pez?m=display&nft=ft-LightGreen.jpg&hd=hd-SpiderMan.jpg&bd=bd-Tarzan.jpg"></a>
+    <p>SpiderMan Tarzan (LightGreen)</p>
+  </center>
+</body>
+</html>

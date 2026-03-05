@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Price Guide</title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#000000">
+  <form target="display" method="post" action="/cgi-bin/prices.cgi">
+    <table border="0" width="150" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="bottom"><img src="prguide.gif" width="150" height="84" border="0" alt="Online Price Guide"></td>
+      </tr>
+      <tr>
+        <td valign="top" bgcolor="#E4C100">
+          <font size="-1"><b><i>Search by:</i></b><br>
+          <input type="checkbox" name="search_name" value="name" checked> Dispenser Name<br>
+          <input type="checkbox" name="search_series" value="series" checked> Series<br>
+          <input type="checkbox" name="search_head" value="style" checked> Head Variations<br></font>
+          <center>
+            <font size="-1"><img src="/images/dot.gif" height="2" width="110" border="0" alt="_________"></font>
+          </center><font size="-1"></font>
+          <p><font size="-1"><input type="radio" name="phrase" value="on" checked> Exact Phrase<br>
+          <input type="radio" name="phrase" value="off"> All Keywords<br></font></p>
+          <p><font size="-1"><b><i>Dispenser:</i></b><br>
+          <input type="text" name="keyword" size="18"><br></font></p>
+          <center>
+            <font size="-1"><input type="submit" value="find matches"></font>
+          </center><font size="-1"><br>
+          <br></font>
+          <center>
+            <font size="-1"><img src="/images/dot.gif" height="2" width="110" border="0" alt="_________"></font>
+          </center><font size="-1"><br>
+          <b><i>Select Data Files to<br>
+          use for Average Price:</i></b><br>
+          <input type="checkbox" name="original" checked> Starter List<br>
+          <input type="checkbox" name="ebay" checked> Ebay SOLD Items<br>
+          <input type="checkbox" name="mail" checked> Mailing List Reports<br>
+          <input type="checkbox" name="convention" checked> Convention Sales<br></font>
+        </td>
+      </tr>
+    </table>
+  </form><font size="-1"><a target="display" href="info.htm">Price Guide Main</a><br>
+  <a target="_top" href="/index.htm">Back to Main</a><br></font>
+</body>
+</html>

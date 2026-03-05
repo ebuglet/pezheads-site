@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#BBBBBB">
+  <center>
+    <table border="0" width="550">
+      <tr>
+        <td>
+          <h3>Blank Shopping List!</h3>You need to search for, and then add, dispensers to your list first. <a href="/cgi-bin/shoplist.cgi">Try it now!</a>
+          <p></p>
+        </td>
+      </tr>
+    </table>
+  </center>
+  <center>
+    <img src="/images/shopmenu.gif" ismap usemap="#imap" width="495" height="30" border="0" alt="Navigation Bar">
+    <p><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></p>
+    <p><font size="-1"></font></p>
+  </center><map name="imap" id="imap">
+    <area href="/cgi-bin/shoplist.cgi?action=remove" coords="0,0 74,30" shape="rect">
+    <area href="/cgi-bin/shoplist.cgi?action=text" coords="146,0 225,15" shape="rect">
+    <area href="/cgi-bin/shoplist.cgi?action=text" coords="157,15 186,27" shape="rect">
+    <area href="/cgi-bin/shoplist.cgi?action=text&sortby=price" coords="196,15 229,27" shape="rect">
+    <area href="/cgi-bin/shoplist.cgi?action=text&sortby=dealer" coords="225,15 277,27" shape="rect">
+    <area href="/cgi-bin/shoplist.cgi" coords="317,0 377,30" shape="rect">
+    <area href="/index.htm" coords="429,0 495,30" shape="rect">
+  </map>
+</body>
+</html>

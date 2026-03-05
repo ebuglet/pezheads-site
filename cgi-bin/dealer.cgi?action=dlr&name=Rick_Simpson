@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 1/31/99</font></b></p>
+    </center>
+    <p><b>Name:</b> Rick Simpson<br>
+    <b>Email:</b> <a href="mailto:clinch3@webtv.net">clinch3@webtv.net</a><br>
+    <b>Address:</b> 2439 South Avenue<br>
+    <b>City:</b> Niagara Falls<br>
+    <b>State:</b> New York<br>
+    <b>Zip:</b> 14305<br>
+    <b>Phone:</b> 716-282-6607<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Check or Money Order Only.<br>
+      <br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Rick_Simpson">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

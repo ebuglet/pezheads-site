@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PEZ Shopping List Generator</title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#BBBBBB">
+  <center>
+    <table border="0" width="550">
+      <tr>
+        <td>
+          <nobr><a href="/index.htm"><img src="/images/hdr-image.gif" width="162" height="75" border="0" alt="back to main"></a><img src="/images/h-shop.gif" width="196" height="75" border="0" alt="shopping list generator"></nobr><br>
+          If you're searching by <b>DEALER</b> be sure to leave the "dispenser" field blank! When you order, please tell the dealer you saw it here...that's how this site will grow to serve you! There are even more dispensers available at the <a href="/dealers/">One Stop PEZ Shop</a>!<br>
+          <form method="post" action="http://pezheads.org/cgi-bin/shoplist.cgi">
+            <input type="hidden" name="action" value="search">
+            <center>
+              <table border="1" cellpadding="4" cellspacing="0" bgcolor="#333388">
+                <tr>
+                  <td>
+                    <table border="0">
+                      <tr>
+                        <td colspan="2" height="24" valign="top">Searching for a particular:</td>
+                      </tr>
+                      <tr>
+                        <td width="30" rowspan="3"></td>
+                        <td align="right"><input type="text" name="keyword" size="21"></td>
+                        <td><b>Dispenser</b> to buy?</td>
+                      </tr>
+                      <tr>
+                        <td align="right"><select name="dealers">
+                          <option value="ERROR_NO_DEALER_SELECTED">
+                            -Select Dealer-
+                          </option>
+                          <option value="Linda_Kochenburger">
+                            Linda Kochenburger (4/04/101)
+                          </option>
+                          <option value="Spleen_Eck">
+                            Spleen Eck (4/03/101)
+                          </option>
+                          <option value="Michele_Lorenz">
+                            Michele Lorenz (3/16/101)
+                          </option>
+                          <option value="Bob_Cleveland">
+                            Bob Cleveland (3/05/101)
+                          </option>
+                          <option value="David_Welch">
+                            David Welch (2/26/101)
+                          </option>
+                          <option value="Marlis_Connell">
+                            Marlis Connell (12/14/100)
+                          </option>
+                          <option value="pezheads.org">
+                            pezheads.org (7/30/100)
+                          </option>
+                          <option value="Joseph_Somers">
+                            Joseph Somers (7/13/100)
+                          </option>
+                          <option value="Larry_Silveira">
+                            Larry Silveira (6/10/100)
+                          </option>
+                          <option value="Stuart_Cartwright">
+                            Stuart Cartwright (8/24/99)
+                          </option>
+                          <option value="Rivercity_Pezhead_Rick_Roberts">
+                            Rivercity Pezhead Rick Roberts (6/13/99)
+                          </option>
+                          <option value="Rick_Simpson">
+                            Rick Simpson (1/31/99)
+                          </option>
+                        </select></td>
+                        <td>or a <b>Dealer's</b> sale list?</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td><input type="submit" value="SEARCH"></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="center">Right now there are <b>1575</b> dispensers for sale!</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </center>
+          </form><a href="/cgi-bin/shoplist.cgi?action=remove">Remove Items</a> ~ Go to this page to remove any or all of the dispensers on your shopping list. Fairly self explanatory.
+          <p><a href="/cgi-bin/shoplist.cgi?action=text">View/Print List</a> ~ Here is where you can view the text version of your list (suitable for printing or emailing). Each dealer's contact info is provided at the bottom. You may also sort your list by <a href="/cgi-bin/shoplist.cgi?action=text&sortby=price">price</a> or by <a href="/cgi-bin/shoplist.cgi?action=text&sortby=dealer">dealer</a>.</p>
+          <p></p>
+          <center>
+            <img src="/images/shopmenu.gif" ismap usemap="#imap" width="495" height="30" border="0" alt="Navigation Bar">
+            <p><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></p>
+            <p><font size="-1"></font></p>
+          </center><map name="imap" id="imap">
+            <area href="/cgi-bin/shoplist.cgi?action=remove" coords="0,0 74,30" shape="rect">
+            <area href="/cgi-bin/shoplist.cgi?action=text" coords="146,0 225,15" shape="rect">
+            <area href="/cgi-bin/shoplist.cgi?action=text" coords="157,15 186,27" shape="rect">
+            <area href="/cgi-bin/shoplist.cgi?action=text&sortby=price" coords="196,15 229,27" shape="rect">
+            <area href="/cgi-bin/shoplist.cgi?action=text&sortby=dealer" coords="225,15 277,27" shape="rect">
+            <area href="/cgi-bin/shoplist.cgi" coords="317,0 377,30" shape="rect">
+            <area href="/index.htm" coords="429,0 495,30" shape="rect">
+          </map>
+        </td>
+      </tr>
+    </table>
+  </center>
+</body>
+</html>

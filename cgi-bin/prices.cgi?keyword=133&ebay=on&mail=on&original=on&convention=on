@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#BBBBBB">
+  <b>Click on the dispenser's name to view it's full info, as well as a breakdown of the values that make up the average scores, and link to PURCHASE the dispenser!</b>
+  <hr noshade>
+  <table border="0">
+    <tr>
+      <td colspan="2" height="15"></td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <a target="_top" href="/cgi-bin/prices.cgi?m=i&id=133"><b>Raven short beak</b></a><br>
+        blk face/yel glass/red beak<br>
+        blue base, no feet<br>
+        Card/Info: Loose<br>
+        Patent #: 2.6<br>
+        <hr noshade>
+        <table border="0" bgcolor="#42426F" width="100%">
+          <tr>
+            <td><b>Total Average Value: $57</b></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" width="50%" align="right">
+        Starter Value: <b>$50</b><br>
+        Ebay Average: <b>$64</b><br>
+        Mailing List Average: <b>$0</b><br>
+        Convention Average: <b>$0</b><br>
+        <a target="_top" href="/cgi-bin/prices.cgi?m=i&id=133"></a><br>
+      </td>
+    </tr>
+  </table>
+  <p></p>
+  <hr size="2">
+  <center>
+    <font size="-1">| <a target="_top" href="/index.htm">flip me some pez!</a> | <a href="mailto:jamie@pezheads.org">jamie@pezheads.org</a></font>
+  </center>
+</body>
+</html>

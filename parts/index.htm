@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PEZ Dispenser Parts</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#000000">
+  <blockquote>
+    <img src="../images/h-parts.gif" alt=" PEZ Parts Locator" width="347" height="33" border="0">
+    <p>This database is still very new so there aren't too many entries. If you know anyone that <b>has an extra</b> part or <b>needs</b> a part, tell them to stop by and <a href="add.htm"><b>add</b></a> their parts to the database! In the meantime, here's two buttons to help you find the available items.</p>
+    <p></p>
+    <table border="0">
+      <tr>
+        <td>
+          <form method="post" action="/cgi-bin/parts.cgi">
+            <input type="hidden" name="data" value="found"> <input type="hidden" name="action" value="find"> <input type="hidden" name="item" value="showall"> <input type="submit" value="show all items FOUND">
+          </form>
+        </td>
+        <td>
+          <form method="post" action="/cgi-bin/parts.cgi">
+            <input type="hidden" name="data" value="needed"> <input type="hidden" name="action" value="find"> <input type="hidden" name="item" value="showall"> <input type="submit" value="show all items NEEDED">
+          </form>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <form method="post" action="/cgi-bin/parts.cgi">
+      <input type="hidden" name="action" value="find">
+      <center>
+        <table border="1" bgcolor="#EDBA7D">
+          <tr>
+            <td>
+              <table border="0">
+                <tr>
+                  <td valign="top" align="center" colspan="3">
+                    <table border="0">
+                      <tr>
+                        <td valign="top" align="right"><b>Search for:</b></td>
+                        <td valign="top" align="left"><input type="radio" name="data" value="found" checked>Parts <b>FOUND:</b> <font size="-1">(Do you need a specific part?)</font><br>
+                        <input type="radio" name="data" value="needed">Parts <b>NEEDED:</b> <font size="-1">(Do you want to find a part a home?)</font></td>
+                      </tr>
+                    </table>
+                    <hr noshade>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top">
+                    <input type="radio" name="item" value="hats">Hats/Helmets<br>
+                    <input type="radio" name="item" value="hair">Hair<br>
+                    <input type="radio" name="item" value="eyes">Eyes/Glasses<br>
+                    <input type="radio" name="item" value="ears">Ears/Earrings<br>
+                    <input type="radio" name="item" value="nose">Noses<br>
+                    <input type="radio" name="item" value="moustache">Moustache/Beard<br>
+                    <input type="radio" name="item" value="misc">MISCELLANEOUS<br>
+                    <p><input type="radio" name="item" value="disp">or Search for a Dispenser:<br>
+                    <input type="text" name="textinput" size="30"></p>
+                    <p></p>
+                  </td>
+                  <td width="30"></td>
+                  <td><input type="submit" value="SEARCH"></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </center>
+    </form>
+    <p></p>
+    <ul>
+      <li>
+        <img src="../images/new.gif">Now you can <a href="add.htm">list</a> any parts that you <b>NEED</b>! Maybe somebody will run across it!
+      </li>
+      <li>Have you found some parts that you'd like to trade or sell? <b><a href="add.htm">Add Your PEZ Parts to the Locator!</a></b> Make another collector happy!</li>
+      <li>If the part you placed on the locator has already been for sold, mail me and I'll remove it for you ASAP.
+        <p></p>
+        <hr noshade>
+        <font size="-1">questions --&gt; <a href="mailto:jamie@pezheads.org">jamie@pezheads.org</a> | <a href="../index.htm">return to main</a><br></font>
+      </li>
+    </ul>
+  </blockquote>
+</body>
+</html>

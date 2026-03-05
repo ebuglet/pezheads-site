@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial"><b>Profile for Pez Maniac</b></font>
+  <hr>
+  <blockquote>
+    <table border="0">
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Date Registered:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">06-09-99</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Status:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Member</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Total Posts:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">34</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Current Email:</b></font></td>
+        <td>
+          <a href="mailto:lasher3@hotmail.com"><font size="2" face="Verdana, Arial" color="#000080">lasher3@hotmail.com</font></a>
+        </td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Homepage:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">http://homepages.msn.com/hobbyct/pezmaniac</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Occupation:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">job terminated-10/22/99</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Location:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Md. usa</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Interests:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">pez-pez-pez</font></td>
+      </tr>
+    </table>
+  </blockquote>
+  <hr>
+</body>
+</html>

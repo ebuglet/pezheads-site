@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Find a PEZhead</title>
+  <style type="text/css">
+  <!--
+  td { font-size: 10pt;}
+  -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#000000">
+  <img src="../images/h-locate.gif" width="347" height="34" border="0" alt=" pezhead locator">
+  <h2>Add Yourself!</h2>
+  <p><font color="blue"><b>Please check to be sure you aren't already in the database!!! If you are, you need to EDIT rather than create a new entry.</b></font></p>
+  <p></p>
+  <form action="/cgi-bin/adduser.cgi" method="post">
+    <center>
+      <table border="2" cellpadding="0" cellspacing="0" bgcolor="#EDBA7D" width="550">
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td colspan="4"><b>Basic Info:</b></td>
+              </tr>
+              <tr>
+                <td colspan="2"><input type="radio" name="loc_type" value="USA" checked>USA <input type="radio" name="loc_type" value="Canada">Canada <input type="radio" name="loc_type" value="other">Other Country</td>
+                <td align="right">Name:</td>
+                <td><input type="text" size="11" name="usrname"> <input type="text" size="16" name="last_name"></td>
+              </tr>
+              <tr>
+                <td valign="top" colspan="2" rowspan="5"><select name="state">
+                  <option selected>
+                    Choose Your U.S. State
+                  </option>
+                  <option>
+                    Alabama
+                  </option>
+                  <option>
+                    Alaska
+                  </option>
+                  <option>
+                    Arizona
+                  </option>
+                  <option>
+                    Arkansas
+                  </option>
+                  <option>
+                    California
+                  </option>
+                  <option>
+                    Colorado
+                  </option>
+                  <option>
+                    Connecticut
+                  </option>
+                  <option>
+                    Delaware
+                  </option>
+                  <option>
+                    Florida
+                  </option>
+                  <option>
+                    Georgia
+                  </option>
+                  <option>
+                    Hawaii
+                  </option>
+                  <option>
+                    Idaho
+                  </option>
+                  <option>
+                    Illinios
+                  </option>
+                  <option>
+                    Indiana
+                  </option>
+                  <option>
+                    Iowa
+                  </option>
+                  <option>
+                    Kansas
+                  </option>
+                  <option>
+                    Kentucky
+                  </option>
+                  <option>
+                    Louisiana
+                  </option>
+                  <option>
+                    Maine
+                  </option>
+                  <option>
+                    Maryland
+                  </option>
+                  <option>
+                    Massachusetts
+                  </option>
+                  <option>
+                    Michigan
+                  </option>
+                  <option>
+                    Minnesota
+                  </option>
+                  <option>
+                    Mississippi
+                  </option>
+                  <option>
+                    Missouri
+                  </option>
+                  <option>
+                    Montana
+                  </option>
+                  <option>
+                    Nebraska
+                  </option>
+                  <option>
+                    Nevada
+                  </option>
+                  <option>
+                    New Hampshire
+                  </option>
+                  <option>
+                    New Jersey
+                  </option>
+                  <option>
+                    New Mexico
+                  </option>
+                  <option>
+                    New York
+                  </option>
+                  <option>
+                    North Carolina
+                  </option>
+                  <option>
+                    North Dakota
+                  </option>
+                  <option>
+                    Ohio
+                  </option>
+                  <option>
+                    Oklahoma
+                  </option>
+                  <option>
+                    Oregon
+                  </option>
+                  <option>
+                    Pennsylvania
+                  </option>
+                  <option>
+                    Rhode Island
+                  </option>
+                  <option>
+                    South Carolina
+                  </option>
+                  <option>
+                    South Dakota
+                  </option>
+                  <option>
+                    Tennessee
+                  </option>
+                  <option>
+                    Texas
+                  </option>
+                  <option>
+                    Utah
+                  </option>
+                  <option>
+                    Vermont
+                  </option>
+                  <option>
+                    Virginia
+                  </option>
+                  <option>
+                    Washington
+                  </option>
+                  <option>
+                    West Virginia
+                  </option>
+                  <option>
+                    Wisconsin
+                  </option>
+                  <option>
+                    Wyoming
+                  </option>
+                </select> <select name="province">
+                  <option selected>
+                    OR Your Canadian Prov.
+                  </option>
+                  <option>
+                    Alberta
+                  </option>
+                  <option>
+                    British Columbia
+                  </option>
+                  <option>
+                    Manitoba
+                  </option>
+                  <option>
+                    New Brunswick
+                  </option>
+                  <option>
+                    Newfoundland
+                  </option>
+                  <option>
+                    Northwest Territories
+                  </option>
+                  <option>
+                    Nova Scotia
+                  </option>
+                  <option>
+                    Ontario
+                  </option>
+                  <option>
+                    Prince Edward Island
+                  </option>
+                  <option>
+                    Quebec
+                  </option>
+                  <option>
+                    Saskatechewan
+                  </option>
+                  <option>
+                    Yukon
+                  </option>
+                </select><br>
+                <br>
+                &nbsp;&nbsp;or enter your country below:<br>
+                &nbsp;&nbsp;<input type="text" size="25" name="country" value="(if not USA or Canada)"></td>
+                <td align="right">PEZ Title:</td>
+                <td><input type="text" size="30" name="title"></td>
+              </tr>
+              <tr>
+                <td align="right">E-Mail:</td>
+                <td><input type="text" size="30" name="email"></td>
+              </tr>
+              <tr>
+                <td align="right">Website:</td>
+                <td><input type="text" size="30" name="url" value="http://"></td>
+              </tr>
+              <tr>
+                <td align="right">City:</td>
+                <td><input type="text" size="30" name="city"></td>
+              </tr>
+              <tr>
+                <td align="right">Phone:</td>
+                <td><input type="text" size="30" name="phone"></td>
+              </tr>
+              <tr>
+                <td colspan="4">
+                  <hr noshade width="92%">
+                </td>
+              </tr>
+            </table>
+            <table border="0" width="100%">
+              <tr>
+                <td colspan="4"><b>Additional Info:</b></td>
+              </tr>
+              <tr>
+                <td align="right">Collecting Since:</td>
+                <td align="left"><input type="text" size="4" maxlength="4" name="year" value="19xx"></td>
+                <td align="right">Favorite Dispenser Made:</td>
+                <td><input type="text" size="20" name="fav_disp"></td>
+              </tr>
+              <tr>
+                <td align="right">Most Wanted Dispenser:</td>
+                <td><input type="text" size="20" name="wanted"></td>
+                <td align="right">Most $ Spent on One Dispenser:</td>
+                <td><input type="text" size="20" name="money"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p></p>
+    </center>
+    <blockquote>
+      <font size="-1"><b>Choose a password:</b> (to make updates)</font><br>
+      <input type="password" name="pass" size="10" maxlength="10"><br>
+      <font size="-1"><b>Re-Enter:</b></font><br>
+      <input type="password" name="passcheck" size="10" maxlength="10"><br>
+    </blockquote>
+    <center>
+      <input type="submit" value="submit"> <input type="reset" value="reset">
+      <p><font size="-1"><a href="index.html">search</a> | <a href="../index.htm">back to main</a><br></font></p>
+    </center>
+  </form>
+  <p></p>
+  <hr size="6" width="75%">
+  <center>
+    <font size="1">PEZ and the PEZ name are registered trademarks of PEZ Candy, Inc.<br>
+    All other material &#169;1998, <a href="../pezmail.htm">Jamie Gerdes</a>. Any information or opinions expressed<br>
+    herein can be blamed on the senseless actions of a PEZ <a href="../me.htm">addict</a>.</font>
+  </center>
+</body>
+</html>

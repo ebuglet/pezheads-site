@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dispenser Survey Results</title>
+</head>
+<body>
+  <a href="/cgi-bin/vote.cgi"></a>
+  <p><b>Votes have all been reset!<br>
+  You can still check out the <a href="/cgi-bin/vote.cgi?file=1">REALLY OLD VOTING RESULTS</a>!</b></p>
+  <p><b>Here are the results of the most recent poll.<br>
+  View the <a href="/cgi-bin/vote.cgi?file=2">PREVIOUS VOTING RESULTS</a>! (ended 9/1/97)</b></p>
+  <ol>
+    <li>Your Favorite CURRENT Dispenser</li>
+    <li>Do You EAT the PEZ Candy?<a href="/index.htm"></a>
+    </li>
+    <li>Been Collecting Since: (what year)</li>
+    <li>and What Flavors Should Be Made Next</li>
+  </ol><a href="/cgi-bin/vote.cgi">Vote on a Dispenser!</a>
+  <p></p>
+  <center>
+    <table border="0" cellspacing="0" width="100%">
+      <tr>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Favorite Current<i>(0)</i></b></td>
+        <td rowspan="2" width="10"></td>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Eat<i>()</i></b></td>
+        <td rowspan="2" width="10"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1"></font></td>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1"></font></td>
+      </tr>
+      <tr>
+        <td height="20" colspan="7"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Collecting Since<i>()</i></b></td>
+        <td rowspan="2" width="10"></td>
+        <td bgcolor="#EDBA7D"><font color="#EDBA7D" size="-3">_</font></td>
+        <td valign="bottom" bgcolor="#EDBA7D" colspan="2"><b>Flavor <i>()</i></b></td>
+        <td rowspan="2" width="10"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1"></font></td>
+        <td bgcolor="#EDBA7D" width="3"><font color="#EDBA7D" size="-3">_</font></td>
+        <td></td>
+        <td valign="top"><font size="-1"></font></td>
+      </tr>
+    </table>
+  </center>
+  <p><a href="/cgi-bin/vote.cgi">Vote on a Dispenser!</a></p>
+  <p></p>
+  <hr size="6" width="75%">
+  <center>
+    <font size="1">PEZ and the PEZ name are registered trademarks of PEZ Candy, Inc.<br>
+    All other material &#169;1997, <a href="/pezmail.htm">Jamie Gerdes</a>. Any information or opinions expressed<br>
+    herein can be blamed on the senseless actions of a PEZ <a href="/me.htm">addict</a>.</font>
+  </center>
+</body>
+</html>

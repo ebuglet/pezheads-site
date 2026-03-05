@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums Preferences</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"><a href="index.cgi?action=intro&BypassCookie=true"></a> <font size="+1" face="Verdana, Arial" color="#000080"><b>Bulletin Board Preferences</b></font></font>
+  <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+  <table border="0">
+    <tr>
+      <td>
+        <font size="2" face="Verdana, Arial"><b>You may customize this bulletin board to reflect your preferences. Currently, there are two preferences that you can set.</b></font>
+        <p><font size="2" face="Verdana, Arial"><b></b></font></p>
+        <ul>
+          <li><font size="2" face="Verdana, Arial"><b>the option to store your username and password in memory for one year (you won't have to type your name/password at all during that year). If you check no, your username and password will be saved after you type it once, but only for that browser session (no long-term memory)</b></font></li>
+          <li><font size="2" face="Verdana, Arial"><b>the standard number of days (history) for viewing topics<br>
+          <br></b></font></li>
+        </ul><font size="2" face="Verdana, Arial"><b></b></font>
+      </td>
+    </tr>
+  </table>
+  <center>
+    <form name="PREFS" method="post" action="ubbmisc.cgi" id="PREFS">
+      <table border="0">
+        <tr bgcolor="#F7F7F7">
+          <td>
+            <form name="PREFS" method="post" action="ubbmisc.cgi" id="PREFS">
+              <font size="2" face="Verdana, Arial"><b>Store Username & Password in browser memory for 1 year (otherwise you will have to type your username and password once per browser session)</b></font>
+            </form>
+          </td>
+          <td valign="top">
+            <center>
+              <font size="2" face="Verdana, Arial"><input type="radio" name="NameStorage" value="yes"> yes <input type="radio" name="NameStorage" value="no"> no</font>
+            </center>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td valign="top"><font size="2" face="Verdana, Arial"><b>Default Topic View:</b></font></td>
+          <td valign="top">
+            <center>
+              <select name="DaysPrune">
+                <option value="1">
+                  Show topics from last day
+                </option>
+                <option value="2">
+                  Show topics from last 2 days
+                </option>
+                <option value="5">
+                  Show topics from last 5 days
+                </option>
+                <option value="10">
+                  Show topics from last 10 days
+                </option>
+                <option value="20">
+                  Show topics from last 20 days
+                </option>
+                <option value="30">
+                  Show topics from last 30 days
+                </option>
+                <option value="45">
+                  Show topics from last 45 days
+                </option>
+                <option value="60">
+                  Show topics from last 60 days
+                </option>
+                <option value="75">
+                  Show topics from last 75 days
+                </option>
+                <option value="100">
+                  Show topics from last 100 days
+                </option>
+                <option value="365">
+                  Show topics from the last year
+                </option>
+              </select>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </center><br>
+  <br>
+  <center>
+    <input type="hidden" name="action" value="PrefsSubmit"> <input type="submit" name="Submit" value="Submit Preferences"> <input type="reset" name="Reset" value="Reset">
+  </center><br>
+  <br>
+  <font size="1" face="Verdana, Arial"><b>Note: Your preferences are stored as cookies in your browser. Thus, you must be using a cookies-enabled browser (Netscape and Microsoft Internet Explorer both support cookies). If your browser does not support cookies or you have the cookies option turned off in your browser preferences, the settings you make above will not take affect. Also, please note that the settings are set to last for one year. After each year, you will have to reset your preferences.</b></font><br>
+  <script language="JavaScript">
+
+
+  <!-- HIDE
+  var dc = document.cookie;
+  if (document.cookie) {
+        if (dc.length > 0) {  
+        var DaysPrune = getCookie("DaysPrune");
+                var NameStorage = getCookie("NameStorage");
+
+        if (NameStorage == "yes") {
+                document.PREFS.NameStorage[0].checked = true;
+                } else {
+                document.PREFS.NameStorage[1].checked = true;
+        }
+        if (DaysPrune == "1") {
+                document.PREFS.DaysPrune[0].selected = true;
+        }
+        if (DaysPrune == "2") {
+                document.PREFS.DaysPrune[1].selected = true;
+        }
+        if (DaysPrune == "5") {
+                document.PREFS.DaysPrune[2].selected = true;
+        }
+        if (DaysPrune == "10") {
+                document.PREFS.DaysPrune[3].selected = true;
+        }
+        if (DaysPrune == "20") {
+                document.PREFS.DaysPrune[4].selected = true;
+        }
+        if (DaysPrune == "30") {
+                document.PREFS.DaysPrune[5].selected = true;
+        }
+        if (DaysPrune == "45") {
+                document.PREFS.DaysPrune[6].selected = true;
+        }
+        if (DaysPrune == "60") {
+                document.PREFS.DaysPrune[7].selected = true;
+        }
+        if (DaysPrune == "75") {
+                document.PREFS.DaysPrune[8].selected = true;
+        }
+        if (DaysPrune == "100") {
+                document.PREFS.DaysPrune[9].selected = true;
+        }
+                if (DaysPrune == "360") {
+                document.PREFS.DaysPrune[10].selected = true;
+        }
+  }  else {
+  document.PREFS.DaysPrune[4].selected = true;
+  }
+  }  else {
+  document.PREFS.DaysPrune[4].selected = true;
+
+  }
+
+  function getCookie(name){
+  var cname = name + "=";               
+  var dc = document.cookie;
+  if (dc.length > 0) {              
+    begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+  }
+  return null;
+  }
+  //STOP HIDING-->
+  </script>
+  <center></center>
+</body>
+</html>

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top"><font size="+1">There are 22 dispensers matching<br>
+              your search for "<b>Bunny</b>"..</font><br></td>
+              <td valign="top" align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <center>
+      <table border="1" bgcolor="#DDDDDD" width="95%">
+        <caption align="left">
+          <font size="-1"><b>Click on a column heading to sort the list...</b></font>
+        </caption>
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td>&nbsp;</td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Bunny&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Bunny&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Bunny&sortby=file" onmouseover="window.status='Sort list by Dealer'; return true;" onmouseout="window.status=''; return true;">Dealer</a></b></td>
+                <td></td>
+                <td><b>Comments</b></td>
+              </tr>
+              <tr>
+                <td colspan="8" valign="top">
+                  <hr noshade>
+                </td>
+              </tr>
+              <tr>
+                <td height="1"></td>
+                <td height="1"></td>
+                <td height="1" rowspan="23">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="23">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="23">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">BUNNY DIE-CUT</font></td>
+                <td valign="top"><font size="-1">$1000</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">flawless, EXTREMELY rare to find WITHOUT the common crack on back of stem</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Die Cut Easter Bunny</font></td>
+                <td valign="top"><font size="-1">$545</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">Floppy Head, tiny crack at pin</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny,fat ears,PIN</font></td>
+                <td valign="top"><font size="-1">$250</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">rare hot pink head</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny,fat ears,PIN</font></td>
+                <td valign="top"><font size="-1">$190</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">yellow head</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny,fat ears,no pin</font></td>
+                <td valign="top"><font size="-1">$125</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">hot pink head</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny, fat ears, no pin</font></td>
+                <td valign="top"><font size="-1">$100@</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">metal spring,very early version,60s, light yellow or ivory heads</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny A</font></td>
+                <td valign="top"><font size="-1">$55</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">MIP w/ old star candy, n/f</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Fat Ear Bunny</font></td>
+                <td valign="top"><font size="-1">$25</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Stuart_Cartwright"><font size="-1">Stuart Cartwright</font></a>
+                </td>
+                <td valign="top"><font size="-1">yellow head, 3.9 green stem with thin feet</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny</font></td>
+                <td valign="top"><font size="-1">$15</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">ivory face w/f (MIP+$5)</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Counter Box-Easter, New Bunny, Chick, & Lamb</font></td>
+                <td valign="top"><font size="-1">$ 13</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">12 Count Factory Sealed Counter Box</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">dark gray/red nose w/f; n/f-$20</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Key Chain Set 3rd Series</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Marlis_Connell"><font size="-1">Marlis Connell</font></a>
+                </td>
+                <td valign="top"><font size="-1">USA MOC-NO FEET Style-B.Bunny,Taz,Tweety.</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Fat Ear Bunny-Salesman's Pin</font></td>
+                <td valign="top"><font size="-1">$9.50</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">Enameled Brass Stick Pin</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">W/f Easter Bunny w/Body Part</font></td>
+                <td valign="top"><font size="-1">$8</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">4.9 Easter Bunny</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny</font></td>
+                <td valign="top"><font size="-1">$6</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">discont'd-lt grey ears; MOC-$8</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny, NEW Easter-Japanese Bubblecard</font></td>
+                <td valign="top"><font size="-1">$6</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Body Parts</font></td>
+                <td valign="top"><font size="-1">$6 ea</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">Robot w/Bugs Bunny/Sylvester w/Hockey Uniform</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny-Neon Red Stem</font></td>
+                <td valign="top"><font size="-1">$4</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny, Easter, F, Mint on 'Floating Candy Card'</font></td>
+                <td valign="top"><font size="-1">$4</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bunny, NEW Easter, Floating Candy Card</font></td>
+                <td valign="top"><font size="-1">$3.50</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC Euro</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Easter Bunny</font></td>
+                <td valign="top"><font size="-1">$3</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">pink thin ears w/f-discont'd</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Bugs Bunny</font></td>
+                <td valign="top"><font size="-1">$2</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">sideways baseball cap</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p><b>Exact prices may have changed. Dealer has final say.</b></p>
+    </center>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font>
+      <hr noshade>
+      <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+      <p><font size="-1"></font></p>
+    </center>
+  </center>
+</body>
+</html>

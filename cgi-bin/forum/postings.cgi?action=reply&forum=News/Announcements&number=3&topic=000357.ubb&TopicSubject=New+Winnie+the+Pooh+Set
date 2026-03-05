@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">News/Announcements</font><br>
+      Topic: <font color="#2F2F4F">New Winnie the Pooh Set</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="New Winnie the Pooh Set"> <input type="hidden" name="forum" value="News/Announcements"> <input type="hidden" name="number" value="3"> <input type="hidden" name="topic" value="000357.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>thepezananda</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 03-29-01 09:29 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Just got the new "Winnie the Pooh" set of 4. Very nice. Burlingame PEZ Museum has them. Excellent service! www.geocities.com/pezananda</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dr PEZ</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 03-30-01 02:58 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have also heard that the Pooh collection is in at some Wal-Mart stores, but I haven't seen them. Neither have I seen the Smilely Faces. Has anyone seen these in the stores?</font>
+            <p><font size="2" face="Verdana, Arial">------------------<br></font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>brianr</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 03-30-01 10:43 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found ONE smiley at a wal-mart, no Pooh series yet. I am told the smileys have 7 stem colors if you are into stems (I'm not). Hopefully they will both be in all the wal-marts soon.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>terilatt</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 04-01-01 06:36 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found all the smiley faces and the Poohs at my local Walmart here in the St. Paul area. All at the one store! What a Pezzie Day!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dr PEZ</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 04-01-01 10:19 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">What a day you had, Terilatt! Congratulations! I am going to talk to the person who stocks the Pez display at my local Wal-Mart tomorrow morning. I found 4 smilie face stem colors and no Poohs. Poor me.</font>
+            <p><font size="2" face="Verdana, Arial">------------------<br></font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>HANDSEL</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 04-02-01 11:26 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I got a set from PeterandMark.com. They were $8 for the entire set.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dr PEZ</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 04-02-01 05:14 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Finally,all the Smileis and Poohs anyone could wish for! I went to 2 different Wal-Mart stores and hit pay dirt. Smileis in all stem colors and all 4 Pooh characters. Someone told me that both Piglet and Pooh come on two different stem colors. Does anyone know this for sure?</font>
+            <p><font size="2" face="Verdana, Arial">------------------<br></font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>oddpez</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 04-03-01 12:36 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Some of the ones that leaked out before the official release came on different colors but the ones in stores are just one color.</font>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

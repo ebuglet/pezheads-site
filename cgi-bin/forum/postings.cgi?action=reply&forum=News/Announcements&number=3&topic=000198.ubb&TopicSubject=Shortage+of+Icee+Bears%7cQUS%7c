@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">News/Announcements</font><br>
+      Topic: <font color="#2F2F4F">Shortage of Icee Bears?</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="Shortage of Icee Bears?"> <input type="hidden" name="forum" value="News/Announcements"> <input type="hidden" name="number" value="3"> <input type="hidden" name="topic" value="000198.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Falcon2Z</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-05-99 10:52 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I've looked through many displays of Christmas pez and finds loads of santa and snowman but very few of icee bear. Is this the same all over?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Jawapez</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-06-99 12:20 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I'm starting to find this to be true as well. At first there seemed to be about the usual amount,but the in newer shippments I've usually found 10-15. Also the newer ones have assorted candy rolls in them. Which makes me think they're low on regular candy rolls also. I've only found one place that had them MOC, wih regular rolls. Good luck finding them! (If you need some email me for trade or bid on eBay seller: jawapez)</font>
+            <p><font size="2" face="Verdana, Arial">jawarancor@aol.com</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>vitis</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-06-99 12:47 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have had good luck finding them MOC, but in the usual Holiday shippers I am seeing only 4-5 per 90-100 Santa and Snowmen. Again, with assorted candy rolls.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezdrake</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-06-99 06:24 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">same here in Tennessee.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>PezDeva</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-06-99 07:44 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have picked up my Icee Bear MOC today at a Walgreens in Texas. But they have the regular rolls of pez, I think it would be cool to find them with the assorted flavors.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dustin Pezboy Tate</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-07-99 11:15 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">When I saw Displays of Christmas PEZ. They had more than twice as many Santas to Polar Bears. I have never seen MIB Assorted PEZ Candy.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dustin Pezboy Tate</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-08-99 07:04 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I meant to say that they had more polar bears to santas</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezmama</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-11-99 07:32 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">At JoAnn's Fabrics here in Texas, I found the snowman, Santa, & polar bear dispensers-all in bags with the assorted-flavor candy packs.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>nick1257</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-12-99 11:06 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found a lot of assorted candy icee bears too. I also found all of them in different bags. I got all of them with green or red bags and assorted candy. i usually take them out of the bag but i have a feeling that they are going to be rare with the assorted candy.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>chappez</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-13-99 11:54 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">HI,<br>
+            I saw Icee at Target for .99 cents MOC. I found him in the Christmas section of the candy & decorations. I definitely saw more Santas & Snowmen but Icee was there too. Good luck on the hunt everyone</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>vitis</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-22-99 10:35 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I just picked up a snowman from the Christmas display and found one that was interesting. He is MIB but has 1 roll of assorted flavor candy and 1 roll of strawberry. He was the only one in the display with a regular and an assorted candy roll. Has anyone else seen this?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dustin Pezboy Tate</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-22-99 04:02 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Yes, I saw that there was mostly Assorted Fruit and some had one and one.</font>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

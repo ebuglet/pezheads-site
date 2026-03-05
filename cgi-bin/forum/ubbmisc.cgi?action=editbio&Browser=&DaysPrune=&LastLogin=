@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Edit Profile</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="3" face="Verdana, Arial" color="#000000"></font> <a href="index.cgi?action=intro&BypassCookie=true"></a> <font size="3" face="Verdana, Arial" color="#000080"><b>Modify Your Profile</b></font>
+  <p><font size="2" face="Verdana, Arial">It is your responsibility to keep your profile information up-to-date. Do not ask the administrator or moderators to do this for you.</font></p>
+  <p><font size="2" face="Verdana, Arial">To modify your current profile information, please identify yourself below.</font></p>
+  <p><font size="2" face="Verdana, Arial"></font></p>
+  <form action="ubbmisc.cgi" method="post" name="EditProfile" id="EditProfile">
+    <font size="2" face="Verdana, Arial"></font>
+    <table border="0">
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>UserName</b></font></td>
+        <td><input type="text" name="UserName" size="25" maxlength="25"></td>
+      </tr>
+      <tr>
+        <td><b><font size="2" face="Verdana, Arial">Password</font></b></td>
+        <td>
+          <input type="password" name="Password" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+        </td>
+      </tr>
+    </table>
+    <center>
+      <input type="hidden" name="action" value="checkbioid"> <input type="submit" name="Submit" value="Submit Identification"> <input type="reset" name="Reset" value="Clear Fields">
+    </center>
+  </form>
+  <script language="JavaScript">
+  <!-- HIDE
+  var dc = document.cookie;
+  var testUserName = getCookie("UserName");
+  var testPassword = getCookie("Password");
+
+  if (document.cookie) {
+
+        if (testUserName == null) {  
+  document.EditProfile.UserName.focus();
+        } else {
+        document.EditProfile.UserName.value = getCookie("UserName");
+  document.EditProfile.Password.value = getCookie("Password");
+        }
+  }  else {
+  document.EditProfile.UserName.focus();
+  }
+
+  function getCookie(name){
+  var cname = name + "=";               
+  var dc = document.cookie;
+  if (dc.length > 0) {              
+    begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+  }
+  return null;
+  }
+
+  // STOP HIDING FROM OTHER BROWSERS -->
+  </script>
+  <p>If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</p>
+  <p></p>
+  <center></center>
+</body>
+</html>

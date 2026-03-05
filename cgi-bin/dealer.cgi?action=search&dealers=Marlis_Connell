@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <p></p>
+    <table border="0" bgcolor="#FFFFFF" width="95%">
+      <tr>
+        <td align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+      </tr>
+    </table>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top">
+                <font size="+1">Entire sales list for "<a href="/cgi-bin/dealer.cgi?action=dlr&name=Marlis_Connell" onmouseover="window.status='View Dealer Information'; return true;" onmouseout="window.status=''; return true;"><b>Marlis Connell</b></a>" ..</font><br>
+                <font size="-1" color="#008800">last updated on 12/14/00</font>
+                <p></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr>
+        <td valign="top"><font size="-1">Click on the dealer's name (above) for terms of sale and contact information. Please wait while longer lists load.</font></td>
+      </tr>
+    </table>
+    <p></p>
+  </center>
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <caption align="left">
+        <font size="-1" face="verdan,arial,helvetica"><b>Click on a column heading to sort the list...</b></font>
+      </caption>
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Marlis_Connell&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+              <td align="right"><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Marlis_Connell&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a> &nbsp;</b></td>
+              <td><b>Comments</b></td>
+            </tr>
+            <tr>
+              <td colspan="4" valign="top">
+                <hr noshade>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Asterix Obelix</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Astronaut B</font></td>
+              <td valign="top" align="right"><font size="-1">$165 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-White Helmet,Green Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Astronaut B</font></td>
+              <td valign="top" align="right"><font size="-1">$200 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Aqua Helmet,Aqua Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Christmas Angel w/Loop</font></td>
+              <td valign="top" align="right"><font size="-1">$150 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Button Eyes,Loop On Head,Halo.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Christmas Santa C</font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Red Mouth.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Christmas Santa C</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA-feet-With Eyes.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Christmas Snowman</font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-White Stem-Stuck On Face.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Coach Whistle</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MIB-feet-Orange Loop-Yellow/Orange Whistle-Purple Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Coach Whistle</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Green Loop-Yellow/Green Whistle-Red Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Counter Box Favorites</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Includes Header.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Counter Box Heroes</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Includes Header and Printed Cardboard Cover.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Counter Box Looney Tunes</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Includes Header Some With Orange "NEW" Sticker.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Counter Box Petz Series 1</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Bright Colors.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Disney's 2+12 Daisy Car Box</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIBOX-feet-Includes 12 Candy Packs.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Disney's Captain Hook</font></td>
+              <td valign="top" align="right"><font size="-1">$120 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Great Detail.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Disney's Peter Pan</font></td>
+              <td valign="top" align="right"><font size="-1">$195 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Original Hat w/Copyright,Perfect.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Forbes Magazine-Pez On Cover</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA Dec.'93 Issue-Great Pic Of 3 Old Pez On Cover.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Glow Ghost Happy Henry</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Glow Ghost Polly Pumpkin</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Glow Ghost Set Of 4</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet-Happy,Polly,Slimy,Naughty.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Glow Ghost Slimy Sid</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Johnny Lightning Pez Car</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-Limited Edition.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Key Chain Complete Set of 9</font></td>
+              <td valign="top" align="right"><font size="-1">$28 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-NO FEET Style-1st-2nd-3rd series.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Key Chain Set 1st Series</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-NO FEET Style-Peter,Elephant,Sam.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Key Chain Set 2nd Series</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-NO FEET Style-Gorilla,Lion,Pony.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Key Chain Set 3rd Series</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-NO FEET Style-B.Bunny,Taz,Tweety.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">MGM Jerry</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIB-feet-Old Style Painted Face.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">MGM Tyke B (SALE)</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet-Decal Eyes-4.9 Blue Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">MMM Penguin Whistle</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">MMM Tiger Whistle</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MIB-feet-Teeth-Red Scarf-Yellow Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Smile-Orange Scarf-Black Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Smile-Orange Scarf-Orange,Yellow Stems.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Smile-Purple Scarf-Yellow Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Smile-Red Scarf-Orange Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja Turtles</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Teeth-Red Scarf-Black Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Nintendo Koopa Turtle</font></td>
+              <td valign="top" align="right"><font size="-1">$6 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Nintendo Mario</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Nintendo Set Of 4</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC-feet-Mario,Koopa,Yoshi,Kong.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Petz Pig Curly</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-Full Body PEZ Dispenser-3 Flavors Gum.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Pez-A-Saurs Party Favors</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Set Of 4 Short Dispensers.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Spaceman</font></td>
+              <td valign="top" align="right"><font size="-1">$200 &nbsp;</font></td>
+              <td valign="top"><font size="-1">NO FEET-Clear Helmet,Transluscent Blue Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Star Wars Chewy</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Foreign Blue Card-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Star Wars Set 1st Series</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">5 Foreign Blue Card-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Star Wars Storm Trooper</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Foreign Blue Card-feet.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck R3</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-Green Cab-Red Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck R4</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MIB-Green Cab-Red Stem.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Warner's Tweety</font></td>
+              <td valign="top" align="right"><font size="-1">$2 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MIB-feet-3 Hairs And Hole On Side Of Head.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Wolverine Set Of 2</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Black & Yellow Stems.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Wolverine</font></td>
+              <td valign="top" align="right"><font size="-1">$3 &nbsp;</font></td>
+              <td valign="top"><font size="-1">USA MOC-feet-Yellow Stem.</font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table><font face="verdana,arial,helvetica" size="-1"></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><b>Exact prices may have changed. Dealer has final say.</b></font></p>
+  </center>
+  <p><font face="verdana,arial,helvetica" size="-1"></font></p>
+  <hr noshade>
+  <center>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font></font>
+    <hr noshade>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><font size="-1"></font></font></p>
+  </center>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 5/04/01</font></b></p>
+    </center>
+    <p><b>Name:</b> Spleen Eck<br>
+    <b>Email:</b> <a href="mailto:spleeneatspez@mindspring.com">spleeneatspez@mindspring.com</a><br>
+    <b>City:</b> Gloucester, MA<br>
+    <b>Zip:</b> 01931-2053<br>
+    <b>Phone:</b> (978) 397-2562 day/night<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Quality trades excepted! Money orders preferred and will be shipped within 24 hours. Ask about selection of candy packs and paperwork. I can email you a photo of any item...<br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Spleen_Eck">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

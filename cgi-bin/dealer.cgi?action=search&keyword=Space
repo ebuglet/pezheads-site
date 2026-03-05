@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top"><font size="+1">There are 9 dispensers matching<br>
+              your search for "<b>Space</b>"..</font><br></td>
+              <td valign="top" align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <center>
+      <table border="1" bgcolor="#DDDDDD" width="95%">
+        <caption align="left">
+          <font size="-1"><b>Click on a column heading to sort the list...</b></font>
+        </caption>
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td>&nbsp;</td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Space&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Space&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Space&sortby=file" onmouseover="window.status='Sort list by Dealer'; return true;" onmouseout="window.status=''; return true;">Dealer</a></b></td>
+                <td></td>
+                <td><b>Comments</b></td>
+              </tr>
+              <tr>
+                <td colspan="8" valign="top">
+                  <hr noshade>
+                </td>
+              </tr>
+              <tr>
+                <td height="1"></td>
+                <td height="1"></td>
+                <td height="1" rowspan="10">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="10">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="10">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Gun 1980's</font></td>
+                <td valign="top"><font size="-1">$1000</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">WHITE DSH MOC!</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Gun 1980's</font></td>
+                <td valign="top"><font size="-1">$220</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">Silver</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Gun</font></td>
+                <td valign="top"><font size="-1">$850</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">50s, navy blue, these gun are becoming IMPOSSIBLE undamaged!!</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Gun</font></td>
+                <td valign="top"><font size="-1">$100.00</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+                </td>
+                <td valign="top"><font size="-1">Red 1980</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Man</font></td>
+                <td valign="top"><font size="-1">$185.00</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+                </td>
+                <td valign="top"><font size="-1">N/F</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Space Trooper Yo-Yo</font></td>
+                <td valign="top"><font size="-1">$5</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">High Quality! Red, Black, White, Orange or Yellow</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Spacegun</font></td>
+                <td valign="top"><font size="-1">$100</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">1980's orange</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Spaceman</font></td>
+                <td valign="top"><font size="-1">$200</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Marlis_Connell"><font size="-1">Marlis Connell</font></a>
+                </td>
+                <td valign="top"><font size="-1">NO FEET-Clear Helmet,Transluscent Blue Stem.</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Yellow Regular Signed by Bill Mumy</font></td>
+                <td valign="top"><font size="-1">$65.00</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Larry_Silveira"><font size="-1">Larry Silveira</font></a>
+                </td>
+                <td valign="top"><font size="-1">(Boy from Lost in Space)plus auto photos,CFD</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p><b>Exact prices may have changed. Dealer has final say.</b></p>
+    </center>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font>
+      <hr noshade>
+      <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+      <p><font size="-1"></font></p>
+    </center>
+  </center>
+</body>
+</html>

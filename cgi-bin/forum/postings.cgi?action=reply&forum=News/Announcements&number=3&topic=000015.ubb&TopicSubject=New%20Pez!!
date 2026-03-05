@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">News/Announcements</font><br>
+      Topic: <font color="#2F2F4F">New Pez!!</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="New Pez!!"> <input type="hidden" name="forum" value="News/Announcements"> <input type="hidden" name="number" value="3"> <input type="hidden" name="topic" value="000015.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pez Janitor</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-31-98 10:01 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">So what do you all think about the possibility of the neon hands/holiday variations coming to the states? What about the new Pumpkin,lamb and Chick? Wolverine? Who is the new Warner Bros: Marvin the Martian?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezjenny</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-31-98 01:18 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">where did you here about this? I have heard about the potential of holiday variations in the U.S. (which I doubt), but I have not seen anything about the other new ones mentioned.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pez Janitor</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-31-98 04:56 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">It came in one of the newsletters and was mentioned on the Pezhead Email list too.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Jon Cooke</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-31-98 09:54 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Wolverine? As in the Marvel Comics character?</font>
+            <p><font size="2" face="Verdana, Arial">P.S. Anybody know when the "Safari Animals"<br>
+            are coming to the U.S.? (In stores, not<br>
+            the mail order form, I mean)</font></p>
+            <p><font size="2" face="Verdana, Arial">-Jon</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>nate</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-01-98 12:55 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Actually just to answer someones question. I am a big marvin the martian fan and there is actually a marvin the martian pez dispenser. It is not a real pez dispenser it's motorized. If you haven't seen it I can send you a pic. I do not have it because I have only seen it once for sale and that is today on eBay. If anyone knows where to get these I would gladly appreciate it.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pez Janitor</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-01-98 06:04 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">There has been speculation of a Marvin dispenser, not the motorized one. Although it hasn't been confirmed, it would be a nice addition to the Warner Bros. line.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezjenny</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-01-98 08:27 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">re: motorized dispensers<br>
+            I saw a Bugs Bunny one with Skittles today at the Mr. Bulky's store in the mall. they didn't have the Pez ones, but they said they expected to get them at some point. they look great in the e-bay pic; I look forward to getting them.</font>
+            <p><font size="2" face="Verdana, Arial">re: holiday variations in the states<br>
+            I really hope this is true, but I expect that if they come they will not be much cheaper than currently available from dealers - the one newsletter said Pez thinks collectors will be pleased with the presentation (or something like this) but I believe they said that about the eyes too, and I felt those were overpriced. I don't know, I keep waffling on the holiday dispensers. I REALLY want them, but can't quite afford the price. I'm crossing my fingers for good Pez news though.</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Rob</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-04-98 01:52 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">hey, i picked up a motorized road runner pez dispenser at wal-mart today for 6.97...how much are they getting on ebay? i havn't found the marvin the martian one yet, but i have my eyes peeled...good luck everyone.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Frank</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-08-98 09:44 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">There is a Marvin the Martian Motorized PEZ dispenser, there is also a Willie Coyote W/ Road Runner Dispenser. There might even be another one. I have a Marvin avaliable if anyone is interested. Also is there a new Wolverine dispenser?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>sketch</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-16-98 12:38 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">There are only two motorized Pez handers. They are Marvin the Martian and Wile E. Coyote. I read somewhere that they had seen them at walmart for $5-$7. I don't know if they are in walmarts all over, but I hope so. I haven't gotten to walmart lately so I don't know if they have them there, but I have found a lot of Pez that aren't at other stores, so I'm hoping.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>feldamundo</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-23-98 08:18 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">According to the latest Fliptop PEZervation Society newsletter, the new Warner Brothers dispensers will be a sports series. The newsletter says, "I haven't been told what characters will be included, but they will be getting baseball hats, sunglasses, etc. I have heard that Bugs, Taz, Sylvester, and possibly 1 other character are set for the change. They will be sold worldwide."</font>
+            <p><font size="2" face="Verdana, Arial">The projected release date for these, pending final approval, is Summer 1999.</font></p>
+            <p><font size="2" face="Verdana, Arial">There's also a new Easter Bunny coming out next spring. There's a picture of it at:<br>
+            http://narrowgate.net/~fliptoppez/TFPSpage2.htm</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Quietman</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-26-98 12:29 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Sports series, eh? I wonder if that's some sort of tie-in with "Space Jam."<br></font>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

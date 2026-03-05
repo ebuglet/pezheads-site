@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top"><font size="+1">There are 18 dispensers matching<br>
+              your search for "<b>Lion</b>"..</font><br></td>
+              <td valign="top" align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <center>
+      <table border="1" bgcolor="#DDDDDD" width="95%">
+        <caption align="left">
+          <font size="-1"><b>Click on a column heading to sort the list...</b></font>
+        </caption>
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td>&nbsp;</td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Lion&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Lion&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Lion&sortby=file" onmouseover="window.status='Sort list by Dealer'; return true;" onmouseout="window.status=''; return true;">Dealer</a></b></td>
+                <td></td>
+                <td><b>Comments</b></td>
+              </tr>
+              <tr>
+                <td colspan="8" valign="top">
+                  <hr noshade>
+                </td>
+              </tr>
+              <tr>
+                <td height="1"></td>
+                <td height="1"></td>
+                <td height="1" rowspan="19">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="19">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="19">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1"><b>Crystal Zoo Animals</b></font></td>
+                <td valign="top"><font size="-1">$28</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=pezheads.org"><font size="-1">pezheads.org</font></a>
+                </td>
+                <td valign="top"><font size="-1">set of 4, hippo, lion, 'gator, and elephant - loose</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">David W. (Natural Colored Lion (from Kooky Zoo), LOOSE</font></td>
+                <td valign="top"><font size="-1">$6.25</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">David W. (Natural Colored Lion (from Kooky Zoo), MOC</font></td>
+                <td valign="top"><font size="-1">$8.00</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Key Chain Set 2nd Series</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Marlis_Connell"><font size="-1">Marlis Connell</font></a>
+                </td>
+                <td valign="top"><font size="-1">USA MOC-NO FEET Style-Gorilla,Lion,Pony.</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Kooky Zoo Lion</font></td>
+                <td valign="top"><font size="-1">$5</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOSC</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Kooky Zoo Lion</font></td>
+                <td valign="top"><font size="-1">$20</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">Ltd Ed-MOC-lt brown face/med brown hair</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">L'il Lion</font></td>
+                <td valign="top"><font size="-1">$115</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">MINT in old cello bag w/"PEZ Chief" Sticker</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lil Lion</font></td>
+                <td valign="top"><font size="-1">$85</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">early steel pin version</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lion Crown</font></td>
+                <td valign="top"><font size="-1">$120</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lion-Tan Face-"David W."</font></td>
+                <td valign="top"><font size="-1">$7.50</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">LOOSE, various stems</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lion-Tan Face-"David W."</font></td>
+                <td valign="top"><font size="-1">$8</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC, various stems, Chinese Card</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lion</font></td>
+                <td valign="top"><font size="-1">$65</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">no pin</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Lion</font></td>
+                <td valign="top"><font size="-1">$80</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">pin</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Magnets: NEW Circus Magnets Set of 5</font></td>
+                <td valign="top"><font size="-1">$9</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">Ringmaster, Clown/Chin, Monkey, Lion/Crown, & Giraffe</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Pez Keychains</font></td>
+                <td valign="top"><font size="-1">$3 ea</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">Peter Pez, Uncle Sam, Elephant, Pony, Gorilla, & Lion</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Roar Lion Reproduction Crown</font></td>
+                <td valign="top"><font size="-1">$25PPD</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">Only the Crown</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Yummy Kimba the Lion</font></td>
+                <td valign="top"><font size="-1">$75</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">MIB w/ neat candy pack</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Yummy Lion w/ Crown</font></td>
+                <td valign="top"><font size="-1">$65</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">MIP w/ neat candy pack</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p><b>Exact prices may have changed. Dealer has final say.</b></p>
+    </center>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font>
+      <hr noshade>
+      <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+      <p><font size="-1"></font></p>
+    </center>
+  </center>
+</body>
+</html>

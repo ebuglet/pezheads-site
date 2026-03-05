@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <font size="-1"></font>
+  <center>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a><br></font>
+  </center>
+  <p><font size="+1">There are 51 dispensers matching your search for "<b>Smurf</b>"..</font><br></p>
+  <p></p>
+  <table border="0" width="100%">
+    <tr>
+      <td></td>
+      <td>
+        <a href="/cgi-bin/dealer.cgi?action=search&keyword=Smurf">Dispenser</a>
+      </td>
+      <td></td>
+      <td>
+        <a href="/cgi-bin/dealer.cgi?action=search&keyword=Smurf&sortby=price">Price</a>
+      </td>
+      <td></td>
+      <td>
+        <a href="/cgi-bin/dealer.cgi?action=search&keyword=Smurf&sortby=file">Dealer</a>
+      </td>
+      <td></td>
+      <td>Condition</td>
+    </tr>
+    <tr>
+      <td colspan="8" valign="top">
+        <hr noshade>
+      </td>
+    </tr>
+    <tr>
+      <td height="1"></td>
+      <td height="1"></td>
+      <td height="1" rowspan="52"><font color="#FFFFFF">_</font></td>
+      <td height="1"></td>
+      <td height="1" rowspan="52"><font color="#FFFFFF">_</font></td>
+      <td height="1"></td>
+      <td height="1" rowspan="52"><font color="#FFFFFF">_</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf, Papa</font></td>
+      <td valign="top"><font size="-1">$6.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+      </td>
+      <td valign="top"><font size="-1">Japanese Bubblecard</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$6.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+      </td>
+      <td valign="top"><font size="-1">Japanese Bubblecard, all blue w/white hat</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs-OLD-Set of 5 MOC</font></td>
+      <td valign="top"><font size="-1">$ 37</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+      </td>
+      <td valign="top"><font size="-1">Papa Smurf, Smurfette, & 3 Diff. Smurfs--OLD Smurfs on NEW Smurf Graphics Green European Card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">W/f Smurfs Papa</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">4.9 red</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">W/f Smurfs Smurf</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">4.9 red</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">W/f Smurfs Smurfett</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">4.9 yellow</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">e/c Smurfs Brainy</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">* New MOEC * all 5 $25 shipped</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">e/c Smurfs Gargamel</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">* New MOEC *</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">e/c Smurfs Papa</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">* New MOEC *</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">e/c Smurfs Smurf</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">* New MOEC *</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">e/c Smurfs Smurfett</font></td>
+      <td valign="top"><font size="-1">$5</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+      </td>
+      <td valign="top"><font size="-1">* New MOEC * all 5 $25 shipped</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">SMURF SET OF 5</font></td>
+      <td valign="top"><font size="-1">$20.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Kim_Bonneville"><font size="-1">Kim Bonneville</font></a>
+      </td>
+      <td valign="top"><font size="-1">RESERVE TODAY READY RIGHT AFTER CHRISTMAS</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf Pappa</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">red hat w/f</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf Pappa</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">white hat w/f</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf Pappa</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">white hat MOC w/f</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf Pez Hand Puzzle</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">picutres Pappa, Smurfette and Smurf</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf n/f</font></td>
+      <td valign="top"><font size="-1">$15</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">white stem</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">red, white or blue stem w/f</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">blue or yellow stem w/f</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs-NEW</font></td>
+      <td valign="top"><font size="-1">$30</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+      </td>
+      <td valign="top"><font size="-1">set of 5 MOC</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">NEW Smurfs</font></td>
+      <td valign="top"><font size="-1">$30.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">full set of 5 mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf N/F</font></td>
+      <td valign="top"><font size="-1">$15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">MIB</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf, Papa</font></td>
+      <td valign="top"><font size="-1">$8.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">SPECIAL PRICE DURING JANUARY ONLY</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$8.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">SPECIAL PRICE DURING JANUARY ONLY</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">$8.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">SPECIAL PRICE DURING JANUARY ONLY</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs</font></td>
+      <td valign="top"><font size="-1">$30.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+      </td>
+      <td valign="top"><font size="-1">NEW ISSUE full set of 5 mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">NEW SMURFS PEZ SET</font></td>
+      <td valign="top"><font size="-1">$18</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson"><font size="-1">Rick Simpson</font></a>
+      </td>
+      <td valign="top"><font size="-1">MOC AVAILABLE IN JANUARY</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf papa</font></td>
+      <td valign="top"><font size="-1">$20</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">white hat mint on foreign card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$12</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">mint on foreign card, 3 stem colors</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">$10</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">loose</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs NEW</font></td>
+      <td valign="top"><font size="-1">$30</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rivercity_Pezhead_Rick_Roberts"><font size="-1">Rivercity Pezhead Rick Roberts</font></a>
+      </td>
+      <td valign="top"><font size="-1">set of 5 mint on card</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">... New Smurfs, 5 dif., MOC (until we have loose Smurfs available)</font></td>
+      <td valign="top"><font size="-1">$25.00/set</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">New Smurf Series, 5 dif., MOC</font></td>
+      <td valign="top"><font size="-1">$30.00/set</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">New Smurf Series, 5 dif., loose</font></td>
+      <td valign="top"><font size="-1">$25.00/set</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs...Boy Smurf (footed), loose</font></td>
+      <td valign="top"><font size="-1">$10.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs...Pappa Smurf (footed), loose</font></td>
+      <td valign="top"><font size="-1">$10.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs...Smurfette (footed), loose</font></td>
+      <td valign="top"><font size="-1">$10.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfs...White Hat Papa Smurf (footed), MOC</font></td>
+      <td valign="top"><font size="-1">$20.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=SJ_Glew"><font size="-1">SJ Glew</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">NEW Smurf set</font></td>
+      <td valign="top"><font size="-1">$30.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Small_Town_Coins_and_Collectibles"><font size="-1">Small Town Coins and Collectibles</font></a>
+      </td>
+      <td valign="top"><font size="-1">Smurf-Smurfett'papa-Brainy & Gargamel(TEMP.OUT)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf set</font></td>
+      <td valign="top"><font size="-1">$30</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Small_Town_Coins_and_Collectibles"><font size="-1">Small Town Coins and Collectibles</font></a>
+      </td>
+      <td valign="top"><font size="-1">all 5 NEW Smurf MOC(TEMP.OUT)</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">$15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Small_Town_Coins_and_Collectibles"><font size="-1">Small Town Coins and Collectibles</font></a>
+      </td>
+      <td valign="top"><font size="-1">White Hat - Loose - W/F</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">$15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Small_Town_Coins_and_Collectibles"><font size="-1">Small Town Coins and Collectibles</font></a>
+      </td>
+      <td valign="top"><font size="-1">White Hat - Loose - W/F</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Papa smurf</font></td>
+      <td valign="top"><font size="-1">10.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Tony_and_Colette_Rock"><font size="-1">Tony and Colette Rock</font></a>
+      </td>
+      <td valign="top"><font size="-1"></font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Papa smurf</font></td>
+      <td valign="top"><font size="-1">25.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Tony_and_Colette_Rock"><font size="-1">Tony and Colette Rock</font></a>
+      </td>
+      <td valign="top"><font size="-1">white hat, MOC</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Tony_and_Colette_Rock"><font size="-1">Tony and Colette Rock</font></a>
+      </td>
+      <td valign="top"><font size="-1">MOC</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf</font></td>
+      <td valign="top"><font size="-1">15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Tony_and_Colette_Rock"><font size="-1">Tony and Colette Rock</font></a>
+      </td>
+      <td valign="top"><font size="-1">no feet</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurfette</font></td>
+      <td valign="top"><font size="-1">15.00</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Tony_and_Colette_Rock"><font size="-1">Tony and Colette Rock</font></a>
+      </td>
+      <td valign="top"><font size="-1">MOC</font></td>
+    </tr>
+    <tr>
+      <td valign="top">~</td>
+      <td valign="top"><font size="-1">Smurf N/F</font></td>
+      <td valign="top"><font size="-1">$14</font></td>
+      <td valign="top">
+        <a href="/cgi-bin/dealer.cgi?action=dlr&name=Ty_Lightner"><font size="-1">Ty Lightner</font></a>
+      </td>
+      <td valign="top"><font size="-1">Minor discoloration above eyes, nothing serious.</font></td>
+    </tr>
+  </table>
+  <center>
+    <p>Exact prices may have changed. Dealer has final say.</p>
+  </center>
+  <p></p>
+  <hr noshade>
+  <center>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a></font>
+    <hr noshade>
+    <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+    <p><font size="-1"></font></p>
+  </center>
+</body>
+</html>

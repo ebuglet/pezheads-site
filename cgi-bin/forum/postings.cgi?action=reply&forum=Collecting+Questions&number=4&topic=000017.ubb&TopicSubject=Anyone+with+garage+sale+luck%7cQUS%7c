@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">Collecting Questions</font><br>
+      Topic: <font color="#2F2F4F">Anyone with garage sale luck?</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="Anyone with garage sale luck?"> <input type="hidden" name="forum" value="Collecting Questions"> <input type="hidden" name="number" value="4"> <input type="hidden" name="topic" value="000017.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Brandon</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-26-98 02:27 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I'm curious to find out what dispensers other people have found at garage sales, thrift stores and flea markets, and how much they were. I've found a non footed whistle and three 3.9 light blue batman dispensers for under $2. Please reply if you have a story you want to share!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Rob</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-27-98 12:31 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Hello!<br>
+            no garage sale luck for me, but ya know, I'm not too sure what to look for. I've looked around at the flea market with no luck...Should i be checking the booths that sell toys, or the booths that sell junk from the basement? I would think that both would not know the value of a dispenser, but a day at the flea market left me empty handed. Any tips for finding treasures at these places?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>brien ZEP nyc</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-27-98 05:49 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I almost always see someone selling current PEZ for around $5.00 to $10.00. Personally I get my currents from the local .99 cent store!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Alex</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-28-98 12:09 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">i love flea markets ...my finds include a mickey C ($7), Captian (Paul Revere) ($30!!), Raven ($20), Goofy A ($20), and a whole bunch of fat-eared bunnies, DrSkull A's, 3-pc witches, Pumpkin A's, etc ...but i get really pissed at all the people trying to sell current stuff for anywhere up to $30... for stuff like flintstones?? ..that's just riduculous... later gators</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pimpbot3k</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-28-98 05:54 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have gotten alot of thrift store finds. A wonder woman with a raised star and a chick in egg on a green stem, no feet, and a purple egg. So just hang in there if you haven't found anything yet, something will come along</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>kevin williams</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-10-98 11:55 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">i get mine at cvs/pharmacy and ekard i never pay more than .99 for them. i can get them at the ever most awsome flea market for like .25 i got all of my star wars pez therer and paid less than 3.00 for all of them and i also got another set(not foe sale sorry ) at the drug store for .88 a pez</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>neight</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-13-98 01:55 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found a Frankenstein with metal pin at a thrift store for $50. He has a small crack on the side of his neck but I don't mind.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pez Janitor</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-13-98 02:13 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Alright, it's not a flea market find, but I found;<br>
+            Mexican Pez Pal($50), Policeman($20), blue-shelled Chick-in-egg($8), Mr. Ugly($20), and some other nofooted stuff like Santas,Daffys, and Snowmen.</font>
+            <p><font size="2" face="Verdana, Arial">All this from an Antique mall!</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-23-98 04:58 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found a mint n/f yellow Winnie the Pooh<br>
+            at a fle market for $15. I was really happy</font>
+            <p><font size="2" face="Verdana, Arial">-Sean<br></font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>USAisAOK</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-04-98 01:10 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">No garage slae finds but I got a Panther Pez on a red stem (From the 60s) for $4, its worht like $120!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>King Pez II</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-04-98 04:14 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have found some neat pez at yard sales usually for 5 to 50 cents. I have found a micky mouse pez, a chicken pez, and many others. The trick is to go every Saturday and just look.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>jonthebaptist</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-12-98 07:23 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found a Pony-Go-Round (orange head - value=$115), a Mr. Ugly (value=$50), a fat-eared bunny and a no-foot snowman all on the same trip! I paid $5 for each of these. Woohoo!!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pez Janitor</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-19-98 02:24 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Today I hit the motheload- a $30 Snow White!!! And to think I thought my $50 mexican was awesome!!!!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>BubbleBoy</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-19-98 04:43 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I got a .25 Mary Poppins today!!!!!!!!!!!! Good luck finder anything better than that!!!!!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Jon Cooke</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 09-20-98 10:18 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I have had PEZ yard sale luck ONCE..and<br>
+            I go to yard sales and flea markets alot.<br>
+            I found the old "Fat Ear" Easter Bunny<br>
+            (yellow head, green base), and the lady<br>
+            running the yard sale let me have him<br>
+            for free.</font>
+            <p><font size="2" face="Verdana, Arial">Big deal, I know... especially compared<br>
+            to some of the finds posted above :-P<br>
+            but it made my day when I found it!</font></p>
+            <p><font size="2" face="Verdana, Arial">-Jon</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>BubbleBoy</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 10-01-98 07:27 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">On sunday, I went to a antique show up here and for $15 i got:<br>
+            Angel<br>
+            Old Dr. Skull<br>
+            Fat-Eared Bunny<br>
+            Mowgali<br>
+            Old Speedy Gonzales</font>
+            <p><font size="2" face="Verdana, Arial">That's pretty kewl, it works out to $2.50 a piece</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>melissa</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 10-20-98 04:10 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">My best find was at a flea market, some guy had a bunch of 3.9 pez and i asked if he had any others, so i went to the flea market next month (it was only once a month) and i got a nurse in great shape for $10..the guy was like "i gotta make a couple bucks, so how about ten dollars?" i walked away happy, but he also had a doctor missing a few pieces, and i went back to buy that too, but he had sold it..</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezhead</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 10-22-98 04:09 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">We had three good finds. A Zorro was given to us for free when we found it a box of old toys that were being packed for a move. We also found a Mr. Ugly green face no feet at a garage sale for 10 cents. Our third find was a old Pluto with movable ears and no feet at a garage sale for 5 cents.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>doppel</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 10-29-98 09:12 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I bought a n/f snowman MIB for 10$,two fat eared bunnies for 5$ each,a soft head wonderwoman(mint) for 6$,a truck mvbl wheels(mint) 5$ , a metal hinged red and green regular(mint) for 4$, all from the same antique store but at different times</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>ZNICK</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-05-98 11:17 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I found a Mickey "C" for 50 cents at a flea market last week. BUT BEWARE! At the last antique mall I hit there were tons of current PEZ...all selling from $10 to $15.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Alex</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-06-98 11:00 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">i just found a pez pal sheriff w/o the moustache at an antique mall wednesday... that made my week</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Jon Cooke</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 11-09-98 09:10 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Yeah, you have to watch out for flea market<br>
+            rip-offs. Once, I was at a flea market here<br>
+            in ME, and one fellow was selling a common,<br>
+            loose Donald Duck (as in the one you could<br>
+            buy anywhere for about $1.50) for $200.00!</font>
+            <p><font size="2" face="Verdana, Arial">I've also seen Muppets for sale at $25 each,<br>
+            and Peanuts for $11 each.</font></p>
+            <p><font size="2" face="Verdana, Arial">-Jon</font></p>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

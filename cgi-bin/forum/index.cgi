@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - powered by the Ultimate Bulletin Board</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font face="Verdana, Arial" size="2"></font>
+  <center>
+    <font face="Verdana, Arial" size="2"></font>
+    <table border="0" width="95%">
+      <tr>
+        <td>
+          <center>
+            <a href="index.cgi"></a>
+          </center>
+        </td>
+        <td>
+          <center>
+            <b><font size="3" face="Verdana, Arial" color="#000080">Flip Me Some PEZ Forums</font></b><br>
+            <font size="1" face="Verdana, Arial"><a href="/cgi-bin/forum/ubbmisc.cgi?action=editbio&Browser=&DaysPrune=20&LastLogin="><acronym title="Click here to edit your profile.">profile</acronym></a> | <a href="/cgi-bin/forum/index.cgi?action=agree"><acronym title="Registration is free!">register</acronym></a> | <a href="/cgi-bin/forum/ubbmisc.cgi?action=setprefs"><acronym title="Set your preferences.">prefs</acronym></a> | <a href="/forum/faq.html" target="_blank"><acronym title="Frequently Asked Questions">faq</acronym></a> | <a href="/cgi-bin/forum/search.cgi?action=intro"><acronym title="Perform a search by keyword, date, or name.">search</acronym></a></font>
+          </center>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr>
+        <td colspan="3" valign="bottom" align="left"><font size="1" face="Verdana, Arial"></font></td>
+        <td colspan="2" valign="bottom" align="right"><font size="1" face="Verdana, Arial"><b></b></font></td>
+      </tr>
+      <tr bgcolor="#D5E6E1">
+        <td>&nbsp;</td>
+        <td valign="bottom"><font size="1" face="Verdana, Arial" color="#000080"><b>Forum</b></font></td>
+        <td nowrap valign="bottom" align="center"><b><font size="1" face="Verdana, Arial" color="#000080">Posts</font></b></td>
+        <td nowrap valign="bottom" align="center"><font size="1" face="Verdana, Arial" color="#000080"><b>Last Post</b></font></td>
+        <td valign="bottom"><font size="1" face="Verdana, Arial" color="#000080"><b>Moderator</b></font></td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+        <td bgcolor="#F7F7F7" valign="top"><font size='2' face='Verdana, Arial'><b><a href="/cgi-bin/forum/forumdisplay.cgi?action=topics&forum=Dispensers+For+Sale&number=1&DaysPrune=20&LastLogin=">Dispensers For Sale</a></b><br>
+        Post dispensers for sale, or share great deals that you've found that others may enjoy.</font></td>
+        <td bgcolor="#DEDFDF" align="center" valign="top" nowrap><font size='2' face="Verdana, Arial">531</font></td>
+        <td bgcolor="#F7F7F7" nowrap valign="top" align="center"><font size="2" face="Verdana, Arial">03-23-01 <font color="#800080" size="2" face="Verdana, Arial">07:51 PM</font></font></td>
+        <td bgcolor="#DEDFDF" valign="top"><font size='2' face="Verdana, Arial">jamie</font></td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+        <td bgcolor="#F7F7F7" valign="top"><font size='2' face='Verdana, Arial'><b><a href="/cgi-bin/forum/forumdisplay.cgi?action=topics&forum=Dispensers+Wanted&number=2&DaysPrune=20&LastLogin=">Dispensers Wanted</a></b><br>
+        Are you looking for something specific? Post your wants here, and wait for a response!</font></td>
+        <td bgcolor="#DEDFDF" align="center" valign="top" nowrap><font size='2' face="Verdana, Arial">548</font></td>
+        <td bgcolor="#F7F7F7" nowrap valign="top" align="center"><font size="2" face="Verdana, Arial">04-05-01 <font color="#800080" size="2" face="Verdana, Arial">04:53 AM</font></font></td>
+        <td bgcolor="#DEDFDF" valign="top"><font size='2' face="Verdana, Arial">jamie</font></td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+        <td bgcolor="#F7F7F7" valign="top"><font size='2' face='Verdana, Arial'><b><a href="/cgi-bin/forum/forumdisplay.cgi?action=topics&forum=News/Announcements&number=3&DaysPrune=20&LastLogin=">News/Announcements</a></b><br>
+        Do you have a PEZ scoop that you just found out about? Questions about current news? Or just advertise your new pez website!</font></td>
+        <td bgcolor="#DEDFDF" align="center" valign="top" nowrap><font size='2' face="Verdana, Arial">1408</font></td>
+        <td bgcolor="#F7F7F7" nowrap valign="top" align="center"><font size="2" face="Verdana, Arial">04-03-01 <font color="#800080" size="2" face="Verdana, Arial">12:36 PM</font></font></td>
+        <td bgcolor="#DEDFDF" valign="top"><font size='2' face="Verdana, Arial">jamie</font></td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+        <td bgcolor="#F7F7F7" valign="top"><font size='2' face='Verdana, Arial'><b><a href="/cgi-bin/forum/forumdisplay.cgi?action=topics&forum=Collecting+Questions&number=4&DaysPrune=20&LastLogin=">Collecting Questions</a></b><br>
+        This is set up for use by anyone, but can be especially helpful to newbie collectors.</font></td>
+        <td bgcolor="#DEDFDF" align="center" valign="top" nowrap><font size='2' face="Verdana, Arial">2084</font></td>
+        <td bgcolor="#F7F7F7" nowrap valign="top" align="center"><font size="2" face="Verdana, Arial">04-03-01 <font color="#800080" size="2" face="Verdana, Arial">12:33 PM</font></font></td>
+        <td bgcolor="#DEDFDF" valign="top"><font size='2' face="Verdana, Arial">jamie</font></td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+        <td bgcolor="#F7F7F7" valign="top"><font size='2' face='Verdana, Arial'><b><a href="/cgi-bin/forum/forumdisplay.cgi?action=topics&forum=Website+Suggestions/Comments&number=5&DaysPrune=20&LastLogin=">Website Suggestions/Comments</a></b><br>
+        Let me know what you think of the pezheads.org website and what you'd like to see that isn't already here.</font></td>
+        <td bgcolor="#DEDFDF" align="center" valign="top" nowrap><font size='2' face="Verdana, Arial">78</font></td>
+        <td bgcolor="#F7F7F7" nowrap valign="top" align="center"><font size="2" face="Verdana, Arial">08-22-00 <font color="#800080" size="2" face="Verdana, Arial">09:17 PM</font></font></td>
+        <td bgcolor="#DEDFDF" valign="top"><font size='2' face="Verdana, Arial">jamie</font></td>
+      </tr>
+    </table>
+  </center>
+  <p><font size="1" face="Verdana, Arial" color="#2F2F4F">All times are CT (US). All dates are in MM-DD-YY format.</font></p>
+  <p></p>
+  <p></p>
+  <center>
+    <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b>
+    <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+    <p><font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+    <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+    &copy; Madrona Park, Inc., 1998.<br>
+    <br></font></p>
+  </center>
+</body>
+</html>

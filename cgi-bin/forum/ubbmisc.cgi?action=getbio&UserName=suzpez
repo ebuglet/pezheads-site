@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial"><b>Profile for suzpez</b></font>
+  <hr>
+  <blockquote>
+    <table border="0">
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Date Registered:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Not available.</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Status:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Junior Member</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Total Posts:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">11</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Current Email:</b></font></td>
+        <td>
+          <a href="mailto:suzzpez@aol.com"><font size="2" face="Verdana, Arial" color="#000080">suzzpez@aol.com</font></a>
+        </td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Homepage:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">http://</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Occupation:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Accountant</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Location:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Mississauga</font></td>
+      </tr>
+      <tr>
+        <td><font size="2" face="Verdana, Arial"><b>Interests:</b></font></td>
+        <td><font size="2" face="Verdana, Arial" color="#000080">Pez</font></td>
+      </tr>
+    </table>
+  </blockquote>
+  <hr>
+</body>
+</html>

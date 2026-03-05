@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums</title>
+  <script language="JavaScript">
+  <!-- HIDE
+  var sessionLogin = escape("");
+  var sessionLoginDT = escape("");
+  var AddSessionInfo = escape("");
+
+  expireDate = new Date;
+
+  if (expireDate.getYear() < 100) {
+  expireDate.setYear(expireDate.getYear() + 1900 + 1);
+  } else {
+  expireDate.setYear(expireDate.getYear() + 1);
+  }
+
+  if (AddSessionInfo == "true") {
+
+  var CookieLogin = escape("");
+  var CookieLoginDT = escape("");
+
+          document.cookie = "lastLogin=" + CookieLogin + ";expires=" + expireDate.toGMTString() + ";";
+  document.cookie = "LastLoginDT=" + CookieLoginDT + ";expires=" + expireDate.toGMTString() + ";";
+          document.cookie = "sessionLogin=" + sessionLogin + ";";
+  document.cookie = "sessionLoginDT=" + sessionLoginDT + ";";
+  }
+
+  // STOP HIDING FROM OTHER BROWSERS -->
+  </script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F" topmargin="0">
+  <font size="2" face="Verdana, Arial"><b></b></font>
+  <center>
+    <font size="2" face="Verdana, Arial"><b></b></font>
+    <table border="0" width="95%">
+      <tr>
+        <td align="left" valign="top">
+          <a href="index.cgi?action=intro&BypassCookie=true"></a><br>
+          <font size="2" face="Verdana, Arial" color="#000080"><b>Dispensers For Sale</b><br>
+          <font size="1" color="#2F2F4F">(moderated by <a href="mailto:jamie@pezheads.org">jamie</a>)</font></font>
+          <p><font size="1" color="#2F2F4F"><br></font></p>
+        </td>
+        <td valign="top" nowrap>
+          <font size="1" face="Verdana, Arial">&nbsp;&nbsp;<a href="/cgi-bin/forum/index.cgi?action=intro&BypassCookie=true"><acronym title="Return to summary page of all forums.">Flip Me Some PEZ Forums</acronym></a><br>
+          &nbsp;&nbsp;Dispensers For Sale</font>
+          <p><font size="1" face="Verdana, Arial"></font></p>
+          <center>
+            <font size="1" face="Verdana, Arial"><a href="/cgi-bin/forum/postings.cgi?action=newtopic&number=1&forum=Dispensers+For+Sale&DaysPrune=20&LastLogin="><font size="2" face="Verdana, Arial"></font></a><br>
+            <a href="/cgi-bin/forum/ubbmisc.cgi?action=editbio&Browser=&DaysPrune=20&LastLogin="><acronym title="Click here to edit your profile.">profile</acronym></a> | <a href="/cgi-bin/forum/index.cgi?action=agree"><acronym title="Registration is free!">register</acronym></a> | <a href="/cgi-bin/forum/ubbmisc.cgi?action=setprefs"><acronym title="Set your preferences.">prefs</acronym></a> | <a href="/forum/faq.html" target="_blank"><acronym title="Frequently Asked Questions">faq</acronym></a> | <a href="/cgi-bin/forum/search.cgi?action=intro"><acronym title="Perform a search by keyword, date, or name.">search</acronym></a></font>
+            <p><font size="1" face="Verdana, Arial"></font></p>
+            <form action="forumdisplay.cgi" method="get">
+              <font size="1" face="Verdana, Arial"><input type="hidden" name="action" value="topics"> <input type="hidden" name="forum" value="Dispensers For Sale"> <input type="hidden" name="number" value="1"> <select name="DaysPrune">
+                <option value="1">
+                  Show topics from last day
+                </option>
+                <option value="2">
+                  Show topics from last 2 days
+                </option>
+                <option value="5">
+                  Show topics from last 5 days
+                </option>
+                <option value="10">
+                  Show topics from last 10 days
+                </option>
+                <option value="20" selected>
+                  Show topics from last 20 days
+                </option>
+                <option value="30">
+                  Show topics from last 30 days
+                </option>
+                <option value="45">
+                  Show topics from last 45 days
+                </option>
+                <option value="60">
+                  Show topics from last 60 days
+                </option>
+                <option value="75">
+                  Show topics from last 75 days
+                </option>
+                <option value="100">
+                  Show topics from last 100 days
+                </option>
+                <option value="365">
+                  Show topics from the last year
+                </option>
+              </select> <input type="submit" name="SUBMIT" value="Go"></font>
+            </form><font size="1" face="Verdana, Arial"></font>
+          </center>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr bgcolor="#D5E6E1">
+        <td><font size="1" face="Verdana, Arial" color="#000080"><b>Topic</b></font></td>
+        <td><font size="1" face="Verdana, Arial" color="#000080"><b>Originator</b></font></td>
+        <td><font size="1" face="Verdana, Arial" color="#000080"><b>Replies</b></font></td>
+        <td nowrap><font size="1" face="Verdana, Arial" color="#000080"><b>Last Post</b></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000136.html">PEZ for $0.50</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">oktay</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">1</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-23-99 <font size="2" face="Verdana, Arial" color="#800080">07:26 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000155.html">Soldier,SmurfA+B,Gargamel,Blinki to trade or sell</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">eggmacmuffin</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-23-99 <font size="2" face="Verdana, Arial" color="#800080">12:43 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000154.html">Have nice items to trade</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">Falcon2Z</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-22-99 <font size="2" face="Verdana, Arial" color="#800080">09:29 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000153.html">Have Mini Flashlights to Trade</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">Falcon2Z</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-21-99 <font size="2" face="Verdana, Arial" color="#800080">11:56 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000152.html">two oldies for trade</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">pezdrake</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">1</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-20-99 <font size="2" face="Verdana, Arial" color="#800080">04:00 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000150.html">ZEILPUNKT (smily) PEZ dispenser & COLA candies FOR SALE!!!</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">Pezfreak</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">1</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-17-99 <font size="2" face="Verdana, Arial" color="#800080">05:10 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000131.html">Santa ornament</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">121</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">3</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-17-99 <font size="2" face="Verdana, Arial" color="#800080">04:08 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000151.html">trade for zielpunkt</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">pezdrake</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-16-99 <font size="2" face="Verdana, Arial" color="#800080">02:25 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000149.html">Non-glowing ghosts</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">tendy2</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-16-99 <font size="2" face="Verdana, Arial" color="#800080">11:26 AM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000144.html">$FREE$ European Refill Pack w/ Tom and Jerry Sticker!</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">IceeBear</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">2</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-15-99 <font size="2" face="Verdana, Arial" color="#800080">08:44 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000147.html">LOOKING FOR OLD PEZ FOR CHEAP</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">PezzyGuy</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-15-99 <font size="2" face="Verdana, Arial" color="#800080">11:26 AM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000148.html">LOOKING FOR OLD PEZ FOR CHEAP</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">PezzyGuy</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-15-99 <font size="2" face="Verdana, Arial" color="#800080">11:26 AM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000146.html">HUGE EUROPEAN PEZ LIQUIDATION!!!</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">Pezfreak</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">1</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-13-99 <font size="2" face="Verdana, Arial" color="#800080">11:35 AM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000145.html">Buying/Selling dispensers</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">HaasCandy</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-12-99 <font size="2" face="Verdana, Arial" color="#800080">01:24 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000140.html">Free candy phone with each order</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">pezboy123456789</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">3</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-11-99 <font size="2" face="Verdana, Arial" color="#800080">02:05 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000143.html">Boy/Girl</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">IceeBear</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-11-99 <font size="2" face="Verdana, Arial" color="#800080">01:19 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000142.html">Great European Deals! Check this out!</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">IceeBear</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-11-99 <font size="2" face="Verdana, Arial" color="#800080">12:47 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000141.html">Will trade 3 non-glowing ghosts</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">Falcon2Z</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-10-99 <font size="2" face="Verdana, Arial" color="#800080">09:34 AM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000139.html">Die-Cut</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">CTska</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-08-99 <font size="2" face="Verdana, Arial" color="#800080">01:26 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000138.html">Santa Playworlds in</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">pezpimp</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">0</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-07-99 <font size="2" face="Verdana, Arial" color="#800080">01:23 PM</font></font></td>
+      </tr>
+      <tr>
+        <td bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">&nbsp; <a href="/forum/Forum1/HTML/000137.html">PEZ Dealer</a></font></td>
+        <td bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">CTska</font></td>
+        <td align="center" bgcolor="#F7F7F7"><font size="2" face="Verdana, Arial">1</font></td>
+        <td nowrap bgcolor="#DEDFDF"><font size="2" face="Verdana, Arial">08-05-99 <font size="2" face="Verdana, Arial" color="#800080">08:45 PM</font></font></td>
+      </tr>
+    </table><br>
+    <table border="0" width="95%">
+      <tr>
+        <td align="left" valign="top"><font size="1" face="Verdana, Arial" color="#2F2F4F">All times are CT (US). All dates are in Month-Day-Year format.</font></td>
+        <td align="right" nowrap>
+          <font size="2" face="Verdana, Arial"></font>
+          <form action="index.cgi" method="get">
+            <font size="2" face="Verdana, Arial"><input type="hidden" name="action" value="Redirect"> <b>Hop to:</b> <select name="GoTo">
+              <option value="http://pezheads.org/cgi-bin/forum/forumdisplay.cgi?action=topics&number=1" selected>
+                Dispensers For Sale
+              </option>
+              <option value="http://pezheads.org/cgi-bin/forum/forumdisplay.cgi?action=topics&number=2">
+                Dispensers Wanted
+              </option>
+              <option value="http://pezheads.org/cgi-bin/forum/forumdisplay.cgi?action=topics&number=3">
+                News/Announcements
+              </option>
+              <option value="http://pezheads.org/cgi-bin/forum/forumdisplay.cgi?action=topics&number=4">
+                Collecting Questions
+              </option>
+              <option value="http://pezheads.org/cgi-bin/forum/forumdisplay.cgi?action=topics&number=5">
+                Website Suggestions/Comments
+              </option>
+            </select><input type="submit" name="SUBMIT" value="Go"></font>
+          </form>
+        </td>
+      </tr>
+    </table>
+  </center>
+  <p>&nbsp;&nbsp;An Open Thread.<br>
+  &nbsp;&nbsp;A Closed thread - no new replies accepted.</p>
+  <p></p>
+  <center>
+    <a href="/cgi-bin/forum/postings.cgi?action=newtopic&number=1&forum=Dispensers+For+Sale">Post New Topic</a>
+    <p><b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b></p>
+    <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+    <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+    <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+    &copy; Madrona Park, Inc., 1998.<br>
+    <br></font></p>
+  </center>
+</body>
+</html>

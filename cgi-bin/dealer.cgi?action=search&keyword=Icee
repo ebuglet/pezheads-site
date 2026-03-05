@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top"><font size="+1">There are 14 dispensers matching<br>
+              your search for "<b>Icee</b>"..</font><br></td>
+              <td valign="top" align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <center>
+      <table border="1" bgcolor="#DDDDDD" width="95%">
+        <caption align="left">
+          <font size="-1"><b>Click on a column heading to sort the list...</b></font>
+        </caption>
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td>&nbsp;</td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Icee&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Icee&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Icee&sortby=file" onmouseover="window.status='Sort list by Dealer'; return true;" onmouseout="window.status=''; return true;">Dealer</a></b></td>
+                <td></td>
+                <td><b>Comments</b></td>
+              </tr>
+              <tr>
+                <td colspan="8" valign="top">
+                  <hr noshade>
+                </td>
+              </tr>
+              <tr>
+                <td height="1"></td>
+                <td height="1"></td>
+                <td height="1" rowspan="15">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="15">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="15">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear A</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">white stem; MOC-$12</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear A</font></td>
+                <td valign="top"><font size="-1">$6</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">purple stem</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear B 1998</font></td>
+                <td valign="top"><font size="-1">$2</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear, NEW-Japanese Bubblecard</font></td>
+                <td valign="top"><font size="-1">$6</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1"></font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear,Blue(New)</font></td>
+                <td valign="top"><font size="-1">$5</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">Blue Stem MOEC X-mas Card * Sold Out</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear,Purple Stem(old)</font></td>
+                <td valign="top"><font size="-1">$15</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">Purple Stem MOEC Starry Card</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear,White Stem(old)</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Joseph_Somers"><font size="-1">Joseph Somers</font></a>
+                </td>
+                <td valign="top"><font size="-1">White Stem MOEC X-mas Card</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear-Blue Eyes, Blue stem</font></td>
+                <td valign="top"><font size="-1">$5</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Bob_Cleveland"><font size="-1">Bob Cleveland</font></a>
+                </td>
+                <td valign="top"><font size="-1">Mint on Card</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear</font></td>
+                <td valign="top"><font size="-1">$5.00</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Michele_Lorenz"><font size="-1">Michele Lorenz</font></a>
+                </td>
+                <td valign="top"><font size="-1">With Feet White</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee Bear</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC (winterscene star card)</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee bear White stem</font></td>
+                <td valign="top"><font size="-1">$6</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson"><font size="-1">Rick Simpson</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee bear blue eyes Iatest design</font></td>
+                <td valign="top"><font size="-1">$4</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson"><font size="-1">Rick Simpson</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee bear purple stem</font></td>
+                <td valign="top"><font size="-1">$5</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson"><font size="-1">Rick Simpson</font></a>
+                </td>
+                <td valign="top"><font size="-1">Star card</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Icee bear set</font></td>
+                <td valign="top"><font size="-1">$12</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson"><font size="-1">Rick Simpson</font></a>
+                </td>
+                <td valign="top"><font size="-1">Set of 3</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p><b>Exact prices may have changed. Dealer has final say.</b></p>
+    </center>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font>
+      <hr noshade>
+      <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+      <p><font size="-1"></font></p>
+    </center>
+  </center>
+</body>
+</html>

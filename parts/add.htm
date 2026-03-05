@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add PEZ Dispenser Parts</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#000000">
+  <blockquote>
+    <img src="../images/h-parts.gif" alt=" Add PEZ Parts" width="347" height="33" border="0">
+    <p></p>
+    <form method="post" action="/cgi-bin/parts.cgi">
+      <input type="hidden" name="action" value="add">
+      <table border="0">
+        <tr>
+          <td align="right">Name:</td>
+          <td valign="top"><input type="text" name="name" size="30"></td>
+        </tr>
+        <tr>
+          <td align="right">Email:</td>
+          <td valign="top"><input type="text" name="email" size="30"></td>
+        </tr>
+        <tr>
+          <td align="right">Phone:</td>
+          <td valign="top"><input type="text" name="phone" value="(optional)" size="30"></td>
+        </tr>
+        <tr>
+          <td colspan="4" height="12"></td>
+        </tr>
+      </table>
+      <center>
+        <table border="0">
+          <tr>
+            <td valign="top" align="right"><b>Do you:</b></td>
+            <td valign="top" align="left"><input type="radio" name="data" value="found"><b>HAVE</b> a part: <font size="-1">(You found a part that you want to sell/trade.)</font><br>
+            <input type="radio" name="data" value="needed"><b>NEED</b> a part: <font size="-1">(You are looking for something for your dispenser.)</font></td>
+          </tr>
+        </table>
+      </center>
+      <p></p>
+      <hr noshade>
+    </form>
+  </blockquote>
+  <table border="0">
+    <tr>
+      <td></td>
+      <td><b>PART:</b></td>
+      <td>for <b>DISPENSER:</b></td>
+      <td><b>COMMENTS</b> (or more specific part):</td>
+    </tr>
+    <tr>
+      <td>1.) <input type="checkbox" name="entryone"></td>
+      <td><select name="partone">
+        <option value="null">
+          Select Part:
+        </option>
+        <option value="hats">
+          Hats/Helmets
+        </option>
+        <option value="hair">
+          Hair
+        </option>
+        <option value="eyes">
+          Eyes/Glasses
+        </option>
+        <option value="ears">
+          Ears/Earrings
+        </option>
+        <option value="nose">
+          Nose
+        </option>
+        <option value="mous">
+          Moustache/Beard
+        </option>
+        <option value="misc">
+          MISCELLANEOUS
+        </option>
+      </select></td>
+      <td><input type="text" name="dispone" size="20"></td>
+      <td><input type="text" name="commone" size="30"></td>
+    </tr>
+    <tr>
+      <td>2.) <input type="checkbox" name="entrytwo"></td>
+      <td><select name="parttwo">
+        <option value="null">
+          Select Part:
+        </option>
+        <option value="hats">
+          Hats/Helmets
+        </option>
+        <option value="hair">
+          Hair
+        </option>
+        <option value="eyes">
+          Eyes/Glasses
+        </option>
+        <option value="ears">
+          Ears/Earrings
+        </option>
+        <option value="nose">
+          Nose
+        </option>
+        <option value="mous">
+          Moustache/Beard
+        </option>
+        <option value="misc">
+          MISCELLANEOUS
+        </option>
+      </select></td>
+      <td><input type="text" name="disptwo" size="20"></td>
+      <td><input type="text" name="commtwo" size="30"></td>
+    </tr>
+    <tr>
+      <td>3.) <input type="checkbox" name="entrythree"></td>
+      <td><select name="partthree">
+        <option value="null">
+          Select Part:
+        </option>
+        <option value="hats">
+          Hats/Helmets
+        </option>
+        <option value="hair">
+          Hair
+        </option>
+        <option value="eyes">
+          Eyes/Glasses
+        </option>
+        <option value="ears">
+          Ears/Earrings
+        </option>
+        <option value="nose">
+          Nose
+        </option>
+        <option value="mous">
+          Moustache/Beard
+        </option>
+        <option value="misc">
+          MISCELLANEOUS
+        </option>
+      </select></td>
+      <td><input type="text" name="dispthree" size="20"></td>
+      <td><input type="text" name="commthree" size="30"></td>
+    </tr>
+    <tr>
+      <td>4.) <input type="checkbox" name="entryfour"></td>
+      <td><select name="partfour">
+        <option value="null">
+          Select Part:
+        </option>
+        <option value="hats">
+          Hats/Helmets
+        </option>
+        <option value="hair">
+          Hair
+        </option>
+        <option value="eyes">
+          Eyes/Glasses
+        </option>
+        <option value="ears">
+          Ears/Earrings
+        </option>
+        <option value="nose">
+          Nose
+        </option>
+        <option value="mous">
+          Moustache/Beard
+        </option>
+        <option value="misc">
+          MISCELLANEOUS
+        </option>
+      </select></td>
+      <td><input type="text" name="dispfour" size="20"></td>
+      <td><input type="text" name="commfour" size="30"></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center"><input type="submit" value="SUBMIT"> <input type="reset" value="CLEAR"></td>
+    </tr>
+  </table>
+  <blockquote>
+    <a href="index.htm">Find PEZ Parts</a>
+    <hr noshade>
+  </blockquote>
+</body>
+</html>

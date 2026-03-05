@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">News/Announcements</font><br>
+      Topic: <font color="#2F2F4F">2, 2, 2 posts in 1</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="2, 2, 2 posts in 1"> <input type="hidden" name="forum" value="News/Announcements"> <input type="hidden" name="number" value="3"> <input type="hidden" name="topic" value="000127.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>121</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-25-99 06:53 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I'm going to put 2 posts in 1 here. OK. First, anyone heard of Headly-Du Vall? I got an e-mail with pez for sale that just sounded very suspicious. I don't know maybe it's just me. But you might want to be wary of this Du Vall.<br>
+            Second, on the lighter side, I just got back from PEZ-A-MANIA!!!! Wow! It was my first convention so I was so content. PEZ Heaven. I spent a lot of $$$ and got a lot of dispensers and spent a lot of $$$ at bingo and didn't win any dispensers Anyway for all of those who haven't been to a convention I really reccomend that you do. That is all.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezpimp</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-26-99 02:01 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">hey,</font>
+            <p><font size="2" face="Verdana, Arial">I got that letter also, I believe he is legit but he gets email address from ebay (what I heard) I asked to be taken off.</font></p>
+            <p><font size="2" face="Verdana, Arial">------------------<br>
+            Michel "Pezpimp" Condoroussis<br>
+            <a href="mailto:mich84@hotmail.com">mich84@hotmail.com</a><br>
+            www.globalserve.net/~pezcondo/</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Canadian Lynx</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-26-99 11:38 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I also received that letter, but I havent been to Ebay for a while. hmm. Anyway, I didnt feel comfortable buying from an unknown internet guy. just me..</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezdrake</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-26-99 03:16 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I believe this guy got our addresses right here at Flip Me SOme Pez. He addresses me as a "fellow PEZhead" and we all seem to have received them. I wouldn't say anything looks particularly suspicious but I'm certain if anyone here has a bad deal with him we will hear about it.<br>
+            Pezdrake</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>nickypez</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 07-29-99 05:30 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Yep. I got one of these e-mails the other day and another two today; It's become quite an annoyance. If I want to bid on pez I'll go to ebay. I just sent about 20 e-mail requests asking to be removed from this list. Lets see how he likes it. Ha Ha ...</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Dustin Pezboy Tate</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-03-99 10:13 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Why don't you just push Block Sender next time he e-mails you? All these people send me SPAM and I just push Block Sender.<br></font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezpimp</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-03-99 03:26 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I believe block sender is a hotmail function and no available on all email programs</font>
+            <p><font size="2" face="Verdana, Arial">------------------<br>
+            Michel "Pezpimp" Condoroussis<br>
+            <a href="mailto:mich84@hotmail.com">mich84@hotmail.com</a><br>
+            www.globalserve.net/~pezcondo/</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>yoyo138</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-04-99 05:13 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">thanks pezpimp. didn't know that. very useful information. i'll pass that along to my friends.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezdrake</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-05-99 12:15 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Hey wait a minute!<br>
+            "Headly DuVall"?<br>
+            Wasn't that a villain from the old Underdog or Dudley Doright commercials?! Obviously this is yet another of his nefarious schemes to rule the world/tie "Nell" to the train tracks!!<br>
+            PEOPLE RESIST THIS EVIL BEMOUSTACHED CARTOON VILLAIN!!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezdrake</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-05-99 12:17 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Oops. I wrote "commercial" but meant to say "cartoon". Just screwed up my already tenuous joke. Oh well.</font>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 10/29/00</font></b></p>
+    </center>
+    <p><b>Name:</b> Linda Kochenburger<br>
+    <b>Email:</b> <a href="mailto:Lindapez@aol.com">Lindapez@aol.com</a><br>
+    <b>Address:</b> 265 Beverly Hills Road<br>
+    <b>City:</b> Fort Lee<br>
+    <b>State:</b> New Jersey<br>
+    <b>Zip:</b> 07024<br>
+    <b>Phone:</b> 201-947-6613<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Check, Cash or Money Order Only. I do any reasonable layaway.<br>
+      Ship and insure-$5-may be more depending on order or country.<br>
+      I buy entire collections and single pieces. I do trade for older Pez and will sell Pez on consignment. All items are in excellent condition or better unless noted. Layaways welcome.<br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Linda_Kochenburger">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

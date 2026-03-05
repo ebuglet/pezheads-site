@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Reply to Topic</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font size="2" face="Verdana, Arial" color="#000000"></font>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="index.cgi?action=intro&BypassCookie=true"></a>
+      </td>
+      <td valign="top"><font size="2" face="Verdana, Arial" color="#000000"><b>Forum: <font color="#2F2F4F">News/Announcements</font><br>
+      Topic: <font color="#2F2F4F">Tattoo</font></b></font></td>
+    </tr>
+  </table>
+  <center>
+    <p><font size="2" face="Verdana, Arial" color="#2F2F4F">Note: You must be registered in order to post a topic or reply.<br>
+    To register, <a href="/cgi-bin/forum/index.cgi?action=agree">click here</a>. Registration is FREE!</font></p>
+  </center>
+  <ul>
+    <form action="postings.cgi" name="REPLIER" method="post" id="REPLIER">
+      <table border="0">
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your UserName:</b></font></td>
+          <td><input type="text" name="UserName" value="" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td nowrap><font size="2" face="Verdana, Arial" color="#000000"><b>Your Password:</b></font></td>
+          <td>
+            <input type="password" name="Password" value="" size="13" maxlength="13">&nbsp;&nbsp;<a href="index.cgi?action=lostpw"><font size="1" face="Verdana, Arial">Forget your password?</font></a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>
+            <font size="2" face="Verdana, Arial" color="#000000"><b>Your Reply:</b></font>
+            <p><br>
+            <font size="1" face="Verdana, Arial" color="#2F2F4F">*HTML is OFF<br>
+            *UBB Code is ON<br></font></p><font size="1" face="Verdana, Arial" color="#2F2F4F"></font>
+          </td>
+          <td>
+          <textarea name="ReplyMessage" rows="10" cols="45" wrap="VIRTUAL"></textarea></td>
+        </tr>
+      </table>
+      <p></p>
+      <center>
+        <font face="Verdana, Arial" size="2" color="#000080"><input type="checkbox" name="Signature" value="yes">Check here to include your profile signature.</font>
+      </center>
+      <p><input type="hidden" name="action" value="postreply"> <input type="hidden" name="TopicSubject" value="Tattoo"> <input type="hidden" name="forum" value="News/Announcements"> <input type="hidden" name="number" value="3"> <input type="hidden" name="topic" value="000136.ubb"></p>
+      <center>
+        <font size="2" face="Verdana, Arial" color="#000080"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000080">If you have previously registered, but forgotten your password, <a href="index.cgi?action=lostpw">click here</a>.</font></p>
+        <p><input type="submit" name="SUBMIT" value="Submit Reply"> <input type="reset" name="RESET" value="Clear Fields"></p>
+      </center>
+    </form>
+    <p><font size="1" face="Verdana, Arial" color="#FF0000">*If HTML and/or <a href="/forum/ubbcode.html" target="_new">UBB Code</a> are enabled, this means you can use use HTML and/or UBB Code in your message.</font><br></p>
+  </ul>
+  <center>
+    <center>
+      <table width="95%" border="0" cellpadding="5">
+        <tr bgcolor="#D5E6E1">
+          <td valign="top" width="18%"><font size="1" face="Verdana, Arial" color="#000080"><b>Name</b></font></td>
+          <td valign="top"><font size="1" face="Verdana, Arial" color="#000080"><b>Post</b></font></td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-06-99 07:43 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Hey there, I jsut thought I would tell everyone I got a tattoo yesterday I know this has nothing to do with PEZ, but hey...<br>
+            I am hoping to get a tattoo saying PEZ soon, that would be kinda cool<br>
+            this is the one I got on my right bicept</font>
+            <p><font size="2" face="Verdana, Arial">Sean</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-06-99 07:48 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">oops... i guess that didn't want to work...<br>
+            I will try it again from a friend of mines hompage....<br>
+            this is the one I got...<br></font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Spaceman Kip</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-07-99 09:58 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Just the logo, or a dispenser too? Pezhead74 has a freak list of Pezheads with Pez tatts, make sure you send him a photo!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-07-99 12:55 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Cool, can I get his icq or e-mail? i would like to see list, with pictures</font>
+            <p><font size="2" face="Verdana, Arial"><br>
+            I would get just the words, but in PEZ righting... you know.... the letters made with pez candy. I would get it somewhere concealable</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>yoyo138</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-07-99 02:52 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">wow that's really cool. woohoo. good for sean. the pez tattoo would be neat. too bad it's been done before. the worst tattoo you can get is one that someone else has already. just a bit of advice before you dive any deeper into the tattoo world you might think you know something about.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Spaceman Kip</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-07-99 05:20 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">http://www.angelfire.com/nj/pezhead74/tattoo.html</font>
+            <p><font size="2" face="Verdana, Arial">Sean, here's the link to his site...</font></p>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-07-99 06:00 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">First off, shut the hell up yoyo138, get a life. Do you just come here to insult people and be a complete jackass? it looks like it.<br>
+            If you don't have something nice, don't say it at all, fool.<br>
+            Second, I don't give a damn if it has been done before, I am sure it has, and I don't care. it is a logo for a company, so it doesn't matter. Many many cool tattoos have been done more then once.<br>
+            I know all about "stealing" tattoos, my cousin is a tattoo artist. So why don't you go crawl back under the rock you crawled out of?</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>pezlise</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-14-99 09:40 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Sean, personally I like that tattoo!!</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>yoyo138</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-18-99 04:21 AM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">speaking of not saying something nice...<br>
+            i see that you took my comment a little too personally. if you thought i was making a vicious personal attack then i'm afraid you were mistaken. i also find that your name-calling is un-called for...and by the way, as far as you're concerned, yes, i did come here to insult people.<br>
+            i just find it annoying that one would want to abuse the pez forum by posting messages that have absolutely nothing to do with pez. i recently got a new car but i'm not telling everyone about it and posting a picture of it on this forum. find a tattoo forum...i'm sure they'd appreciate the extra download time.<br>
+            by the way...i apologize to everyone who has to read this, but i'd rather not start an e-mail war with mr. sean.</font>
+          </td>
+        </tr>
+        <tr bgcolor="#DEDFDF">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Sean</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-18-99 01:20 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">I am not wasting anymore time on you. you are definately not worth it. So go insult other people you pitiful little man</font>
+          </td>
+        </tr>
+        <tr bgcolor="#F7F7F7">
+          <td width="18%" valign="top"><font size="2" face="Verdana, Arial"><b>Pezfreak</b></font></td>
+          <td>
+            <font size="2" face="Verdana, Arial"><font size="1" color="#000080" face="Verdana, Arial">posted 08-18-99 02:32 PM CT (US)</font></font>
+            <hr>
+            <font size="2" face="Verdana, Arial">Aloha! As you might have seen, Sean tells everybody that his message is in now way related to PEZ dispensers. So instead of dicing him, just don't read his message! The title of his post was a bit obvious..wasn't it? I personnaly find his tatoo awesome... Anyways, it's fun to hear some non-pez things on this forum cause if they're weren't any... life on board would be less amusing! thanx!</font>
+            <p><font size="2" face="Verdana, Arial">Renaud</font></p>
+          </td>
+        </tr>
+      </table>
+      <script language="JavaScript">
+      <!-- HIDE
+
+      var dc = document.cookie;
+      var testUserName = getCookie("UserName");
+      var testPassword = getCookie("Password");
+
+      if (document.cookie) {
+
+        if (testUserName == null) {  
+      document.REPLIER.UserName.focus();
+        } else {
+        document.REPLIER.UserName.value = getCookie("UserName");
+      document.REPLIER.Password.value = getCookie("Password");
+      document.REPLIER.ReplyMessage.focus();
+        }
+      }  else {
+      document.REPLIER.UserName.focus();
+      }
+
+
+      function getCookie(name){
+      var cname = name + "=";               
+      var dc = document.cookie;
+      if (dc.length > 0) {              
+      begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+      }
+      return null;
+      }
+
+      // STOP HIDING FROM OTHER BROWSERS -->
+      </script>
+      <p></p>
+      <center>
+        <b><font size="2" face="Verdana, Arial"><a href="mailto:jamie@pezheads.org">Contact Us</a> | <a href="/index.htm">Flip Me Some PEZ</a></font></b> <font size="2" face="Verdana, Arial"></font>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font></p>
+        <p><font size="2" face="Verdana, Arial" color="#000000"></font> <font color="#FEFEFE" size="1" face="Verdana, Arial">All posts are the property of the <i>Flip Me Some PEZ</i> website and may not be used for any reason.</font></p>
+        <p><font color="#FEFEFE" size="1" face="Verdana, Arial">Powered by: Ultimate Bulletin Board, Version 5.20<br>
+        &copy; Madrona Park, Inc., 1998.<br>
+        <br></font></p>
+      </center>
+    </center>
+  </center>
+</body>
+</html>

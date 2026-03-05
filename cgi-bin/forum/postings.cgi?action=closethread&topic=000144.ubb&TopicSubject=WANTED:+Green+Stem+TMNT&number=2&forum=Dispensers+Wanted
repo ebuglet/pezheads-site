@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flip Me Some PEZ Forums - Request Closing of Thread</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#2F2F4F">
+  <font face="Verdana, Arial" size="2" color="#000000"></font>
+  <center>
+    <font face="Verdana, Arial" size="2" color="#000000"><a href="index.cgi?action=intro&BypassCookie=true"></a><br>
+    <b><font face="Verdana, Arial" size="2" color="#000080">Request to Close Thread: WANTED: Green Stem TMNT</font></b></font>
+    <p><font face="Verdana, Arial" size="2" color="#000000"><font face="Verdana, Arial" size="2"></font></font></p>
+    <center>
+      <font face="Verdana, Arial" size="2" color="#000000"><font face="Verdana, Arial" size="2">Only administrators and the moderator for this forum may close a thread.<br>
+      Please verify your identity below.</font></font>
+    </center>
+    <form action="ubbmisc.cgi" name="CloseThread" method="post" id="CloseThread">
+      <font face="Verdana, Arial" size="2" color="#000000"><input type="hidden" name="action" value="processclose"> <input type="hidden" name="topic" value="000144.ubb"> <input type="hidden" name="TopicSubject" value="WANTED: Green Stem TMNT"> <input type="hidden" name="number" value="2"> <input type="hidden" name="forum" value="Dispensers Wanted"></font>
+      <table width="80%" border="0">
+        <tr>
+          <td><b><font face="Verdana, Arial" size="2">Your User Name</font></b></td>
+          <td><input type="text" name="UserName" size="25" maxlength="25"></td>
+        </tr>
+        <tr>
+          <td><b><font face="Verdana, Arial" size="2">Your Password</font></b></td>
+          <td><input type="password" name="Password" size="13" maxlength="13"></td>
+        </tr>
+      </table>
+      <p><input type="submit" name="Submit" value="Submit Identification"></p>
+    </form>
+  </center>
+  <script language="JavaScript">
+  <!-- HIDE
+  var dc = document.cookie;
+  var testUserName = getCookie("UserName");
+  var testPassword = getCookie("Password");
+
+  if (document.cookie) {
+
+        if (testUserName == null) {  
+  document.CloseThread.UserName.focus();
+        } else {
+        document.CloseThread.UserName.value = getCookie("UserName");
+  document.CloseThread.Password.value = getCookie("Password");
+        }
+  }  else {
+  document.CloseThread.UserName.focus();
+  }
+  function getCookie(name){
+  var cname = name + "=";               
+  var dc = document.cookie;
+  if (dc.length > 0) {              
+    begin = dc.indexOf(cname);
+         if (begin != -1) {           
+        begin += cname.length;
+                end = dc.indexOf(";", begin);
+            if (end == -1) end = dc.length;
+            return unescape(dc.substring(begin, end));        }
+  }
+  return null;
+  }
+
+  // STOP HIDING FROM OTHER BROWSERS -->
+  </script>
+  <p><br>
+  <br></p>
+  <center></center>
+</body>
+</html>

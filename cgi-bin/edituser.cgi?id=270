@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enter Your Password</title>
+</head>
+<body bgcolor="#FFFFFF">
+  <center>
+    <form method="post" action="http://pezheads.org/cgi-bin/edituser.cgi">
+      <table border="0" cellspacing="0" cellpadding="8" width="400" bgcolor="#DDDDDD">
+        <tr>
+          <td><font size="2" face="Verdana, Arial"><input type="hidden" name="id" value="270"> <input type="hidden" name="m" value="edit"> Password: <input type="password" name="password" size="10" maxlength="10"></font> <font size="-1"><input type="submit" value="submit"></font></td>
+        </tr>
+        <tr>
+          <td>
+            <font size="2" face="Verdana, Arial"></font>
+            <center>
+              <font size="2" face="Verdana, Arial">-or-</font>
+            </center><font size="2" face="Verdana, Arial">If you've forgotten your password, <a href="/cgi-bin/edituser.cgi?m=mail&id=270">click here to have it emailed to you</a>.</font>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </center>
+</body>
+</html>

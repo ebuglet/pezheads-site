@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top"><font size="+1">There are 8 dispensers matching<br>
+              your search for "<b>Psychedelic</b>"..</font><br></td>
+              <td valign="top" align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p></p>
+    <center>
+      <table border="1" bgcolor="#DDDDDD" width="95%">
+        <caption align="left">
+          <font size="-1"><b>Click on a column heading to sort the list...</b></font>
+        </caption>
+        <tr>
+          <td>
+            <table border="0" width="100%">
+              <tr>
+                <td>&nbsp;</td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Psychedelic&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Psychedelic&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a></b></td>
+                <td></td>
+                <td><b><a href="/cgi-bin/dealer.cgi?action=search&keyword=Psychedelic&sortby=file" onmouseover="window.status='Sort list by Dealer'; return true;" onmouseout="window.status=''; return true;">Dealer</a></b></td>
+                <td></td>
+                <td><b>Comments</b></td>
+              </tr>
+              <tr>
+                <td colspan="8" valign="top">
+                  <hr noshade>
+                </td>
+              </tr>
+              <tr>
+                <td height="1"></td>
+                <td height="1"></td>
+                <td height="1" rowspan="9">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="9">&nbsp;</td>
+                <td height="1"></td>
+                <td height="1" rowspan="9">&nbsp;</td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1"><b>Psychedelic Eye Misfits - MOC</b></font><b></b></td>
+                <td valign="top"><font size="-1">$30</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=pezheads.org"><font size="-1">pezheads.org</font></a>
+                </td>
+                <td valign="top"><font size="-1"><font color="#CC0000">set of 2</font> - pink/yellow hands, pink/yellow stems</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1"><b>Psychedelic Eye Watch</b></font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=pezheads.org"><font size="-1">pezheads.org</font></a>
+                </td>
+                <td valign="top"><font size="-1">both black and white hands, in clear display case</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1"><b>Psychedelic Hand - <font color="#CC0000">reduced!</font></b></font></td>
+                <td valign="top"><font size="-1">$495</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=pezheads.org"><font size="-1">pezheads.org</font></a>
+                </td>
+                <td valign="top"><font size="-1">Lt green base, hand has the teeny (very common) minor "hinge crack" --"mod pez" sticker (was $650)</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Psychedelic Eye Watch</font></td>
+                <td valign="top"><font size="-1">$10</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">Flesh or black hand MIB</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Psychedelic Eye</font></td>
+                <td valign="top"><font size="-1">$25ea</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">MOC-flesh or black hand MIB</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Psychedelic Flower</font></td>
+                <td valign="top"><font size="-1">$25</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Linda_Kochenburger"><font size="-1">Linda Kochenburger</font></a>
+                </td>
+                <td valign="top"><font size="-1">purple, red or yellow MOC</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Psychedelic Hand Original</font></td>
+                <td valign="top"><font size="-1">$150</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck"><font size="-1">Spleen Eck</font></a>
+                </td>
+                <td valign="top"><font size="-1">Missing Eyeball; Purple 818 stem</font></td>
+              </tr>
+              <tr>
+                <td valign="top"><font size="-1">~</font></td>
+                <td valign="top"><font size="-1">Psychedelic Hand</font></td>
+                <td valign="top"><font size="-1">$750</font></td>
+                <td valign="top">
+                  <a href="/cgi-bin/dealer.cgi?action=dlr&name=David_Welch"><font size="-1">David Welch</font></a>
+                </td>
+                <td valign="top"><font size="-1">damage, 2 stickers, rare stem marbleized, call</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p><b>Exact prices may have changed. Dealer has final say.</b></p>
+    </center>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font>
+      <hr noshade>
+      <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
+      <p><font size="-1"></font></p>
+    </center>
+  </center>
+</body>
+</html>

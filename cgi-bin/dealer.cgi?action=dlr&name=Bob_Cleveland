@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 5/01/01</font></b></p>
+    </center>
+    <p><b>Name:</b> Bob Cleveland<br>
+    <b>Email:</b> <a href="mailto:bobalou@nni.com">bobalou@nni.com</a><br>
+    <b>Address:</b> P.O. Box 31<br>
+    <b>City:</b> Chatham<br>
+    <b>State:</b> PA<br>
+    <b>Zip:</b> 19318-0031<br>
+    <b>Phone:</b> 610-268-3227<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Check, Money Order, or Credit Cards via PayPal.<br>
+      Shipping is Additional. Minimum Shipping is $ 3.90 USPS Priority Mail & Delivery Confirm.<br>
+      Visit our NEW Website at: http://members.tripod.com/~PEZantlySurprised For More Great PEZ !<br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Bob_Cleveland">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

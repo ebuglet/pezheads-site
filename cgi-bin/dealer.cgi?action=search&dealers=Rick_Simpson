@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <p></p>
+    <table border="0" bgcolor="#FFFFFF" width="95%">
+      <tr>
+        <td align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+      </tr>
+    </table>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top">
+                <font size="+1">Entire sales list for "<a href="/cgi-bin/dealer.cgi?action=dlr&name=Rick_Simpson" onmouseover="window.status='View Dealer Information'; return true;" onmouseout="window.status=''; return true;"><b>Rick Simpson</b></a>" ..</font><br>
+                <font size="-1" color="#008800">last updated on 1/31/99</font>
+                <p></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr>
+        <td valign="top"><font size="-1">Click on the dealer's name (above) for terms of sale and contact information. Please wait while longer lists load.</font></td>
+      </tr>
+    </table>
+    <p></p>
+  </center>
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <caption align="left">
+        <font size="-1" face="verdan,arial,helvetica"><b>Click on a column heading to sort the list...</b></font>
+      </caption>
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Rick_Simpson&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+              <td align="right"><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Rick_Simpson&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a> &nbsp;</b></td>
+              <td><b>Comments</b></td>
+            </tr>
+            <tr>
+              <td colspan="4" valign="top">
+                <hr noshade>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Asterix set</font></td>
+              <td valign="top" align="right"><font size="-1">$14 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bouncer Beagle</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bugs and Tweety</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon Orange Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Daffy Duck</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Daffy Duck</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Black Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Daisey Duck</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon Pink Stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Dewy Blue duck child</font></td>
+              <td valign="top" align="right"><font size="-1">$7 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Droopy Dog</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Flix Minnie or Mickey</font></td>
+              <td valign="top" align="right"><font size="-1">$7 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Flix Power Rangers Set</font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Flix Winie the Pooh</font></td>
+              <td valign="top" align="right"><font size="-1">$7 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Glowing Ghost set</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Gyro</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Heuy Red duck child</font></td>
+              <td valign="top" align="right"><font size="-1">$8 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Hewey Dewy Louie Webby Beagle and Scrooge</font></td>
+              <td valign="top" align="right"><font size="-1">$40.00 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Icee bear White stem</font></td>
+              <td valign="top" align="right"><font size="-1">$6 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Icee bear blue eyes Iatest design</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Icee bear purple stem</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Star card</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Icee bear set</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Set of 3</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Jerry</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Kooky Zoo Set</font></td>
+              <td valign="top" align="right"><font size="-1">$14 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Melody Music Makers</font></td>
+              <td valign="top" align="right"><font size="-1">$27 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Set of 7 MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Neon Red Santa Claus</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Nintendo set</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Set of 4 MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Old Smurf</font></td>
+              <td valign="top" align="right"><font size="-1">$6 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Blue,red,white stems MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Old Smurf</font></td>
+              <td valign="top" align="right"><font size="-1">$6 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon green or orange stems MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Old Smurfette</font></td>
+              <td valign="top" align="right"><font size="-1">$7 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Blue or neon pink stems MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Pink Panther Set</font></td>
+              <td valign="top" align="right"><font size="-1">$14 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Scrooge and Beagle</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon Orange Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Smurf set</font></td>
+              <td valign="top" align="right"><font size="-1">$14 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Spike</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sylvester</font></td>
+              <td valign="top" align="right"><font size="-1">$6 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC Older with Whiskers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sylvester</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon Pink Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Tom</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Tom Jerry Tuffy Spike and Droopy Dog</font></td>
+              <td valign="top" align="right"><font size="-1">$17 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Tuffy</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Webby</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Neon Pink Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Webby</font></td>
+              <td valign="top" align="right"><font size="-1">$5 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Pink Stem MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yosemite Sam</font></td>
+              <td valign="top" align="right"><font size="-1">$4 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC Short mustach</font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table><font face="verdana,arial,helvetica" size="-1"></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><b>Exact prices may have changed. Dealer has final say.</b></font></p>
+  </center>
+  <p><font face="verdana,arial,helvetica" size="-1"></font></p>
+  <hr noshade>
+  <center>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font></font>
+    <hr noshade>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><font size="-1"></font></font></p>
+  </center>
+</body>
+</html>

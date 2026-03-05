@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SuperPez High Scores</title>
+</head>
+<body bgcolor="#000000" link="#008842" vlink="#00AA42" alink="#E5DE18" text="#999999">
+  <table border="0">
+    <tr>
+      <td valign="top"></td>
+      <td valign="top">
+        <br>
+        <font size="-1"></font>
+        <p><font size="-1">1. <a href="mailto:tim@spectre.com">Tim Harper</a> (9600)<br>
+        2. <a href="mailto:acary@nmsu.edu">Angela C</a> (6944)<br>
+        3. <a href="mailto:Sk8r7777@aol.com">Ryan B.</a> (6346)<br>
+        4. <a href="mailto:acary@nmsu.edu">Angela C</a> (5024)<br>
+        5. <a href="mailto:mmike@writeme.com">Mike R.</a> (4446)<br>
+        6. <a href="mailto:yieh2001@hotmail.com">Brendan Langston</a> (4189)<br>
+        7. <a href="mailto:khewson@direct.ca">andy hewson</a> (4057)<br>
+        8. <a href="mailto:tim@spectre.com">Tim Harper</a> (3982)<br>
+        9. <a href="mailto:tim@spectre.com">Tim Harper</a> (3892)<br>
+        10. <a href="mailto:Prepyguy69">Brent Storm</a> (3642)<br></font></p>
+      </td>
+    </tr>
+  </table><font size="-1"></font>
+  <p><font size="-1"><b>INSTRUCTIONS:</b><br>
+  Super PEZ Breakout is a spinoff of breakout, but with a Pezhead twist! Each player is allowed three balls with which to try to breakout as many of the PEZ bricks as possible. The first row (lemon) is worth 1 point, the second (strawberry) is worth 2 points, and so on...up to the 5 point peppermint PEZ at the top. The bricks will speed up as you advance through the level, and the entire game will speed up as you advance through the game (to higher levels).</font></p>
+  <p><font size="-1"></font></p>
+</body>
+</html>

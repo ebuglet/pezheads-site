@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dealer Info</title>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <blockquote>
+    <hr noshade>
+    <center>
+      <b>When ordering, please mention you saw the dispenser here.<br>
+      That's the only way to make the site grow to serve you!</b>
+      <p><b><font color="#008800">data file last update on 7/30/00</font></b></p>
+    </center>
+    <p><b>Name:</b> pezheads.org<br>
+    <b>Email:</b> <a href="mailto:admin@pezheads.org">admin@pezheads.org</a><br>
+    <b>Address:</b> PO Box 641822<br>
+    <b>City:</b> Omaha<br>
+    <b>State:</b> NE<br>
+    <b>Zip:</b> 68164<br>
+    <b>Phone:</b> 402.697.9777 x222<br>
+    <b>Comments:</b></p>
+    <blockquote>
+      Checks have 10 day waiting period. Cashiers check or money order<br>
+      is required for all purchases over $400.<br>
+      <br>
+    </blockquote>
+    <p></p>
+    <hr noshade>
+    <center>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=pezheads.org">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    </center>
+  </blockquote>
+</body>
+</html>

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jamie Gerdes' PEZ Inventory (text)</title>
+</head>
+<body>
+  <pre>
+  NAME                   HEAD STYLE                   BASE       FEET  #   VALUE
+--------------------------------------------------------------------------------
+
+ACCESSORIES
+  Bracelet               pink w/pink hoop                                   $ 10
+  Christmas Playset                                                         $ 16
+  Clip-on                pink                                               $ 10
+  Easter Playset                                                            $ 15
+  FAO Schwartz  Pez box                                                     $ 30
+  Key-Chain              pink                                               $ 10
+  Key-Chain              purple                                             $ 10
+  Mariner Playset        anchor on hat                white       Y         $ 32
+  Necklace                                                                  $ 10
+  Puzzle Pez-Dazzle                                                         $ 15
+  Santa ornament         Hallmark box                                       $  9
+  Watch                  blue band/ yellow face                             $ 10
+  Watch                  pink band/ blue face                               $ 10
+  scale truck #2                                                            $ 40
+
+BI-CENTENNIAL
+  Indian Chief           white headdress              red or grn  N   2.6   $ 95
+  Indian Maiden          single variation             green       N         $ 80
+
+BODY PARTS
+  Calvery Officer Body   bugle and feet                                     $  5
+  Caveman Body Part      club and feet                                      $  5
+  Convict Body Part      ball, chain and feet                               $  5
+  Cowgirl Body Part      lasso and feet                                     $  5
+  Grim Reaper Body Part  sickle and feet                                    $  4
+  Hockey Player Body Pa  hockey stick and feet                              $  5
+  Knight Body Part       sword and feet                                     $  5
+  Legionair Body Part    shield, spear and feet                             $  5
+  Maid Body Part         water piture and feet                              $  5
+  Nurse Body Part        first aid kit and feet                             $  5
+  Robin Hood Body Part   bow/arrow and feet                                 $  5
+  Robot Body Part        ray gun and feet                                   $  5
+  Tarzan Body Part       knife and feet                                     $  5
+
+CIRCUS/ZOO
+  Cow B                  blue face/horns/flesh mouth  red         N         $ 50
+  Crocodile              remake                       orange      Y         $  4
+  Elephant               remake                       yellow      Y         $  6
+  Hippo                  remake                       pink        Y         $  3
+  Koala                  remake                       red         Y         $  6
+  Lion                   remake                       yellow      Y         $  3
+  Panda B pnt pcs        one piece                    black       Y         $  1
+  Yappy Dog              orange head                  blue        Y         $ 50
+
+DISNEY
+  Baloo                  blue gray face               green       Y         $ 19
+  Bouncer Beagle         single variation             red         Y         $  4
+  Captain Hook           single variation             red         N   2.6   $ 54
+  Daisey Duck            Single Variation             pink        Y   4.9   $  6
+  Dalmatian Pup          cream or white face          red         Y         $ 40
+  Dewey (bluecap)        large pupils                 blue        Y         $  5
+  Donald (1989)          single variation             blue        Y         $  1
+  Donald (1997)          mouth open                   blue        Y         $  1
+  Dumbo                  blue head                    blue        Y   4.9   $ 23
+  Goofy D (1989)         pink snout green hat         red         Y         $  1
+  Goofy E (1997)         single variation             red         Y   4.9   $  1
+  Gyro Gearloose         single variation             red         Y         $  4
+  Huey (redcap)          large pupils                 red         Y         $  6
+  King Louie             carmel head                  red         Y   3.9   $ 20
+  Lil Bad Wolf           white head                   black       Y         $ 17
+  Louie (greencap)       large pupils                 green       Y         $  3
+  Mickey (1997)          single variation             red         Y         $  1
+  Mickey C               removable nose pink face     yellow      N         $ 12
+  Mickey E (1989)        single variation             red         Y         $  1
+  Mickey E (1989)        single variation             yellow      Y         $  1
+  Minnie Mouse           Single Variation             lt blue     Y   4.9   $  6
+  Mowgli                 tan face                     yellow      Y         $ 15
+  Pluto (1997)           single variation             red         Y         $  1
+  Pluto C (1989)         single variation             red         Y         $  1
+  Practical Pig A        flat hat black eyes          blue        Y         $ 15
+  Scrooge Mcduck B       multi pcs                    blue        Y         $  4
+  Webby                  single                       pink        Y         $  1
+  Winnie Pooh            orange head                  blue        Y         $ 67
+
+DOUBLE CARDS
+  Droopy Dog             robin hood                   red         Y   4.9   $  5
+
+FLINTSTONES
+  Barney                 single                       green       Y         $  1
+  Dino                   single                       purple      Y         $  1
+  Fred                   with out thumb latch         yellow      Y         $  1
+  Pebbles                single variation             blue        Y         $  1
+
+FULL BODY
+  Santa Claus            red/white                    full body             $209
+  Space Trooper          blue                         full body             $464
+  Space Trooper          red                          full body             $464
+  Space Trooper          yellow                       full body             $500
+
+GARFIELD
+  Arlene                 pink                         pink        Y         $  1
+  Chef Garfield          chefs hat                    orange      Y         $  1
+  Garfield (1997)        smile                        pink        Y         $  1
+  Garfield w/smile       single                       orange      Y         $  2
+  Garfield w/teeth A     regular teeth                orange      Y         $  1
+  Garfield w/visor       green visor                  orange      Y         $  1
+  Nermal                 gray                         gray        Y         $  1
+  Odie                   single variation             green       Y         $  1
+  Pilot Garfield         aviator goggles              blue        Y         $  3
+  Sleepy Garfield        sleeping cap                 yellow      Y         $  1
+
+HOLIDAY
+  Bunny fat ears         pink head                    red         N   3.4   $ 15
+  Bunny fat ears         yellow head                  green       Y   3.9   $  4
+  Bunny                  single variation             pink        Y   4.9   $  1
+  Chick in Egg D         green hard shell 1995        blue        Y   4.9   $  1
+  Chick in Egg D         red hard shell 1995          blue        Y   4.9   $  1
+  Dr Skull B (1991)      bigger head missing tooth    purple      Y   4.9   $  1
+  Hearts                 pink                         red         Y         $  1
+  Hearts                 red                          red         Y         $  1
+  Lamb                   ivory face                   pink or pu  Y   4.9   $  1
+  Mr Ugly                dark green face              blue        Y   3.9   $ 28
+  Pumpkin (1991)         orange                       green       Y   4.9   $  1
+  Rooster                yellow head, red comb        green or r  N         $ 52
+  Santa (neon)           neon orange cap              orange      Y   4.9   $  6
+  Santa C (revised)      c1980 on back of head        red         Y   4.9   $  2
+  Santa C                big head eyes closed         red         Y   3.4   $  4
+  Santa C                eyes open 1995               red         Y   3.4   $  1
+  Snowman C              molded one peice mouth       white       Y   4.9   $  1
+  Witch (1991)           single variation             red         Y   4.9   $  3
+
+HUMANS
+  Spaceman               clear helmet                 blue        N         $169
+
+MGM
+  Barney Bear            white mouth                  brown, yel  Y         $ 25
+  Droopy B               painted ears                 green       Y   4.9   $  3
+  Droopy B               painted ears                 red         Y   4.9   $  3
+  Jerry A                painted                      yellow      Y   4.9   $  5
+  Jerry C                pink ears                    yellow      Y   4.9   $  3
+  Spike B                decal eyes, brown head       red         Y   4.9   $  3
+  Tom cat C              painted face                 purple      Y   4.9   $  3
+  Tuffy C                painted                      magenta/Ro  Y   4.9   $  3
+  Tyke B                 decal eyes                   blue        Y   4.9   $ 15
+
+MERRY MUSIC MAKERS
+  Camel MMM              brown head                   green       Y         $ 40
+  Clown MMM              single variation             green       Y         $  7
+  Dog MMM                single variation             blue        Y         $ 21
+  Donkey MMM             single variation             red         Y         $  8
+  Duck MMM               brown head                   blue        Y         $ 48
+  Frog MMM               single variation             red         Y   3.9   $ 35
+  Indian MMM             dark brown                   red         Y         $ 13
+  Koala MMM              biege head                   red         Y         $ 28
+  Lamb MMM               white head                   blue        Y   3.9   $ 19
+  Monkey MMM             single variation             orange      Y         $ 23
+  Panda B MMM            molded pcs                   black       Y         $  7
+  Parrot MMM             red head yellow beak         blue        Y         $  7
+  Penguin MMM            black/white face long nose   blue/red    Y   4.9   $  7
+  Pig MMM                single variation             red         N         $ 59
+  Rhino MMM              single variation             red         Y         $ 10
+  Rooster MMM            white                        green       Y         $ 35
+  Tiger MMM              single variation             green       Y         $  7
+
+MISCELLANEOUS
+  Bubble Boy             pink head                    pink        Y         $ 15
+  Candy Shooter          red                          red                   $ 72
+  Icee Bear              white head                   dk purple   Y         $  5
+  Peter Pez B            single variation             blue        Y         $  1
+  Peter Pez B            single variation             pink        Y         $  1
+  Peter Pez B            single variation             red         Y         $  1
+  Peter Pez B            single variation             yellow      Y         $  1
+  Power Pez              green/purple                 belt clip             $  4
+  Power Pez              green/purple                 no belt cl            $  6
+  Power Pez              orange/purple                belt clip             $  3
+  Power Pez              orange/purple                no belt cl            $  6
+  Power Pez              purple/green                 belt clip             $  3
+  Power Pez              purple/green                 no belt cl            $  6
+  Psychedelic eye        flesh hand                   beige       N   2.6   $520
+  Regular B (1995)       blue                         blue        N         $  1
+  Regular B (1995)       gray                         gray        N         $  1
+  Regular B (1995)       purple                       purple      N         $  2
+  Regular B (1995)       red                          red         N         $  2
+  Regular B (1995)       white                        white       N         $  1
+  Regular B (1995)       yellow                       yellow      N         $  2
+  Silver Glow  B         shiny color                  shiny colo  N         $ 14
+  Whistle -coach         green/yellow loop            red         Y   4.9   $  1
+  Whistle -coach         orange/yellow loop           purple      Y   4.9   $  1
+  Whistle -coach         red/white loop               blue        Y   4.9   $  1
+  Whistle -coach         red/yellow loop              green       Y   4.9   $  1
+  Whistle -coach         white/red loop               blue        Y   4.9   $  1
+  Whistle -coach         yellow/green loop            red         Y   4.9   $  1
+  Whistle -coach         yellow/orange loop           purple      Y   4.9   $  1
+  Whistle -coach         yellow/red loop              green       Y   4.9   $  1
+
+MUPPETS
+  Fozzie                 single variation             yellow      Y         $  1
+  Gonzo                  single variation             blue        Y         $  2
+  Kermit                 single variation             red         Y         $  1
+  Miss Piggy             eyelines                     purple      Y         $  1
+
+PEZ PALS
+  Boy w/alpine hat       single variation             yellow      Y         $ 10
+  Boy w/pilot hat        single variation             blue        Y         $ 10
+  Boy w/shelloil hat     single variation             red         Y         $ 10
+  Boy                    brown hair 1994              red         Y   4.9   $  2
+  Girl                   yellow hair 1994             red         Y   4.9   $  2
+  Maharajah              green turban                 yellow,blu  N   3.4   $ 32
+  Pirate                 red bandana                  red, blue   N         $ 45
+  Policeman              larger badge                 blue        N         $ 45
+  Sheik                  white cover, red band        green       N         $ 35
+
+PEZ-A-SAURS
+  Fly-saur (Brutus)      green/purple/pink            yellow      Y         $  1
+  He-saur (Chaos)        fuscia/yellow                fuscia/blu  Y         $  1
+  I-saur (Titus)         red/yellow                   green       Y         $  1
+  She-saur (Venezia)     aqua/blue                    red         Y         $  1
+
+PEANUTS
+  Charlie Brown          smile                        blue        Y         $  1
+  Charlie                frown                        blue        Y         $  5
+  Charlie                tongue                       blue        Y         $  5
+  Lucy                   black eyes                   red         Y         $  1
+  Snoopy                 closed eyes                  white       Y         $  1
+  Woodstock              no painted feathers          yellow      Y         $  1
+  Woodstock              painted feathers             yellow      Y         $  7
+
+PINK PANTHER
+  Aardvark               Single Variation             orange      Y   4.9   $  4
+  Ant                    Single Variation             green       Y   4.9   $  4
+  Inspector Clousseau    Single Variation             yellow      Y   4.9   $  5
+  Pink Panther           Single Variation             pink        Y   4.9   $  5
+
+SMURFS
+  Brainy Smurf           Single Variation             orange      Y   4.9   $  6
+  Gargamel               Single Variation             black       Y   4.9   $  6
+  Papa Smurf B           Single Variation             orange      Y   4.9   $  6
+  Papa Smurf             red hat                      red         Y   4.9   $  5
+  Smurf B                Single Variation             yellow      Y   4.9   $  6
+  Smurfette B            Single Variation             pink        Y   4.9   $  6
+  Smurfette              single variation             blue        Y   4.9   $  5
+  Smurf                  white hat                    white       Y   3.9   $  5
+
+STAR WARS
+  C3PO                   single variation             gold        Y   4.9   $  1
+  Chewbacca              single variation             brown       Y   4.9   $  1
+  Darth Vader            single variation             black       Y   4.9   $  1
+  Storm Trooper          single variation             white       Y   4.9   $  1
+  Yoda                   single variation             cream       Y   4.9   $  1
+
+SUPERHEROES
+  Batgirl                soft head marked hong kong   yellow      N   3.8   $168
+  Batman (1996)          large dk. blue head          dk blue     Y   4.9   $  1
+  Batman w/cape          blue cape                    blue        N         $104
+  Batman                 black                        black       Y   4.9   $  1
+  Batman                 large dk. blue head          lt blue     Y   4.9   $ 10
+  Batman                 lt. blue                     lt blue     Y   4.9   $  5
+  Batman                 small black head             lt blue     Y   4.9   $  7
+  Captain America        blue mask                    blue        N         $ 80
+  Hulk B                 light green                  lt green    Y         $  3
+  Joker                  soft head                    blue        N         $162
+  Penguin                soft head                    purple      N   3.8   $142
+  Spiderman A            smaller head                 red         N         $ 16
+  Spiderman B            larger head                  red         Y         $  1
+  WonderWoman            no raised star               red         Y         $  1
+  WonderWoman            soft head-Hong Kong          red         N   3.8   $159
+
+TRUCKS
+  (C-Series) #1          pink                         black       N         $ 15
+  (C-Series) #2          pink                         black       N         $ 15
+  (C-Series) #3          pink                         black       N         $ 15
+  (C-Series) #4          pink                         black       N         $ 15
+  (C-Series) #5          pink                         black       N         $ 15
+  (D-Series) #R1         blue                         green       N   4.9   $  1
+  (D-Series) #R1         blue                         red         N   4.9   $  1
+  (D-Series) #R1         green                        blue        N   4.9   $  1
+  (D-Series) #R1         green                        red         N   4.9   $  1
+  (D-Series) #R1         red                          blue        N   4.9   $  1
+  (D-Series) #R1         red                          green       N   4.9   $  1
+  (D-Series) #R1         yellow                       blue        N   4.9   $  1
+  (D-Series) #R1         yellow                       green       N   4.9   $  1
+  (D-Series) #R1         yellow                       red         N   4.9   $  1
+  (D-Series) #R2         blue                         green       N   4.9   $  1
+  (D-Series) #R2         blue                         red         N   4.9   $  1
+  (D-Series) #R2         green                        blue        N   4.9   $  1
+  (D-Series) #R2         green                        red         N   4.9   $  1
+  (D-Series) #R2         red                          blue        N   4.9   $  1
+  (D-Series) #R2         red                          green       N   4.9   $  1
+  (D-Series) #R2         yellow                       blue        N   4.9   $  1
+  (D-Series) #R2         yellow                       green       N   4.9   $  1
+  (D-Series) #R2         yellow                       red         N   4.9   $  1
+  (D-Series) #R3         blue                         green       N   4.9   $  1
+  (D-Series) #R3         blue                         red         N   4.9   $  1
+  (D-Series) #R3         green                        blue        N   4.9   $  1
+  (D-Series) #R3         green                        red         N   4.9   $  1
+  (D-Series) #R3         red                          blue        N   4.9   $  1
+  (D-Series) #R3         red                          green       N   4.9   $  1
+  (D-Series) #R3         yellow                       blue        N   4.9   $  1
+  (D-Series) #R3         yellow                       green       N   4.9   $  1
+  (D-Series) #R3         yellow                       red         N   4.9   $  1
+  (D-Series) #R4         blue                         green       N   4.9   $  1
+  (D-Series) #R4         blue                         red         N   4.9   $  1
+  (D-Series) #R4         green                        blue        N   4.9   $  1
+  (D-Series) #R4         green                        red         N   4.9   $  1
+  (D-Series) #R4         red                          blue        N   4.9   $  1
+  (D-Series) #R4         red                          green       N   4.9   $  1
+  (D-Series) #R4         yellow                       blue        N   4.9   $  1
+  (D-Series) #R4         yellow                       green       N   4.9   $  1
+  (D-Series) #R4         yellow                       red         N   4.9   $  1
+
+TURTLES
+  Donatello (purple)     smile                        black       Y   4.9   $  1
+  Donatello (purple)     smile                        blue        Y   4.9   $  1
+  Donatello (purple)     smile                        green       Y   4.9   $  1
+  Donatello (purple)     smile                        orange      Y   4.9   $  1
+  Donatello (purple)     smile                        purple      Y   4.9   $  1
+  Donatello (purple)     smile                        red         Y   4.9   $  1
+  Donatello (purple)     smile                        yellow      Y   4.9   $  1
+  Donatello (purple)     teeth                        black       Y   4.9   $  1
+  Donatello (purple)     teeth                        blue        Y   4.9   $  1
+  Donatello (purple)     teeth                        green       Y   4.9   $  1
+  Donatello (purple)     teeth                        orange      Y   4.9   $  1
+  Donatello (purple)     teeth                        purple      Y   4.9   $  1
+  Donatello (purple)     teeth                        red         Y   4.9   $  1
+  Donatello (purple)     teeth                        yellow      Y   4.9   $  1
+  Leonardo (blue)        smile                        black       Y   4.9   $  1
+  Leonardo (blue)        smile                        blue        Y   4.9   $  1
+  Leonardo (blue)        smile                        green       Y   4.9   $  1
+  Leonardo (blue)        smile                        orange      Y   4.9   $  1
+  Leonardo (blue)        smile                        purple      Y   4.9   $  1
+  Leonardo (blue)        smile                        red         Y   4.9   $  1
+  Leonardo (blue)        smile                        yellow      Y   4.9   $  1
+  Leonardo (blue)        teeth                        black       Y   4.9   $  1
+  Leonardo (blue)        teeth                        blue        Y   4.9   $  1
+  Leonardo (blue)        teeth                        green       Y   4.9   $  1
+  Leonardo (blue)        teeth                        orange      Y   4.9   $  1
+  Leonardo (blue)        teeth                        purple      Y   4.9   $  1
+  Leonardo (blue)        teeth                        red         Y   4.9   $  1
+  Leonardo (blue)        teeth                        yellow      Y   4.9   $  1
+  Michelangelo (org)     smile                        black       Y   4.9   $  1
+  Michelangelo (org)     smile                        blue        Y   4.9   $  1
+  Michelangelo (org)     smile                        green       Y   4.9   $  1
+  Michelangelo (org)     smile                        orange      Y   4.9   $  1
+  Michelangelo (org)     smile                        purple      Y   4.9   $  1
+  Michelangelo (org)     smile                        red         Y   4.9   $  1
+  Michelangelo (org)     smile                        yellow      Y   4.9   $  1
+  Michelangelo (org)     teeth                        black       Y   4.9   $  1
+  Michelangelo (org)     teeth                        blue        Y   4.9   $  1
+  Michelangelo (org)     teeth                        green       Y   4.9   $  1
+  Michelangelo (org)     teeth                        orange      Y   4.9   $  1
+  Michelangelo (org)     teeth                        purple      Y   4.9   $  1
+  Michelangelo (org)     teeth                        red         Y   4.9   $  1
+  Michelangelo (org)     teeth                        yellow      Y   4.9   $  1
+  Raphael (red)          smile                        black       Y   4.9   $  1
+  Raphael (red)          smile                        blue        Y   4.9   $  1
+  Raphael (red)          smile                        green       Y   4.9   $  1
+  Raphael (red)          smile                        orange      Y   4.9   $  1
+  Raphael (red)          smile                        purple      Y   4.9   $  1
+  Raphael (red)          smile                        red         Y   4.9   $  1
+  Raphael (red)          smile                        yellow      Y   4.9   $  1
+  Raphael (red)          teeth                        black       Y   4.9   $  1
+  Raphael (red)          teeth                        blue        Y   4.9   $  1
+  Raphael (red)          teeth                        green       Y   4.9   $  1
+  Raphael (red)          teeth                        orange      Y   4.9   $  1
+  Raphael (red)          teeth                        purple      Y   4.9   $  1
+  Raphael (red)          teeth                        red         Y   4.9   $  1
+  Raphael (red)          teeth                        yellow      Y   4.9   $  1
+
+WARNER BROS
+  Bugs Bunny             cream face, red nose         red         Y   3.9   $  5
+  Bugs Bunny             painted ears                 yellow      Y         $  1
+  Daffy Duck C           solid beak                   blue        Y         $  5
+  Daffy Duck             mouth line color varies      blue        Y         $  1
+  Merlin Mouse           single variation             dk brown    Y         $ 18
+  Petunia Pig            single variation             red         Y   3.9   $ 15
+  Road Runner B          stencil eyes                 blue        Y         $ 11
+  Speedy Gonzales 96     single variation             green       Y         $  3
+  Speedy Gonzales 96     single variation             yellow      Y         $  1
+  Sylvester B            shorter hair painted whiske  blue        Y         $  3
+  Sylvester B            shorter hair                 blue        Y         $  2
+  Sylvester              pointed ears                 red         Y         $  1
+  Taz                    single variation             brown       Y   4.9   $  1
+  Tweety C               decal eyes                   blue        Y         $  1
+  Wile E Coyote          brown whiskers               pink        Y         $ 34
+  Yosemite Sam           long whiskers                blue        Y         $  1
+  Yosemite Sam           short whiskers               red         Y   4.9   $  5
+
+
+================================================================================
+329 dispensers with a net value of... $5407.00
+</pre>
+</body>
+</html>

@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Results</title>
+  <style type="text/css">
+  <!--
+
+                TD { font-family: verdana, arial, helvetica }
+
+                -->
+  </style>
+</head>
+<body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
+  <center>
+    <p></p>
+    <table border="0" bgcolor="#FFFFFF" width="95%">
+      <tr>
+        <td align="right"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font></td>
+      </tr>
+    </table>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <tr>
+        <td>
+          <table border="0" width="100%">
+            <tr>
+              <td valign="top">
+                <font size="+1">Entire sales list for "<a href="/cgi-bin/dealer.cgi?action=dlr&name=Spleen_Eck" onmouseover="window.status='View Dealer Information'; return true;" onmouseout="window.status=''; return true;"><b>Spleen Eck</b></a>" ..</font><br>
+                <font size="-1" color="#008800">last updated on 5/04/01</font>
+                <p></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <table border="0" width="95%">
+      <tr>
+        <td valign="top"><font size="-1">Click on the dealer's name (above) for terms of sale and contact information. Please wait while longer lists load.</font></td>
+      </tr>
+    </table>
+    <p></p>
+  </center>
+  <center>
+    <table border="1" bgcolor="#DDDDDD" width="95%">
+      <caption align="left">
+        <font size="-1" face="verdan,arial,helvetica"><b>Click on a column heading to sort the list...</b></font>
+      </caption>
+      <tr>
+        <td>
+          <p></p>
+          <table border="0" width="100%" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+              <td><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Spleen_Eck&sortby=name" onmouseover="window.status='Sort list by Name'; return true;" onmouseout="window.status=''; return true;">Dispenser</a></b></td>
+              <td align="right"><b><a href="/cgi-bin/dealer.cgi?action=search&dealers=Spleen_Eck&sortby=price" onmouseover="window.status='Sort list by Price'; return true;" onmouseout="window.status=''; return true;">Price</a> &nbsp;</b></td>
+              <td><b>Comments</b></td>
+            </tr>
+            <tr>
+              <td colspan="4" valign="top">
+                <hr noshade>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Angel</font></td>
+              <td valign="top" align="right"><font size="-1">$70 &nbsp;</font></td>
+              <td valign="top"><font size="-1">w/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Angel</font></td>
+              <td valign="top" align="right"><font size="-1">$80 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Anise PEZ Full 1940's Display Box</font></td>
+              <td valign="top" align="right"><font size="-1">$3850 &nbsp;</font></td>
+              <td valign="top"><font size="-1">See Geary's 1st book for pic.</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Apple Crazy Fruit</font></td>
+              <td valign="top" align="right"><font size="-1">$95 &nbsp;</font></td>
+              <td valign="top"><font size="-1">1970's PEZ Knockoff</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Astronaut B</font></td>
+              <td valign="top" align="right"><font size="-1">$165 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Aqua Helmet</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bambi/Rudolph</font></td>
+              <td valign="top" align="right"><font size="-1">$70 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Banana Crazy Fruit</font></td>
+              <td valign="top" align="right"><font size="-1">$85 &nbsp;</font></td>
+              <td valign="top"><font size="-1">1970's PEZ Knockoff, no stopper</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bat Man A Blue</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Loose</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bat Man A Blue</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIP</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bat Man Softhead</font></td>
+              <td valign="top" align="right"><font size="-1">$240 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f, Mint</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Betsy Ross</font></td>
+              <td valign="top" align="right"><font size="-1">$130 &nbsp;</font></td>
+              <td valign="top"><font size="-1">floppy head</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Betsy Ross</font></td>
+              <td valign="top" align="right"><font size="-1">$170 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Big Top Elephan</font></td>
+              <td valign="top" align="right"><font size="-1">$275 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Green Head, Red flat hat, 3.4 stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Big Top Elephant Reproduction Flat Hat</font></td>
+              <td valign="top" align="right"><font size="-1">$22PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">ask for photo...</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Big Top Elephant</font></td>
+              <td valign="top" align="right"><font size="-1">$165 &nbsp;</font></td>
+              <td valign="top"><font size="-1">aqua hair, golden yellow head, 2.6 stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Big Top Elephant</font></td>
+              <td valign="top" align="right"><font size="-1">$195 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Aqua Flat Hat/yellow head/yellow 2.6 stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Book "PEZ Collectibles"</font></td>
+              <td valign="top" align="right"><font size="-1">$20PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">By Geary</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Boy w/cap</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1">brunette, blue cap</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bugs Bunny A</font></td>
+              <td valign="top" align="right"><font size="-1">$55 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIP w/ old star candy, n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bullwinkle Reproduction Antlers</font></td>
+              <td valign="top" align="right"><font size="-1">$36 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Only The 2 antlers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bullwinkle</font></td>
+              <td valign="top" align="right"><font size="-1">$275 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Has Repro Antlers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bullwinkle</font></td>
+              <td valign="top" align="right"><font size="-1">$350 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Yellow stem (All original parts)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Bullwinkle</font></td>
+              <td valign="top" align="right"><font size="-1">$395 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Brown Stem (All original)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">"Limona," Early 1980's Hungarian</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$2/25 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Golden Mixed Fruits 1970's</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$30 &nbsp;</font></td>
+              <td valign="top"><font size="-1">French Multi-flavour Bon-Bon's Striped pack</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$55 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Super Mint, 1960's Black Wrapper Version</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$55PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">1950's Mini "Sample" Peppermint pack</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$8 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Peppermint Star-Pack, Hungarian</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Candy Packs</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">inquire about seperate list of weird packs</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Captain America</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Blue Mask</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Captain Hook</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f, red 3.4 stem or blue 3.9</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cat With Derby</font></td>
+              <td valign="top" align="right"><font size="-1">$175 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Black Head/Scarce ORANGE Hat!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Chick in Egg</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">N/F - different styles available</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Clown w/Collar Reproduction Hat</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Creamy Yellow</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cockatoo Reproduction Beak</font></td>
+              <td valign="top" align="right"><font size="-1">$20PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">Creamy Yellow</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cockatoo Reproduction Comb</font></td>
+              <td valign="top" align="right"><font size="-1">$15PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">Yellow</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cocoa Marsh</font></td>
+              <td valign="top" align="right"><font size="-1">$160 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Hairline on back of stem; tiny chip back of helmet</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Comic Inserts</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Hulk, Spiderman; 6 to choose from</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Costume Fun Book #1</font></td>
+              <td valign="top" align="right"><font size="-1">$395PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">Tough to Find/Unused NM</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Costumes 1970's</font></td>
+              <td valign="top" align="right"><font size="-1">$39 each &nbsp;</font></td>
+              <td valign="top"><font size="-1">A4,A7; others</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Costumes 1970's</font></td>
+              <td valign="top" align="right"><font size="-1">$39 each &nbsp;</font></td>
+              <td valign="top"><font size="-1">B8,B9,B12</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Costumes</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Several Foreign; ask...</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cow A Repro Nose</font></td>
+              <td valign="top" align="right"><font size="-1">$16PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cow A</font></td>
+              <td valign="top" align="right"><font size="-1">$125 &nbsp;</font></td>
+              <td valign="top"><font size="-1">yellow w/lighter yellow nose</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cow A</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Orange Head</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Cow B</font></td>
+              <td valign="top" align="right"><font size="-1">$110 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Blue head/Blue Horns</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Creature B</font></td>
+              <td valign="top" align="right"><font size="-1">$320 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Creature C</font></td>
+              <td valign="top" align="right"><font size="-1">$320 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Diabolic</font></td>
+              <td valign="top" align="right"><font size="-1">$275 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Soft head; Scarce "HK" variation</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Die Cut Easter Bunny</font></td>
+              <td valign="top" align="right"><font size="-1">$545 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Floppy Head, tiny crack at pin</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Duck w/ Flower</font></td>
+              <td valign="top" align="right"><font size="-1">$145 &nbsp;</font></td>
+              <td valign="top"><font size="-1">partial cheeks, translucent white face</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Duck w/ Flower</font></td>
+              <td valign="top" align="right"><font size="-1">$495 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Orange Head, White Flower!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">EERIE SPECTERS DEAL</font></td>
+              <td valign="top" align="right"><font size="-1">$1150 &nbsp;</font></td>
+              <td valign="top"><font size="-1">set of 5 Different, No Vamp</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Frankenstein</font></td>
+              <td valign="top" align="right"><font size="-1">$330 &nbsp;</font></td>
+              <td valign="top"><font size="-1">earliest, steel pin version</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Full Body Santa</font></td>
+              <td valign="top" align="right"><font size="-1">$225 &nbsp;</font></td>
+              <td valign="top"><font size="-1">ex; floppy head</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Full Body Santa</font></td>
+              <td valign="top" align="right"><font size="-1">$300:ex &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Girl PEZ Pal</font></td>
+              <td valign="top" align="right"><font size="-1">$85 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIP w/ Valentine insert, n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Gorilla</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Header Card</font></td>
+              <td valign="top" align="right"><font size="-1">$165 &nbsp;</font></td>
+              <td valign="top"><font size="-1">PEZI Assortment, see P. 89 Geary Book #1</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Header Card</font></td>
+              <td valign="top" align="right"><font size="-1">$295 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Scarce BiCentennial, 1976</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Header Card</font></td>
+              <td valign="top" align="right"><font size="-1">$595 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Marry Poppins & other disney characters</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Header Card</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Uncommon, Individual Dispenser Headers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Headers</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Others, Truck A, etc... ask me</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Henry Hawk</font></td>
+              <td valign="top" align="right"><font size="-1">$110 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Hulk Comic Insert</font></td>
+              <td valign="top" align="right"><font size="-1">$65 &nbsp;</font></td>
+              <td valign="top"><font size="-1">5 diff available</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Icee Bear</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MOC (winterscene star card)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Chief</font></td>
+              <td valign="top" align="right"><font size="-1">$170 &nbsp;</font></td>
+              <td valign="top"><font size="-1">regular face,black tipped feathers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Chief</font></td>
+              <td valign="top" align="right"><font size="-1">$195 &nbsp;</font></td>
+              <td valign="top"><font size="-1">dark brown face, black tipped feathers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Chief</font></td>
+              <td valign="top" align="right"><font size="-1">$210 &nbsp;</font></td>
+              <td valign="top"><font size="-1">dk br face/blk tip/no pat#/on blk stem w/pink in. sleeve (sharp!)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Maiden</font></td>
+              <td valign="top" align="right"><font size="-1">$100 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f, 3.4 missing headband</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Maiden</font></td>
+              <td valign="top" align="right"><font size="-1">$170 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Whistle Head</font></td>
+              <td valign="top" align="right"><font size="-1">$22 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Indian Whistle Head</font></td>
+              <td valign="top" align="right"><font size="-1">$35 &nbsp;</font></td>
+              <td valign="top"><font size="-1">diff. shade face, red stem, w/f, MOC</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Insert (paper)</font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Spiderman and other heroes (including Thor) web ad</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Insert (paper)</font></td>
+              <td valign="top" align="right"><font size="-1">$8 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Hungarian Peter PEZ connect the dots!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Jack-O-Lantern</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Old style Jigsaw face Pumpkin w/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Jiminy Cricket</font></td>
+              <td valign="top" align="right"><font size="-1">$260 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Kabayas</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">email for selection of discontinued...</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Lemon Crazy Fruit</font></td>
+              <td valign="top" align="right"><font size="-1">$65 &nbsp;</font></td>
+              <td valign="top"><font size="-1">1970's PEZ knockoff, small stem melt</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Lil Lion</font></td>
+              <td valign="top" align="right"><font size="-1">$85 &nbsp;</font></td>
+              <td valign="top"><font size="-1">early steel pin version</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mickey Mouse Die-Cut Die Cut Stem</font></td>
+              <td valign="top" align="right"><font size="-1">$335 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mr. Ugly MIP</font></td>
+              <td valign="top" align="right"><font size="-1">$85 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Common version in newer, colored cello</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mr. Ugly</font></td>
+              <td valign="top" align="right"><font size="-1">$120 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Grass Green face</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mr. Ugly</font></td>
+              <td valign="top" align="right"><font size="-1">$125 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Toothpaste Minty greenish blue face</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mr. Ugly</font></td>
+              <td valign="top" align="right"><font size="-1">$125 &nbsp;</font></td>
+              <td valign="top"><font size="-1">light yellowish/green</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Mr. Ugly</font></td>
+              <td valign="top" align="right"><font size="-1">$65 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Common Olive Green Face</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Ninja w/ Special FX95 Paper costume MIP</font></td>
+              <td valign="top" align="right"><font size="-1">$85 &nbsp;</font></td>
+              <td valign="top"><font size="-1">only 100 Made for show dealers</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Olympic Snowman Cardboard Box Insert</font></td>
+              <td valign="top" align="right"><font size="-1">$60 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Email for details...</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">One-Eyed Monster</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Black</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">One-Eyed Monster</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">Grey</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Orange</font></td>
+              <td valign="top" align="right"><font size="-1">$285 &nbsp;</font></td>
+              <td valign="top"><font size="-1">My Favorite!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ Pal</font></td>
+              <td valign="top" align="right"><font size="-1">$10 &nbsp;</font></td>
+              <td valign="top"><font size="-1">3.4 blue stem with melts, floppy head</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ Paperwork</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">inquire about current selection of obscure stuff...</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ Special Bonus Offer Pad</font></td>
+              <td valign="top" align="right"><font size="-1">$75 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Vg+ carded item from 70's store display, weird!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ Truck Bank #1</font></td>
+              <td valign="top" align="right"><font size="-1">$195PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIB, only 516 produced!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ Truck Bank #2</font></td>
+              <td valign="top" align="right"><font size="-1">$95PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIB, limited # produced! ask for photo</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">PEZ dispensing character Keychains 1st set</font></td>
+              <td valign="top" align="right"><font size="-1">$25 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Set of 3 different MIP</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Pear</font></td>
+              <td valign="top" align="right"><font size="-1">$1095 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Peter Pan Repro Hat</font></td>
+              <td valign="top" align="right"><font size="-1">$36PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Pluto Soft Head</font></td>
+              <td valign="top" align="right"><font size="-1">$3750 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Crown Jewel, Head Only; MINT! Mickey sells for 6K</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Policeman Repro Badge</font></td>
+              <td valign="top" align="right"><font size="-1">$11PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Pony-Go-Round</font></td>
+              <td valign="top" align="right"><font size="-1">$58 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Misfit - Hair came undone from forehead</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Popeye A</font></td>
+              <td valign="top" align="right"><font size="-1">$115 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Some Paint Loss</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Popeye B</font></td>
+              <td valign="top" align="right"><font size="-1">$110 &nbsp;</font></td>
+              <td valign="top"><font size="-1">n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Popeye B</font></td>
+              <td valign="top" align="right"><font size="-1">$23PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">Repro Hat Only</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Puzzle</font></td>
+              <td valign="top" align="right"><font size="-1">$75 &nbsp;</font></td>
+              <td valign="top"><font size="-1">1970's German; unused</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Raven</font></td>
+              <td valign="top" align="right"><font size="-1">$275 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Long Red Beak!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Regular</font></td>
+              <td valign="top" align="right"><font size="-1">$195 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Pink, with white non-pin style cap</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Regular</font></td>
+              <td valign="top" align="right"><font size="-1">$80 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Yellow w/white cap - chipped pusher</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Roar Lion Reproduction Crown</font></td>
+              <td valign="top" align="right"><font size="-1">$25PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">Only the Crown</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Santa B Ad Sheet</font></td>
+              <td valign="top" align="right"><font size="-1">$100 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Early 60's</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Santa B Header Card</font></td>
+              <td valign="top" align="right"><font size="-1">$450 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Early 1960's [or $400 if bought w/ Santa B!]</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Santa B</font></td>
+              <td valign="top" align="right"><font size="-1">$120 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Shooter, Black</font></td>
+              <td valign="top" align="right"><font size="-1">$125 &nbsp;</font></td>
+              <td valign="top"><font size="-1">cracked eye piece, displays nicely, works</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Shooter, Black</font></td>
+              <td valign="top" align="right"><font size="-1">$235 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Near Mint</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Shooter, Blue</font></td>
+              <td valign="top" align="right"><font size="-1">$565 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Space Gun 1980's</font></td>
+              <td valign="top" align="right"><font size="-1">$1000 &nbsp;</font></td>
+              <td valign="top"><font size="-1">WHITE DSH MOC!</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sparefroh Vinyl Advertising Bank</font></td>
+              <td valign="top" align="right"><font size="-1">$130 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Pictured in Welch's Collecting PEZ</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sparefroh</font></td>
+              <td valign="top" align="right"><font size="-1">$645 &nbsp;</font></td>
+              <td valign="top"><font size="-1">face crack</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sparefroh</font></td>
+              <td valign="top" align="right"><font size="-1">$920 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Early 70's, 3.4 generic stem version</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Spiderman A</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">removeable eyes, smaller head w/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Spiderman A</font></td>
+              <td valign="top" align="right"><font size="-1">$25 &nbsp;</font></td>
+              <td valign="top"><font size="-1">removeable eyes, smaller head, n/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Stewardess Reproduction Hat/Badge</font></td>
+              <td valign="top" align="right"><font size="-1">$35PPD &nbsp;</font></td>
+              <td valign="top"><font size="-1">One Piece, Creamy Yellow Plastic</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Sticker Set</font></td>
+              <td valign="top" align="right"><font size="-1">$40 &nbsp;</font></td>
+              <td valign="top"><font size="-1">10 stickers, not just 8-See P.73 Geary Book 1</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Thumper A</font></td>
+              <td valign="top" align="right"><font size="-1">$60 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Non-Painted features, floppy head, tiny stem melt, N/F</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Thumper A</font></td>
+              <td valign="top" align="right"><font size="-1">$80 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Non-Painted, 3.4 stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Tick (The) Comic Book #7</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">2 pages of story involve PEZ</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$13 &nbsp;</font></td>
+              <td valign="top"><font size="-1">BatMan - 1989</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Darth Vader, full - 1981</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Gizmo (Gremlin) - 1984</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Joker - 1989</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Stripe (Evil Gremlin) - 1984</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Topps Candy Head</font></td>
+              <td valign="top" align="right"><font size="-1">$22 &nbsp;</font></td>
+              <td valign="top"><font size="-1">E.T. (Hard to Find!) - 1982</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem Display Box</font></td>
+              <td valign="top" align="right"><font size="-1">$185 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Empty original, earlier 29 cent counter box</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$15 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Box of candy refills</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$255 &nbsp;</font></td>
+              <td valign="top"><font size="-1">ORANGE Frog (Very Scarce!)</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$28 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Baseball player MIB, no spring/bottom stopper</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$45 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Baseball player MIP</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$45 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Football Player (Green) MIB Vending Box</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$45 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Panda MIP or MIB</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Totem</font></td>
+              <td valign="top" align="right"><font size="-1">$55 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Clown MIP</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck A-1</font></td>
+              <td valign="top" align="right"><font size="-1">$100 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Aqua cab, yellow stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck B</font></td>
+              <td valign="top" align="right"><font size="-1">$125 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIP - Scarce</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck B</font></td>
+              <td valign="top" align="right"><font size="-1">ask &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Truck C</font></td>
+              <td valign="top" align="right"><font size="-1">ASK &nbsp;</font></td>
+              <td valign="top"><font size="-1">Pink/Black stem</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Trucks A-series</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">other variations - Ask</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">U.S. Zone Regular</font></td>
+              <td valign="top" align="right"><font size="-1">$310 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Transparent yellow w/ Black cap 1" hairline/1 tiny scratch</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">U.S. Zone Regular</font></td>
+              <td valign="top" align="right"><font size="-1">$420 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Transparent Blue w/ white cap</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Vending Machine Poster</font></td>
+              <td valign="top" align="right"><font size="-1">$149 &nbsp;</font></td>
+              <td valign="top"><font size="-1">11 x 17" ad, 2 - sided</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Vending Machines</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">2 different $2,600 & $1,600</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Witch 3 Piece w/f</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Witch A</font></td>
+              <td valign="top" align="right"><font size="-1">$345 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Inner sleeve crack; otherwise EX</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Witch A</font></td>
+              <td valign="top" align="right"><font size="-1">$445 &nbsp;</font></td>
+              <td valign="top"><font size="-1">1950's version</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Witch C</font></td>
+              <td valign="top" align="right"><font size="-1">$12 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Common version 3-Piece w/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Witch C</font></td>
+              <td valign="top" align="right"><font size="-1">$285 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Light green hat,stem & face, Black Hair</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Wolfman</font></td>
+              <td valign="top" align="right"><font size="-1">Call &nbsp;</font></td>
+              <td valign="top"><font size="-1"></font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Wonderwoman Soft Head</font></td>
+              <td valign="top" align="right"><font size="-1">$140 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Head + Red 3.8 stem; no head insert</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Wonderwoman w/Raised Star</font></td>
+              <td valign="top" align="right"><font size="-1">$20 &nbsp;</font></td>
+              <td valign="top"><font size="-1">w/f</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yappy Dog</font></td>
+              <td valign="top" align="right"><font size="-1">CFP &nbsp;</font></td>
+              <td valign="top"><font size="-1">orange or green heads</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yummy Candy Pack</font></td>
+              <td valign="top" align="right"><font size="-1">$8 &nbsp;</font></td>
+              <td valign="top"><font size="-1">multi-flavored fruits pictured on wrapper</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yummy Kimba the Lion</font></td>
+              <td valign="top" align="right"><font size="-1">$75 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIB w/ neat candy pack</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yummy Lion w/ Crown</font></td>
+              <td valign="top" align="right"><font size="-1">$65 &nbsp;</font></td>
+              <td valign="top"><font size="-1">MIP w/ neat candy pack</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yummy empty original store display box</font></td>
+              <td valign="top" align="right"><font size="-1">$175 &nbsp;</font></td>
+              <td valign="top"><font size="-1">counter display</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Yummy</font></td>
+              <td valign="top" align="right"><font size="-1">$250 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Set of 5 MIP</font></td>
+            </tr>
+            <tr>
+              <td valign="top"><font size="-1">~</font></td>
+              <td valign="top"><font size="-1">Zombie</font></td>
+              <td valign="top" align="right"><font size="-1">$275 &nbsp;</font></td>
+              <td valign="top"><font size="-1">Eerie Spectre</font></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table><font face="verdana,arial,helvetica" size="-1"></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><b>Exact prices may have changed. Dealer has final say.</b></font></p>
+  </center>
+  <p><font face="verdana,arial,helvetica" size="-1"></font></p>
+  <hr noshade>
+  <center>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1"><a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a></font></font>
+    <hr noshade>
+    <font face="verdana,arial,helvetica" size="-1"><font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font></font>
+    <p><font face="verdana,arial,helvetica" size="-1"><font size="-1"></font></font></p>
+  </center>
+</body>
+</html>
