@@ -6,7 +6,7 @@
 <body bgcolor="#FFFFFF" link="#800000" vlink="#800000" alink="#101010">
   <font size="-1"></font>
   <center>
-    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.html">back to main</a><br></font>
   </center>
   <p><font size="+1">There are 51 dispensers matching your search for "<b>Smurf</b>"..</font><br></p>
   <p></p>
@@ -507,7 +507,7 @@
   <p></p>
   <hr noshade>
   <center>
-    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a></font>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.html">back to main</a></font>
     <hr noshade>
     <font size="-1">this site designed, programmed, and conceived by <a href="/me.htm">jamie gerdes</a></font>
     <p><font size="-1"></font></p>

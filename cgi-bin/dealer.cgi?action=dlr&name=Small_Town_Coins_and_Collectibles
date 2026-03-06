@@ -27,7 +27,7 @@
     <p></p>
     <hr noshade>
     <center>
-      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Small_Town_Coins_and_Collectibles">this dealer's items</a> | <a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.htm">back to main</a><br></font>
+      <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Small_Town_Coins_and_Collectibles">this dealer's items</a> | <a href="/cgi-bin/dealer.cgi">search page</a> | <a href="/index.html">back to main</a><br></font>
     </center>
   </blockquote>
 </body>

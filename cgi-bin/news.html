@@ -631,7 +631,7 @@
   <center>
     <font size="-1" face="arial,helvetica"></font>
     <p><font size="-1" face="arial,helvetica">|- <a target="display" href="/news/news.htm">News Main</a> -|<br></font><br>
-    <a target="_top" href="/index.htm"><img src="/images/b-main.gif" width="103" height="30" alt=" return to main" border="0"></a></p>
+    <a target="_top" href="/index.html"><img src="/images/b-main.gif" width="103" height="30" alt=" return to main" border="0"></a></p>
   </center>
 </body>
 </html>

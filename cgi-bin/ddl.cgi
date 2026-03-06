@@ -8,7 +8,7 @@
     <table border="0" width="550">
       <tr>
         <td valign="top">
-          <nobr><a href="/index.htm"><img src="/images/hdr-image.gif" width="162" height="75" border="0" alt="back to main"></a><img src="/images/h-ddl.gif" width="196" height="75" border="0" alt="ddl & otp"></nobr><br>
+          <nobr><a href="/index.html"><img src="/images/hdr-image.gif" width="162" height="75" border="0" alt="back to main"></a><img src="/images/h-ddl.gif" width="196" height="75" border="0" alt="ddl & otp"></nobr><br>
           <p></p>
           <center>
             <table border="0">
@@ -1148,7 +1148,7 @@
                       <input type="text" name="sendmail" size="20" maxlength="50">
                     </center>
                   </form>
-                  <p><a href="/index.htm"><img src="/images/b-main.gif" width="103" height="30" align="right" alt=" return to main" border="0"></a></p>
+                  <p><a href="/index.html"><img src="/images/b-main.gif" width="103" height="30" align="right" alt=" return to main" border="0"></a></p>
                 </td>
               </tr>
             </table>

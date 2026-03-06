@@ -16,7 +16,7 @@
   <p></p>
   <hr noshade>
   <center>
-    <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Ron_Barr">this dealer's items</a> | <a href="/dealers/index.htm">search page</a> | <a href="/index.htm">back to main</a><br></font>
+    <font size="-1"><a href="/cgi-bin/dealer.cgi?action=search&dealers=Ron_Barr">this dealer's items</a> | <a href="/dealers/index.html">search page</a> | <a href="/index.html">back to main</a><br></font>
   </center>
 </body>
 </html>
